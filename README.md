@@ -6,4 +6,4 @@ add in github
 
 heroku
 
-- git push heroku wordes
+- git push heroku wordes:master
