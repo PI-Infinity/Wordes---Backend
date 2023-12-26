@@ -4,7 +4,6 @@ const { Expo } = require("expo-server-sdk");
 let expo = new Expo();
 
 const sendPushNotifications = async (tokens) => {
-  console.log(tokens);
   let messages = [];
 
   for (let pushToken of tokens) {
@@ -21,7 +20,7 @@ const sendPushNotifications = async (tokens) => {
       data: { withSome: "data" },
     });
   }
-  console.log("here came");
+
   let chunks = expo.chunkPushNotifications(messages);
   let tickets = [];
   for (let chunk of chunks) {
