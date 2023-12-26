@@ -40,7 +40,7 @@ exports.createUser = catchAsync(async (req, res, next) => {
 exports.updateUser = catchAsync(async (req, res, next) => {
   const userId = req.params.id;
   let machineId = req.query.machineId;
-
+  console.log(req.body);
   try {
     let user;
     if (userId !== "undefined") {
