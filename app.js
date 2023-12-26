@@ -116,7 +116,7 @@ const { sendPushNotifications } = require("./src/utils/pushNotifications");
 const { updateDailyWordCounter } = require("./src/utils/dailyTotalCounter");
 const User = require("./src/models/userModel");
 
-cron.schedule("15 15 * * *", function () {
+cron.schedule("21 11 * * *", function () {
   console.log("run");
   const SendNotifs = async () => {
     const usersWithTokens = await User.find({
