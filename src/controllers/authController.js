@@ -197,6 +197,7 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
   if (findUser) {
     let u = filterUserFields(findUser);
     let user = { ...u, pushNotificationToken: pushNotificationToken };
+    await user.save({ validateBeforeSave: false });
     res.status(200).json({
       status: "success",
       user,
