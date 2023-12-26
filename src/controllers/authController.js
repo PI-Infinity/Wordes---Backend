@@ -165,7 +165,7 @@ exports.login = catchAsync(async (req, res, next) => {
   });
 });
 
-// Auth with apple
+// Auth with provider
 
 exports.providerAuth = catchAsync(async (req, res, next) => {
   // get unregistered user
@@ -195,9 +195,13 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
   let findUser = await User.findOne({ email });
 
   if (findUser) {
-    let u = filterUserFields(findUser);
-    let user = { ...u, pushNotificationToken: pushNotificationToken };
-    await user.save({ validateBeforeSave: false });
+    findUser.pushNotificationToken = pushNotificationToken;
+
+    // Save the findUser document
+    await findUser.save({ validateBeforeSave: false });
+
+    // Use a utility function to filter fields if necessary
+    let user = filterUserFields(findUser);
     res.status(200).json({
       status: "success",
       user,
