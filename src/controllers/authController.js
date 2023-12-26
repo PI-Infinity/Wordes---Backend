@@ -195,7 +195,8 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
   let findUser = await User.findOne({ email });
 
   if (findUser) {
-    let user = filterUserFields(findUser);
+    let u = filterUserFields(findUser);
+    let user = { ...u, pushNotificationToken: pushNotificationToken };
     res.status(200).json({
       status: "success",
       user,
