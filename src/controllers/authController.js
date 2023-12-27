@@ -171,15 +171,7 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
   // get unregistered user
   const machineId = req.query.machineId;
   const unauthorizedUser = await User.findOne({ name: machineId });
-  /* when not auhtorized user registers, define if it already registered or not.
-  if yes then return and dont create new not authorized user */
-  const authorizedUser = await User.findOne({ registerMachineId: machineId });
-  if (
-    req.body.registerType === "not authorized" &&
-    (authorizedUser || unauthorizedUser)
-  ) {
-    return;
-  }
+
   let packs;
   let stats;
   if (unauthorizedUser) {
@@ -199,6 +191,9 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
 
     // Save the findUser document
     await findUser.save({ validateBeforeSave: false });
+    if (unauthorizedUser) {
+      await User.findByIdAndDelete(unauthorizedUser._id);
+    }
 
     // Use a utility function to filter fields if necessary
     let user = filterUserFields(findUser);
@@ -223,8 +218,9 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
     });
 
     await user.save({ validateBeforeSave: false });
-
-    await User.findByIdAndDelete(unauthorizedUser._id);
+    if (unauthorizedUser) {
+      await User.findByIdAndDelete(unauthorizedUser._id);
+    }
 
     res.status(200).json({
       status: "success",
