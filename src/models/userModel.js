@@ -87,12 +87,12 @@ const userSchema = new mongoose.Schema({
     type: Date,
     default: Date.now(),
   },
-  // passwordChangedAt: Date,
   passwordResetToken: String,
   passwordResetExpires: Date,
   registerDevice: { type: String },
   registerType: { type: String },
   registerMachineId: { type: String },
+  appleIdentificator: { type: String, default: "" },
   acceptPrivacy: {
     type: Boolean,
     default: false,

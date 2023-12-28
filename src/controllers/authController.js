@@ -179,12 +179,17 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
     stats = unauthorizedUser.stats;
   }
 
-  const { name, email, pushNotificationToken } = req.body;
+  const { name, email, pushNotificationToken, identityToken } = req.body;
 
   const provider = req.query.provider;
   const device = req.query.device;
 
-  let findUser = await User.findOne({ email });
+  let findUser;
+  if (provider === "apple") {
+    findUser = await User.findOne({ appleIdentificator: identityToken });
+  } else {
+    findUser = await User.findOne({ email });
+  }
 
   if (findUser) {
     findUser.pushNotificationToken = pushNotificationToken;
@@ -215,6 +220,7 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
       pushNotificationToken: pushNotificationToken,
       packs: packs,
       stats: stats,
+      appleIdentificator: identityToken,
     });
 
     await user.save({ validateBeforeSave: false });
