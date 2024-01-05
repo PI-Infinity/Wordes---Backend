@@ -179,13 +179,16 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
 
   let findUser;
   if (provider === "apple") {
-    findUser = await User.findOne({ appleIdentificator: identityToken });
+    findUser = await User.findOne(
+      { appleIdentificator: identityToken } || { email: email }
+    );
   } else {
     findUser = await User.findOne({ email });
   }
 
   if (findUser) {
     findUser.pushNotificationToken = pushNotificationToken;
+    findUser.appleIdentificator = identityToken;
 
     // Save the findUser document
     await findUser.save({ validateBeforeSave: false });
@@ -296,6 +299,7 @@ exports.resetPassword = catchAsync(async (req, res, next) => {
   user.confirmPassword = req.body.confirmPassword;
   user.passwordResetToken = undefined;
   user.passwordResetExpires = undefined;
+  user.appleIdentificator = undefined;
 
   await user.save();
 
