@@ -179,9 +179,11 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
 
   let findUser;
   if (provider === "apple") {
-    findUser = await User.findOne(
-      { appleIdentificator: identityToken } || { email: email }
-    );
+    if (email?.length > 3) {
+      findUser = await User.findOne({ email: email });
+    } else {
+      findUser = await User.findOne({ appleIdentificator: identityToken });
+    }
   } else {
     findUser = await User.findOne({ email });
   }
