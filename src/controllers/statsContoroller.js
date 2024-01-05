@@ -2,7 +2,7 @@ const User = require("../models/userModel");
 const Word = require("../models/wordModel");
 const catchAsync = require("../utils/catchAsync");
 
-exports.addWord = async (req, res, next) => {
+exports.addWordStat = async (req, res, next) => {
   const userId = req.params.id;
   let inputData = req.body;
 
@@ -172,7 +172,7 @@ exports.getPercents = async (req, res, next) => {
 
     // Save the user document
     await user.save({ validateBeforeSave: false });
-
+    console.log(statistics);
     res.status(200).json({
       status: "success",
       data: statistics,
@@ -225,12 +225,10 @@ exports.pressCounter = async (req, res, next) => {
 
 // get word
 exports.getWord = async (req, res, next) => {
-  console.log(req.query);
   try {
     const wordObj = await Word.findOne({
-      en: req.query.en,
-      type: req.query.type,
-      level: req.query.level,
+      "word.en": req.query.en,
+      "pack.en": req.query.pack,
     });
 
     if (!wordObj) {
@@ -255,9 +253,9 @@ exports.getWord = async (req, res, next) => {
 
 // add word
 exports.addWord = catchAsync(async (req, res, next) => {
-  const { en, type, level } = req.body;
+  const { word, pack } = req.body;
 
-  let wordObj = await Word.findOne({ en: en, type: type, level: level });
+  let wordObj = await Word.findOne({ en: word.en, pack });
 
   if (wordObj) {
     // Check if the Spanish translation exists and English translation is provided

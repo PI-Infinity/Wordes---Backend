@@ -1,17 +1,9 @@
 const mongoose = require("mongoose");
 
 const wordSchema = new mongoose.Schema({
-  en: {
-    type: String,
-  },
-  es: {
-    type: String,
-  },
-  level: {
-    type: String,
-  },
-  type: {
-    type: String,
+  word: { type: Object },
+  pack: {
+    type: Object,
   },
   infos: {
     type: Object,

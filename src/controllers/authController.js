@@ -32,7 +32,6 @@ exports.signup = catchAsync(async (req, res, next) => {
     const unauthorizedUser = await User.findOne({ name: machineId });
 
     if (req.body.registerType === "not authorized" && unauthorizedUser) {
-      console.log("Return");
       return;
     }
     let packs;
@@ -152,12 +151,6 @@ exports.login = catchAsync(async (req, res, next) => {
   const filteredUser = filterUserFields(user);
 
   await user.save({ validateBeforeSave: false });
-
-  const machineId = req.query.machineId;
-  const unauthorizedUser = await User.findOne({ name: machineId });
-  if (unauthorizedUser) {
-    await User.findByIdAndDelete(unauthorizedUser._id);
-  }
 
   res.status(200).json({
     status: "success",

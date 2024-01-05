@@ -22,10 +22,12 @@ router
   .route("/users/:id")
   .get(users.getUser)
   .patch(users.updateUser)
-  .delete(users.deleteUser);
+  .delete(users.deleteUser)
+  .delete(users.deleteUnauthUser);
+router.route("/users/unauth/:deleteId").delete(users.deleteUnauthUser);
 
 // stats
-router.route("/users/:id/stats/addword").patch(stats.addWord);
+router.route("/users/:id/stats/addword").patch(stats.addWordStat);
 router.route("/users/:id/stats/percents").get(stats.getPercents);
 router.route("/users/:id/counter").patch(stats.pressCounter);
 

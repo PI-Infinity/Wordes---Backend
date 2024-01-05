@@ -13,12 +13,6 @@ exports.getUser = catchAsync(async (req, res, next) => {
     return next(new AppError("User not found with this id", 404));
   }
 
-  const machineId = req.query.machineId;
-  const unauthorizedUser = await User.findOne({ name: machineId });
-  if (unauthorizedUser) {
-    await User.findByIdAndDelete(unauthorizedUser._id);
-  }
-
   res.status(200).json({
     status: "success",
     data: { user: userObj },
@@ -36,11 +30,25 @@ exports.createUser = catchAsync(async (req, res, next) => {
     },
   });
 });
+// Delete unauthorized user
+exports.deleteUnauthUser = catchAsync(async (req, res, next) => {
+  const machineId = req.params.deleteId;
+
+  const unauthorizedUser = await User.findOne({ name: machineId });
+
+  if (unauthorizedUser) {
+    await User.findByIdAndDelete(unauthorizedUser._id);
+  }
+
+  res.status(201).json({
+    status: "success",
+  });
+});
 // update user
 exports.updateUser = catchAsync(async (req, res, next) => {
   const userId = req.params.id;
   let machineId = req.query.machineId;
-  console.log(req.body);
+
   try {
     let user;
     if (userId !== "undefined") {
@@ -90,8 +98,6 @@ exports.updateUser = catchAsync(async (req, res, next) => {
 // delete user
 exports.deleteUser = catchAsync(async (req, res, next) => {
   await User.findByIdAndDelete(req.params.id);
-
-  const userId = req.params.id;
 
   res.status(204).json({
     status: "success",

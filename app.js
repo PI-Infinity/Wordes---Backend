@@ -26,6 +26,7 @@ const allowedOrigins = [
   "exp://192.168.0.102:8081",
   "exp://192.168.0.101:19000",
   "exp://192.168.0.101:8081",
+  "exp://172.20.10.8",
   "*",
 ];
 app.use(
@@ -76,7 +77,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/version", (req, res) => {
-  res.send("1.0.0");
+  res.send("1.0.1");
 });
 
 // send email from user to support
