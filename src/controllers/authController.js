@@ -74,8 +74,6 @@ exports.signup = catchAsync(async (req, res, next) => {
       definedUser.passwordResetToken = undefined;
       definedUser.passwordResetExpires = undefined;
       definedUser.registerType = "email";
-      definedUser.packs = packs;
-      definedUser.stats = stats;
       await definedUser.save({ validateBeforeSave: false });
 
       if (unauthorizedUser) {
@@ -161,10 +159,11 @@ exports.login = catchAsync(async (req, res, next) => {
 // Auth with provider
 
 exports.providerAuth = catchAsync(async (req, res, next) => {
-  // get unregistered user
+  // get unregistered user. it is user which did not registered yet but use to app.
   const machineId = req.query.machineId;
   const unauthorizedUser = await User.findOne({ name: machineId });
 
+  // unauthorized user has packs and stats defined by no login app using.
   let packs;
   let stats;
   if (unauthorizedUser) {
@@ -172,11 +171,12 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
     stats = unauthorizedUser.stats;
   }
 
+  // providing user auth info
   const { name, email, pushNotificationToken, identityToken } = req.body;
-
   const provider = req.query.provider;
   const device = req.query.device;
 
+  // first find user if registered already or need to create new accaount
   let findUser;
   if (provider === "apple") {
     if (email?.length > 3) {
@@ -188,24 +188,33 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
     findUser = await User.findOne({ email });
   }
 
+  // if user defined, simple adding some addatioanl states and return user to frontend
   if (findUser) {
     findUser.pushNotificationToken = pushNotificationToken;
     findUser.appleIdentificator = identityToken;
 
-    // Save the findUser document
+    // Save new findUser document
     await findUser.save({ validateBeforeSave: false });
+
+    // delete unauthorized user object
     if (unauthorizedUser) {
       await User.findByIdAndDelete(unauthorizedUser._id);
     }
 
-    // Use a utility function to filter fields if necessary
+    // Use a utility function to filter fields and don't send some fields to front.
     let user = filterUserFields(findUser);
+
     res.status(200).json({
       status: "success",
       user,
     });
   } else {
+    // if user not defined create new user object with provider information
+
+    // create unknown password for provider auth, later if user trys to register by email and password, proccess simple changes this pass.
     const password = uuidv4();
+
+    // create user object
     const user = await User.create({
       name: name,
       email: email,
@@ -221,7 +230,7 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
       appleIdentificator: identityToken,
     });
 
-    await user.save({ validateBeforeSave: false });
+    // delete unauthorized user object
     if (unauthorizedUser) {
       await User.findByIdAndDelete(unauthorizedUser._id);
     }
@@ -234,7 +243,6 @@ exports.providerAuth = catchAsync(async (req, res, next) => {
 });
 
 // forgot password
-
 exports.forgotPassword = catchAsync(async (req, res, next) => {
   const user = await User.findOne({ email: req.body.email });
 

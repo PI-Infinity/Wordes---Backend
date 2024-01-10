@@ -51,9 +51,20 @@ const userRoutes = require("./src/routes/userRoutes");
 const { SendSimpleEmail } = require("./src/utils/emails");
 
 const list = require("./wordsList.json");
+const businessWords = require("./businessWords.json");
 
 app.get("/", (req, res) => {
   // Send the category and type counts as an HTML response.
+
+  const length = businessWords.map((i, x) => {
+    let obj = list.find((it) => it.en.toLowerCase() === i.word.toLowerCase());
+    if (obj) {
+      return obj.en;
+      // } else {
+      //   return JSON.stringify(i);
+      // }
+    }
+  });
 
   res.send(`
     <html>
@@ -65,9 +76,17 @@ app.get("/", (req, res) => {
         <div style="display: flex;">
           <ul style="flex: 1;">
         
-            ${
-              list.filter((i) => i.type === "adverb" && i.level === "B2").length
-            }
+            ${businessWords.map((i, x) => {
+              let obj = list.find(
+                (it) => it.en.toLowerCase() === i.word.toLowerCase()
+              );
+              if (obj) {
+                return obj.en;
+                // } else {
+                //   return JSON.stringify(i);
+                // }
+              }
+            })}
           </ul>
           
         </div>
@@ -77,7 +96,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/version", (req, res) => {
-  res.send("1.0.1");
+  res.send("1.0.2");
 });
 
 // send email from user to support

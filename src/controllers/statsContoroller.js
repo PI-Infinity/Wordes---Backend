@@ -17,7 +17,7 @@ exports.addWordStat = async (req, res, next) => {
 
     let packArray = stats[pack.value];
     let activeWordIndex = packArray.findIndex(
-      (i) => i.en === word.en && i.es === word.es
+      (i) => i.en === word.en && i.ka === word.ka
     );
 
     if (answer === "true") {

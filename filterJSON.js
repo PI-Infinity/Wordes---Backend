@@ -1,49 +1,43 @@
 const fs = require("fs");
-const filePath = "wordsList.json"; // The name of your JSON file
 
-// Read the JSON file
-fs.readFile(filePath, "utf8", (err, data) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
+// Assuming wordsData is your array of objects
+const wordsData = require("./wordsList.json");
 
+function removeDuplicates(data) {
+  const seen = new Set();
+  return data.filter((item) => {
+    const key = `${item.en}|${item.type}`;
+    if (seen.has(key)) {
+      return false; // Skip this item as it's a duplicate
+    } else {
+      seen.add(key);
+      return true; // Keep this item as it's the first occurrence
+    }
+  });
+}
+
+// Main function to process and save the file
+function processAndSave() {
   try {
-    // Parse the JSON data.
-    const jsonData = JSON.parse(data);
+    const uniqueData = removeDuplicates(wordsData);
 
-    // Modify items where the "type" property is 'noun'
-    const modifiedData = jsonData.map((item) => {
-      // Check if the type is 'noun' and uppercase the first letter of the English representation
-      if (item.type === "noun" && typeof item.en === "string") {
-        item.en = item.en.charAt(0).toLowerCase() + item.en.slice(1);
-      }
-
-      // If type is an array, convert it to a string
-      if (Array.isArray(item.type)) {
-        item.type = item.type.join(", ");
-      }
-
-      return item;
-    });
-
-    // Define the new file path
-    const newFilePath = "modifiedWordsList2.json";
-
-    // Write the modified data to a new JSON file
+    // Write the unique data to a new file
     fs.writeFile(
-      newFilePath,
-      JSON.stringify(modifiedData, null, 2),
+      "uniqueWords.json",
+      JSON.stringify(uniqueData, null, 2),
       "utf8",
       (err) => {
         if (err) {
-          console.error(err);
+          console.error("Error writing to file:", err);
           return;
         }
-        console.log("Modified JSON data saved successfully to " + newFilePath);
+        console.log("Unique data saved successfully.");
       }
     );
-  } catch (parseError) {
-    console.error("Error parsing JSON:", parseError);
+  } catch (error) {
+    console.error("Error processing files:", error);
   }
-});
+}
+
+// Call the main function
+processAndSave();

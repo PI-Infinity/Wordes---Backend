@@ -1,0 +1,7994 @@
+[
+  {
+    "en": "ability",
+    "es": "habilidad",
+    "ka": "უნარი",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "absent",
+    "es": "ausente",
+    "ka": "არყოფნის",
+    "level": "C1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "accept",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "according to",
+    "es": "según",
+    "level": "A2",
+    "type": "preposition",
+    "category": "business"
+  },
+  {
+    "en": "account",
+    "es": "cuenta",
+    "ka": "ანგარიში",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "accounting (department)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "acknowledge",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "acquisition",
+    "es": "adquisición",
+    "ka": "შეძენა",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "act",
+    "es": "acto",
+    "ka": "მოქმედება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "actually",
+    "es": "realmente, de hecho",
+    "ka": "რეალურად",
+    "level": "a2",
+    "type": "adverb",
+    "category": "business"
+  },
+  {
+    "en": "actuary",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "added value",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "address",
+    "es": "dirección",
+    "ka": "მისამართი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "addressee",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "admit",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "advance (in advance)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "advance payment",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "advantage",
+    "es": "ventaja",
+    "ka": "უპირატესობა",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "advertise",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "advertisement (ad)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "advertising agency",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "advice",
+    "es": "consejo",
+    "ka": "რჩევები",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "advice of payment",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "advise",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "affect",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "afford",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "after-sales service",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "agenda",
+    "es": "agenda",
+    "ka": "დღის წესრიგი",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "agent",
+    "es": "agente",
+    "ka": "აგენტი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "agreement",
+    "es": "acuerdo",
+    "ka": "შეთანხმება",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "ahead of the pack",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "air freight",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "airway bill",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "aisle",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "alignment",
+    "es": "alineación",
+    "ka": "განლაგება",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "alternative",
+    "es": "alternativa",
+    "ka": "ალტერნატივა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "amount due",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "amplify",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "anecdote",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "annotate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Annual General Meeting (AGM)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "annual leave",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "apartment",
+    "es": "apartamento",
+    "ka": "ბინა",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "apology",
+    "es": "disculpa",
+    "ka": "ბოდიში",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "appendix",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "application",
+    "es": "solicitud, aplicación",
+    "ka": "აპლიკაცია",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "apply for a job",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "apply (e.g., a technique)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "appoint",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "approach",
+    "es": "enfoque",
+    "ka": "მიდგომა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "approval (on approval)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "approve",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "arbitration",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "arithmetic",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "article",
+    "es": "artículo",
+    "ka": "სტატია",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "articles of association",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "articulate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "as mentioned",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "assessment",
+    "es": "evaluación",
+    "ka": "შეფასება",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "assessor",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "asset",
+    "es": "activo",
+    "ka": "აქტივი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "attendee",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "attorney",
+    "es": "abogado",
+    "ka": "ადვოკატი",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "audience rapport",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "augment",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "author",
+    "es": "autor",
+    "ka": "ავტორი",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "authorized share capital",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "authorization",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "authorize",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "available",
+    "es": "disponible",
+    "ka": "ხელმისაწვდომია",
+    "level": "a2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "avoid",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "back to square one",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "back up",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "background",
+    "es": "fondo, antecedentes",
+    "ka": "ფონი",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "baggage claim",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "balance",
+    "es": "equilibrio",
+    "ka": "ბალანსი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "balance sheet",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "ballot",
+    "es": "voto",
+    "ka": "კენჭისყრა",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "ballpark number/figure",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bandwidth",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bank",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bank account",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bank charges",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bank transfer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "banknote",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bargain price",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "barometer stock",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "barrister",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "base rate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bearish market",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bedrock price",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "behavior",
+    "es": "comportamiento",
+    "ka": "ქცევა",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "benchmarking",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "benefit",
+    "es": "beneficio",
+    "ka": "სარგებელი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "best practice",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "best regards",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bid",
+    "es": "oferta",
+    "ka": "bid",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "big data",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "big picture",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bi-lingual",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bill",
+    "es": "factura",
+    "ka": "ანგარიში",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "bill of exchange",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bill of lading",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "billboard",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "billion",
+    "es": "mil millones",
+    "level": "a2",
+    "type": "number",
+    "category": "business"
+  },
+  {
+    "en": "bind",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bit",
+    "es": "poco",
+    "ka": "bit",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "black market",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "blank cheque",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bleeding edge",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "blue-chip stocks",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "blue-sky thinking",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "blurb",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "board",
+    "es": "tabla",
+    "ka": "დაფა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "board of directors",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "boarding pass",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "body",
+    "es": "cuerpo",
+    "ka": "სხეული",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "body language",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bond",
+    "es": "bono, vínculo",
+    "ka": "ბონდი",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "bonus",
+    "es": "bonificación",
+    "ka": "ბონუსი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "borrow",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bottom line",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "box",
+    "es": "caja",
+    "ka": "box",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "break",
+    "es": "descanso",
+    "ka": "შესვენება",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "branch",
+    "es": "rama, sucursal",
+    "ka": "ფილიალი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "brand",
+    "es": "marca",
+    "ka": "ბრენდი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "brand new",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "brand awareness",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "branding",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "break",
+    "es": "descanso",
+    "ka": "შესვენება",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "bridging loan",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "brief",
+    "es": "breve",
+    "ka": "მოკლე",
+    "level": "b2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "brisk trade",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "broadsheet",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "browser",
+    "es": "navegador",
+    "ka": "ბრაუზერი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "budget",
+    "es": "presupuesto",
+    "ka": "ბიუჯეტი",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "build",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "building",
+    "es": "edificio",
+    "ka": "შენობა",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "building society",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bullish market",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "bureau de change",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "business",
+    "es": "negocio",
+    "ka": "ბიზნესი",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "business angel",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "business plan",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "buy",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "buyer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "buy-in",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "by the book",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "byte",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "calculate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "call",
+    "es": "llamada",
+    "ka": "ზარი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "campaign",
+    "es": "campaña",
+    "ka": "კამპანია",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "cancel",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "candidate",
+    "es": "candidato",
+    "ka": "კანდიდატი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "capital",
+    "es": "capital",
+    "ka": "კაპიტალი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "capital stock",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "capitalisation issue",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "career",
+    "es": "carrera",
+    "ka": "კარიერა",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "cargo",
+    "es": "carga",
+    "ka": "ტვირთი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "carriage free",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "carriage paid to",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "case",
+    "es": "caso, estuche",
+    "ka": "საქმე",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "cash",
+    "es": "efectivo",
+    "ka": "ნაღდი ფული",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "cash dispenser",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "cash flow statement",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "cash refund offer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "cashier",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "casting vote",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "censor",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "certificate of origin",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "chain store",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "chairman",
+    "es": "presidente",
+    "ka": "თავმჯდომარე",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "challenge",
+    "es": "desafío",
+    "ka": "გამოწვევა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "change",
+    "es": "cambio",
+    "ka": "შეცვლა",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "chapter",
+    "es": "capítulo",
+    "ka": "თავი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "charge",
+    "es": "cargo",
+    "ka": "დატენვა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "charge for",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "check",
+    "es": "cheque",
+    "ka": "შემოწმება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "check in",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "checkbook",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "cheque",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "choose",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "circulation",
+    "es": "circulación",
+    "ka": "ტირაჟი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "cite",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "claim",
+    "es": "reclamación",
+    "ka": "პრეტენზია",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "clarify",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "classified ads",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "clause",
+    "es": "cláusula",
+    "ka": "პუნქტი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "click",
+    "es": "clic",
+    "ka": "დააწკაპუნეთ",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "client",
+    "es": "cliente",
+    "ka": "კლიენტი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "close",
+    "es": "cierre",
+    "ka": "დახურვა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "close a deal",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "coin",
+    "es": "moneda",
+    "ka": "მონეტა",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "cold call",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "collaborate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "commercial",
+    "es": "comercial",
+    "ka": "კომერციული",
+    "level": "B1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "commission",
+    "es": "comisión",
+    "ka": "კომისია",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "commitment",
+    "es": "compromiso",
+    "ka": "ვალდებულება",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "commodities",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "communicate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "company",
+    "es": "empresa",
+    "ka": "კომპანია",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "comparison",
+    "es": "comparación",
+    "ka": "შედარება",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "competition",
+    "es": "competencia",
+    "ka": "კონკურენცია",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "competitor",
+    "es": "competidor",
+    "ka": "კონკურენტი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "complain",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "complete",
+    "es": "completo",
+    "ka": "სრული",
+    "level": "A1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "comprehensive",
+    "es": "exhaustivo",
+    "ka": "ყოვლისმომცველი",
+    "level": "B2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "compromise",
+    "es": "compromiso",
+    "ka": "კომპრომისი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "concept",
+    "es": "concepto",
+    "ka": "კონცეფცია",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "condition",
+    "es": "condición",
+    "ka": "მდგომარეობა",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "conference",
+    "es": "conferencia",
+    "ka": "კონფერენცია",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "conference call",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "confirm",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "confirmation",
+    "es": "confirmación",
+    "ka": "დადასტურება",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "consensus",
+    "es": "consenso",
+    "ka": "კონსენსუსი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "consequential loss",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "consider",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "consultant",
+    "es": "consultor",
+    "ka": "კონსულტანტი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "consumer",
+    "es": "consumidor",
+    "ka": "მომხმარებელი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "container",
+    "es": "contenedor",
+    "ka": "კონტეინერი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "content",
+    "es": "contenido",
+    "ka": "შინაარსი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "contract",
+    "es": "contrato",
+    "ka": "კონტრაქტი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "convenience store",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "convince",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "cookie",
+    "es": "galleta",
+    "ka": "ქუქი",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "coordinate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "copyright",
+    "es": "derecho de autor",
+    "ka": "საავტორო უფლებები",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "core business",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "core competency",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "corner the market",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "corporate synergy",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "correspondent",
+    "es": "corresponsal",
+    "ka": "კორესპონდენტი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "cost",
+    "es": "costo",
+    "ka": "ღირებულება",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "cost of sales",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "count",
+    "es": "conteo",
+    "ka": "დათვლა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "counteroffer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "counter-productive",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "coupon",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "court of law",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "cover",
+    "es": "cubierta",
+    "ka": "საფარი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "cover letter",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "coworking",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "credit",
+    "es": "crédito",
+    "ka": "კრედიტი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "credit card",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "creditor",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "creditors",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "critic",
+    "es": "crítico",
+    "ka": "კრიტიკოსი",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "crowdfunding",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "currency",
+    "es": "moneda",
+    "ka": "ვალუტა",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "current account",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "curriculum vitae (CV)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "customer",
+    "es": "cliente",
+    "ka": "მომხმარებელი",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "customer service department",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "customs",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "cut-throat",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "data",
+    "es": "datos",
+    "ka": "მონაცემები",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "date",
+    "es": "fecha",
+    "ka": "თარიღი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "date of birth",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "deadline",
+    "es": "fecha límite",
+    "ka": "ბოლო ვადა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "deal",
+    "es": "acuerdo",
+    "ka": "გარიგება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "debit",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "debt",
+    "es": "deuda",
+    "ka": "ვალი",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "debtor",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "debtors",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "decide",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "decision",
+    "es": "decisión",
+    "ka": "გადაწყვეტილება",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "declare",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "decrease",
+    "es": "disminución",
+    "ka": "დაკლება",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "deep dive",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "defendant",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "deficit",
+    "es": "déficit",
+    "ka": "დეფიციტი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "deliver",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "deliverable",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "delivery",
+    "es": "entrega",
+    "ka": "მიწოდება",
+    "level": "b2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "demystify",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "department",
+    "es": "departamento",
+    "ka": "განყოფილება",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "department store",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "departures board",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "deposit",
+    "es": "depósito",
+    "ka": "დეპოზიტი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "deposit account",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "derivative",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "descend",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "description",
+    "es": "descripción",
+    "ka": "აღწერილობა",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "desk",
+    "es": "escritorio",
+    "ka": "საწერი მაგიდა",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "develop",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "development",
+    "es": "desarrollo",
+    "ka": "განვითარება",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "dictate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "difference",
+    "es": "diferencia",
+    "ka": "განსხვავება",
+    "level": "a1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "digital marketing",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "digital strategy",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "direct investment",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "direct mail",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "director",
+    "es": "director",
+    "ka": "რეჟისორი",
+    "level": "a2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "disadvantage",
+    "es": "desventaja",
+    "ka": "მინუსი",
+    "level": "b1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "discount",
+    "es": "descuento",
+    "ka": "ფასდაკლება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "discreet",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "dismiss",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "dispatch",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "disruption",
+    "es": "interrupción",
+    "ka": "შეშლა",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "disruptive",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "distribute",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "distribution",
+    "es": "distribución",
+    "ka": "განაწილება",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "diversify",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "divide",
+    "es": "división",
+    "ka": "გაყოფა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "dividend",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "document",
+    "es": "documento",
+    "ka": "დოკუმენტი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "domestic",
+    "es": "doméstico",
+    "ka": "შინაური",
+    "level": "B2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "donate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "double-page spread",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "downsell",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "downsizing",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "draft",
+    "es": "borrador",
+    "ka": "დრაფტი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "dress code",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "drill down",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "drop",
+    "es": "gota",
+    "ka": "ჩავარდნა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "dubious",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "due",
+    "es": "debido",
+    "ka": "გამო",
+    "level": "B1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "duly signed",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "dutiable",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "duty free",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "duty-free",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "easy come, easy go",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "e-commerce",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "economies of scale",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "edit",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "editing",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "editor",
+    "es": "editor",
+    "ka": "რედაქტორი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "editorial",
+    "es": "editorial",
+    "ka": "რედაქტორული",
+    "level": "B2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "education",
+    "es": "educación",
+    "ka": "განათლება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "elevator",
+    "es": "ascensor",
+    "ka": "ლიფტი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "e-marketing",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "embodiment",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "emerging markets",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "empiric",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "employ",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "employee",
+    "es": "empleado",
+    "ka": "თანამშრომლი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "employer",
+    "es": "empleador",
+    "ka": "დამსაქმებელი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "employer's liability",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "enclosed",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "encourage",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "end of play",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "end user",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "end-user",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "enquiry",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "entrepreneur",
+    "es": "emprendedor",
+    "ka": "მეწარმე",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "environment",
+    "es": "ambiente",
+    "ka": "გარემო",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "equal",
+    "es": "igual",
+    "ka": "თანაბარი",
+    "level": "B1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "equipment",
+    "es": "equipo",
+    "ka": "მოწყობილობა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "equities",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "equity",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "establish",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "estate agent",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "estimate",
+    "es": "estimación",
+    "ka": "შეფასება",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "evidence",
+    "es": "evidencia",
+    "ka": "მტკიცებულება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "exaggerated",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "excerpt",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "excess baggage",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "exchange",
+    "es": "intercambio",
+    "ka": "გაცვლა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "exchange rate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "exclusive rights",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "executive officer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "expand",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "expenses",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "experience",
+    "es": "experiencia",
+    "ka": "გამოცდილება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "explanation",
+    "es": "explicación",
+    "ka": "ახსნა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "exponential",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "extend",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "extension of payment time",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "extranet",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "eye-catcher",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "facilitate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "facilities",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "factor",
+    "es": "factor",
+    "ka": "ფაქტორი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "factory",
+    "es": "fábrica",
+    "ka": "ქარხანა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "failure to pay",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "fall",
+    "es": "caída",
+    "ka": "დაცემა",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "feasible",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "feature",
+    "es": "característica",
+    "ka": "ფუნქცია",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "features",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "fee",
+    "es": "tarifa",
+    "ka": "საფასური",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "feedback",
+    "es": "retroalimentación",
+    "ka": "უკუკავშირი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "fiction",
+    "es": "ficción",
+    "ka": "მხატვრული ლიტერატურა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "Figure out",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "file",
+    "es": "archivo",
+    "ka": "ფაილი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "fill in",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "fire (someone from a job)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "firm offer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "fix",
+    "es": "solución",
+    "ka": "გასწორება",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "flight",
+    "es": "vuelo",
+    "ka": "ფრენა",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "flight attendant",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "flip chart",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "fluent",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "follow-up",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "font",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "for example...",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "for sale",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "force majeure",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "forecast",
+    "es": "pronóstico",
+    "ka": "პროგნოზი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "foreign exchange",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "franchise",
+    "es": "franquicia",
+    "ka": "ფრენჩაიზია",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "free of charge",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "freehold",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "freelance",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Freemium",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "freight",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "fringe benefits",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "front cover",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "front page",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "fulfil",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "full-time (job)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "fund",
+    "es": "fondo",
+    "ka": "ფონდი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "furnished",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Futures",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "game plan",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "gate",
+    "es": "puerta",
+    "ka": "კარიბჭე",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "generic advertising",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "get down to business",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "get something off the ground",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "get the ball rolling",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "get worse",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "gig economy",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "go down the drain",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "go into administration",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "go public",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "go the extra mile",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "goal",
+    "es": "meta",
+    "ka": "გოლი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "going forward",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "goods",
+    "es": "bienes",
+    "ka": "საქონელი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "goods in transit",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "grant",
+    "es": "subvención",
+    "ka": "გრანტი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "ground floor",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "growth",
+    "es": "crecimiento",
+    "ka": "ზრდა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "guarantee",
+    "es": "garantía",
+    "ka": "გარანტია",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "guidance",
+    "es": "orientación",
+    "ka": "ხელმძღვანელობა",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "guilty",
+    "es": "culpable",
+    "ka": "დამნაშავე",
+    "level": "B1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "hand luggage",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "handout",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "hands are tied",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "hard currency",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "hardback",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "hardware",
+    "es": "hardware",
+    "ka": "ტექნიკა",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "headline",
+    "es": "titular",
+    "ka": "სათაური",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "headquarters",
+    "es": "sede central",
+    "ka": "შტაბი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "helicopter view",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "hereby",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "herein",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "hereinafter",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "hire",
+    "es": "alquiler",
+    "ka": "დაქირავება",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "hoarding",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Human Resources (HR)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "hundred",
+    "es": "cien",
+    "level": "A1",
+    "type": "number",
+    "category": "business"
+  },
+  {
+    "en": "hype",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "ideate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "immigration officer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "impact",
+    "es": "impacto",
+    "ka": "ზემოქმედება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "Implement",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "improve",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "improvement",
+    "es": "mejora",
+    "ka": "გაუმჯობესება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "In a nutshell",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "in behalf of",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "in bulk",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "in conclusion,...",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "in full swing",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "in the driver's seat",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "inadequate packing",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Incentivize",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "included",
+    "es": "incluido",
+    "ka": "შედის",
+    "level": "A2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "income statement",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "increase",
+    "es": "aumento",
+    "ka": "გაზრდის",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "index",
+    "es": "índice",
+    "ka": "ინდექსი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "induced",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "industry",
+    "es": "industria",
+    "ka": "ინდუსტრია",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "inevitable",
+    "es": "inevitable",
+    "ka": "გარდაუვალი",
+    "level": "B2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "inflation",
+    "es": "inflación",
+    "ka": "ინფლაცია",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "inform",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "information technology",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "initial order",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "input",
+    "es": "entrada",
+    "ka": "შეყვანა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "inquiry",
+    "es": "consulta",
+    "ka": "გამოკითხვა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "Insider",
+    "es": "informante",
+    "ka": "შინაგანი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "Insider dealing / trading",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "insistent",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "install",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Instalment",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "instructions",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "insurance",
+    "es": "seguro",
+    "ka": "დაზღვევა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "insurance broker",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "interest",
+    "es": "interés",
+    "ka": "ინტერესი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "interoperability",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Interrupt",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "interview",
+    "es": "entrevista",
+    "ka": "ინტერვიუ",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "Intranet",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "introductory price",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "inventory",
+    "es": "inventario",
+    "ka": "ინვენტარი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "invest",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "investment",
+    "es": "inversión",
+    "ka": "ინვესტიცია",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "invoice",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "irrevocable",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "issue",
+    "es": "cuestión",
+    "ka": "საკითხი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "item",
+    "es": "artículo",
+    "ka": "item",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "jet lag",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "jingle",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "join",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Joint venture",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "journalist",
+    "es": "periodista",
+    "ka": "ჟურნალისტი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "judge",
+    "es": "juez",
+    "ka": "მოსამართლე",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "jury",
+    "es": "jurado",
+    "ka": "ჟიური",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "keep one's eye on the ball",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "key words",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "keyboard",
+    "es": "teclado",
+    "ka": "კლავიატურა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "know-how",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "knowledge",
+    "es": "conocimiento",
+    "ka": "ცოდნა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "label",
+    "es": "etiqueta",
+    "ka": "label",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "labour",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "landlord",
+    "es": "propietario",
+    "ka": "მემამულე",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "launch",
+    "es": "lanzamiento",
+    "ka": "გაშვება",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "lawsuit",
+    "es": "demanda",
+    "ka": "სარჩელი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "lawyer",
+    "es": "abogado",
+    "ka": "ადვოკატი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "lead",
+    "es": "plomo",
+    "ka": "წამყვანი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "leadership",
+    "es": "liderazgo",
+    "ka": "ხელმძღვანელობა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "leaflet",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Learn the ropes",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "leasehold",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "legal tender",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "lend",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "lengthen",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "let",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "letter of credit",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "letterhead",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "leverage",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "liabilities",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "liability",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "liable",
+    "es": "responsable",
+    "ka": "ვალდებული",
+    "level": "C1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "lien",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "lift",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "limit",
+    "es": "límite",
+    "ka": "ლიმიტი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "linear",
+    "es": "lineal",
+    "ka": "ხაზოვანი",
+    "level": "C1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "loan",
+    "es": "préstamo",
+    "ka": "სესხი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "logistics",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Long shot",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "loss",
+    "es": "pérdida",
+    "ka": "დაკარგვა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "loss adjuster",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "low Hanging Fruit",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "lower",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "low-hanging fruit",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "lucrative",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "mailshot",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "main point",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "maintain",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "make redundant",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "manage",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "management",
+    "es": "gestión",
+    "ka": "მენეჯმენტი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "manager",
+    "es": "gerente",
+    "ka": "მენეჯერი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "managing director",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "margin",
+    "es": "margen",
+    "ka": "ზღვარი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "mark up",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "marker",
+    "es": "marcador",
+    "ka": "მარკერი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "market",
+    "es": "mercado",
+    "ka": "ბაზრობა",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "market leader",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "market research",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "marketing",
+    "es": "mercadotecnia",
+    "ka": "მარკეტინგი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "marketing department",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "mass media",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "maternity leave",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "matters arising",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "measure",
+    "es": "medida",
+    "ka": "ზომა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "media",
+    "es": "medios de comunicación",
+    "ka": "მედია",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "meeting",
+    "es": "reunión",
+    "ka": "შეხვედრა",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "memory",
+    "es": "memoria",
+    "ka": "მეხსიერება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "mention",
+    "es": "mención",
+    "ka": "ხსენება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "merchandise",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "merchant bank",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "merger",
+    "es": "fusión",
+    "ka": "შერწყმა",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "message",
+    "es": "mensaje",
+    "ka": "მესიჯი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "microphone",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "million",
+    "es": "millón",
+    "level": "A1",
+    "type": "number",
+    "category": "business"
+  },
+  {
+    "en": "minus",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "minutes",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "miscellaneous",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "mistake",
+    "es": "error",
+    "ka": "შეცდომა",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "modem",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "monetization",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "money order",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "mortgage",
+    "es": "hipoteca",
+    "ka": "იპოთეკა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "motivate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "move the needle",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "multinational",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "multiply",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "multitask",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "multitude",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "mutual fund",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "narrative",
+    "es": "narrativa",
+    "ka": "თხრობა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "nationality",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "native language",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "negotiate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "net price",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "network",
+    "es": "red",
+    "ka": "ქსელი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "networking",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "news website",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "no strings attached",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "no-brainer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "non profit organization",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "non-fiction",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "not going to fly",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "notice",
+    "es": "aviso",
+    "ka": "შენიშვნა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "notorious",
+    "es": "notorio",
+    "ka": "ცნობილი",
+    "level": "C1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "objection",
+    "es": "objeción",
+    "ka": "პროტესტი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "objective",
+    "es": "objetivo",
+    "ka": "ობიექტური",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "obliged",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "obtain",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "offer",
+    "es": "oferta",
+    "ka": "შემოთავაზება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "on request",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "on the one hand",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "on the same page",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "online",
+    "es": "en línea",
+    "ka": "ონლაინ",
+    "level": "A1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "online banking",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "operating system",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "operations",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "opinion",
+    "es": "opinión",
+    "ka": "აზრი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "opinion leader",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "opportunity",
+    "es": "oportunidad",
+    "ka": "შესაძლებლობა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "opportunity cost",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "option",
+    "es": "opción",
+    "ka": "ოფცია",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "order",
+    "es": "orden",
+    "ka": "შეკვეთა",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "orderform",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "ordinary share",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "organisation chart",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "organise",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "organize",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "out in the open",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "out of pocket",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "output",
+    "es": "producción",
+    "ka": "გამომავალი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "outsource",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "outsourcing",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "overcome",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "overdraf",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "overdrawn",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "overdue",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "overhead",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "overhead projector",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "overheads",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "owe",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "own",
+    "es": "propio",
+    "ka": "საკუთარი",
+    "level": "A1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "pack",
+    "es": "paquete",
+    "ka": "შეფუთვა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "packaging",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "packing list",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "paper",
+    "es": "papel",
+    "ka": "ქაღალდი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "paperback",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "par value",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "paradigm",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "participate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "partnership",
+    "es": "sociedad",
+    "ka": "პარტნიორობა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "party",
+    "es": "fiesta",
+    "ka": "წვეულება",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "part-time (job)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "pay",
+    "es": "pago",
+    "ka": "გადახდა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "pay in",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "payable by you",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "payee",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "paying-in slip",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "payment",
+    "es": "pago",
+    "ka": "გადახდა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "penalty",
+    "es": "penalización",
+    "ka": "პენალტი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "penny stock",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "perennial",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "peripheral",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "perk",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "permission",
+    "es": "permiso",
+    "ka": "ნებართვა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "perseverance",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "personnel",
+    "es": "personal",
+    "ka": "პერსონალი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "personnel department",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "personnel officer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "petty cash",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "ping",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "pivotal",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "plan",
+    "es": "plan",
+    "ka": "გეგმა",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "platform",
+    "es": "plataforma",
+    "ka": "პლატფორმა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "plausible",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "plead",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "plug",
+    "es": "enchufe",
+    "ka": "შტეფსელი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "plus",
+    "es": "más",
+    "level": "B1",
+    "type": "preposition",
+    "category": "business"
+  },
+  {
+    "en": "point of sale",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "point out",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "pointer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "policy",
+    "es": "política",
+    "ka": "პოლიტიკა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "policyholder",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "portfolio",
+    "es": "portafolio",
+    "ka": "პორტფოლიო",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "possibility",
+    "es": "posibilidad",
+    "ka": "შესაძლებლობა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "poster",
+    "es": "póster",
+    "ka": "პოსტერი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "postpone",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "pragmatic",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "preferential rate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "premium",
+    "es": "prima",
+    "ka": "პრემიუმი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "preparation",
+    "es": "preparación",
+    "ka": "მომზადება",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "present",
+    "es": "actual",
+    "ka": "აწმყო",
+    "level": "A1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "presentation",
+    "es": "presentación",
+    "ka": "პრეზენტაცია",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "president",
+    "es": "presidente",
+    "ka": "პრეზიდენტი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "prespect",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "prevent",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "price",
+    "es": "precio",
+    "ka": "ფასი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "price point",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "prime time",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "prior notice",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "prioritize",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "privacy policy",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "pro forma invoice",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "process",
+    "es": "proceso",
+    "ka": "პროცესი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "produce",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "product",
+    "es": "producto",
+    "ka": "პროდუქტი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "product liability",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "product line",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "production",
+    "es": "producción",
+    "ka": "წარმოება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "production department",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "profit",
+    "es": "beneficio",
+    "ka": "მოგება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "profit and loss account",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "profit margin",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "profound",
+    "es": "profundo",
+    "ka": "ღრმა",
+    "level": "C1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "program",
+    "es": "programa",
+    "ka": "პროგრამა",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "project",
+    "es": "proyecto",
+    "ka": "პროექტი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "prolific",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "promise",
+    "es": "promesa",
+    "ka": "დაპირება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "promote",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "promotion",
+    "es": "promoción",
+    "ka": "დაწინაურება",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "propelling",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "property",
+    "es": "propiedad",
+    "ka": "საკუთრება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "proposal",
+    "es": "propuesta",
+    "ka": "წინადადება",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "prosecutor",
+    "es": "fiscal",
+    "ka": "პროკურორი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "prospect",
+    "es": "perspectiva",
+    "ka": "პერსპექტივა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "prospects",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "provide",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "proxy vote",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "public liability",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "public relations",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "purchase",
+    "es": "compra",
+    "ka": "ყიდვა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "purchasing department",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "put all one's eggs in one basket",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "put the cart before the horse",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "qualifications",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "quarter",
+    "es": "cuarto",
+    "ka": "კვარტალი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "quarterly",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "quay",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "quick win",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "quota",
+    "es": "cuota",
+    "ka": "კვოტა",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "quotation",
+    "es": "cita",
+    "ka": "ციტატა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "quote a price",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "raise",
+    "es": "aumento",
+    "ka": "ამაღლება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "Raise the bar",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Range",
+    "es": "rango",
+    "ka": "დიაპაზონი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "range rate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "reach",
+    "es": "alcance",
+    "ka": "მიღწევა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "Research and Development Department (R&D department)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "reach a consensus",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Reach Out",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "ready for despatch",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "real estate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Rebate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "Receipt",
+    "es": "recibo",
+    "ka": "მიღება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "receive",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "reception",
+    "es": "recepción",
+    "ka": "მიღება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "recipient",
+    "es": "receptor",
+    "ka": "მიმღები",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "Recommend",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "recruit",
+    "es": "recluta",
+    "ka": "გაწვევა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "recruitment",
+    "es": "reclutamiento",
+    "ka": "დასაქმება",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "red tape",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "reduce",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "reduction",
+    "es": "reducción",
+    "ka": "შემცირება",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "reference",
+    "es": "referencia",
+    "ka": "მინიშნება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "Refund",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "refuse",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "registered",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "registered letter",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "registered mail",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "reimbursement",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "reinsurance",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "reject",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "remind",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "reminder",
+    "es": "recordatorio",
+    "ka": "შეხსენება",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "remittance",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "remote work",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "remove",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "remuneration",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "renew",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "repair",
+    "es": "reparación",
+    "ka": "შეკეთება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "repeat order",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "replacement",
+    "es": "reemplazo",
+    "ka": "ჩანაცვლება",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "reply",
+    "es": "respuesta",
+    "ka": "პასუხი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "report",
+    "es": "informe",
+    "ka": "ანგარიში",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "representative",
+    "es": "representante",
+    "ka": "წარმომადგენელი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "requirement",
+    "es": "requisito",
+    "ka": "მოთხოვნა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "resign",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "respite",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "respond",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "responsibility",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "result",
+    "es": "resultado",
+    "ka": "შედეგი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "retail",
+    "es": "venta al por menor",
+    "ka": "ცალობით",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "retail price",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "retail price index (RPI)",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "retailer",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "retargeting",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "retire",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "return",
+    "es": "retorno",
+    "ka": "დაბრუნება",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "revenue",
+    "es": "ingresos",
+    "ka": "შემოსავლები",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "reward sales",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "rise",
+    "es": "aumento",
+    "ka": "აწევა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "risk",
+    "es": "riesgo",
+    "ka": "რისკი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "roadside signs",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "rock the boat",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "runway",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "sabotage",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "safe bet",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "salary",
+    "es": "salario",
+    "ka": "ხელფასი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "sales",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "sales department",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "salutation",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "same boat",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "sample",
+    "es": "muestra",
+    "ka": "ნიმუში",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "scalable",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "scale",
+    "es": "escala",
+    "ka": "მასშტაბი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "schedule",
+    "es": "horario",
+    "ka": "განრიგი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "screen",
+    "es": "pantalla",
+    "ka": "ეკრანი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "sector",
+    "es": "sector",
+    "ka": "სექტორი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "security",
+    "es": "seguridad",
+    "ka": "უსაფრთხოება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "see eye to eye",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "see something through",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "sell",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "send",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "sensationalism",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "separate",
+    "es": "separado",
+    "ka": "ცალკე",
+    "level": "A2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "service",
+    "es": "servicio",
+    "ka": "მომსახურება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "set up",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "sever ties",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "share",
+    "es": "parte",
+    "ka": "გაზიარება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "share certificate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "share premium",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "shareholder",
+    "es": "accionista",
+    "ka": "აქციონერი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "shipment",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "shipping",
+    "es": "envío",
+    "ka": "მიწოდება",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "shipping agent",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "shoot something down",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "shopping centre",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "shorten",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "shorthand",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "show of hands",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "sick leave",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "signal",
+    "es": "señal",
+    "ka": "სიგნალი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "signature",
+    "es": "firma",
+    "ka": "ხელმოწერა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "skill",
+    "es": "habilidad",
+    "ka": "უნარი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "skill set",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "skim",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "slide",
+    "es": "tobogán",
+    "ka": "სლაიდი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "slogan",
+    "es": "eslogan",
+    "ka": "სლოგანი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "slot",
+    "es": "ranura",
+    "ka": "სლოტი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "smooth sailing",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "social media",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "soft currency",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "software",
+    "es": "software",
+    "ka": "პროგრამული უზრუნველყოფა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "sold out",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "solicitor",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "soundbite",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "spare parts",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "speculate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "speculator",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "split",
+    "es": "división",
+    "ka": "გაყოფა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "sponsor",
+    "es": "patrocinador",
+    "ka": "სპონსორი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "square",
+    "es": "cuadrado",
+    "ka": "კვადრატი",
+    "level": "A2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "square root",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "staff",
+    "es": "personal",
+    "ka": "პერსონალი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "stakeholder",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "stakeholders",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "stand one's ground",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "standing order",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "startup",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "statement",
+    "es": "declaración",
+    "ka": "განცხადება",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "statement of account",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "status report",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "stipulate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "stock",
+    "es": "existencias",
+    "ka": "stock",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "stockbroker",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "stockholder",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "stopover",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "store",
+    "es": "tienda",
+    "ka": "მაღაზია",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "storey",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "story",
+    "es": "historia",
+    "ka": "ამბავი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "strategy",
+    "es": "estrategia",
+    "ka": "სტრატეგია",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "strength",
+    "es": "fuerza",
+    "ka": "ძლიერება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "strike",
+    "es": "huelga",
+    "ka": "გაფიცვა",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "structure",
+    "es": "estructura",
+    "ka": "სტრუქტურა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "subscribe",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "subtle",
+    "es": "sutil",
+    "ka": "დახვეწილი",
+    "level": "C1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "subtract",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "succeed",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "success",
+    "es": "éxito",
+    "ka": "წარმატება",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "sue",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "suggest",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "suggestion",
+    "es": "sugerencia",
+    "ka": "წინადადება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "sum up",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "summary",
+    "es": "resumen",
+    "ka": "რეზიუმე",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "supervise",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "supplier",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "supply",
+    "es": "suministro",
+    "ka": "მომარაგება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "supply chain",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "support",
+    "es": "apoyo",
+    "ka": "მხარდაჭერა",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "sustainability",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "tabloid",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "take on",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "take the bull by the horns",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "takeover",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "talk someone into something",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "talk someone out of something",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "target",
+    "es": "objetivo",
+    "ka": "სამიზნე",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "task",
+    "es": "tarea",
+    "ka": "დავალება",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "taxonomy",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "team-player",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "telecommuting",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "telephone marketing",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "tenant",
+    "es": "inquilino",
+    "ka": "მოქირავნე",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "tender",
+    "es": "tierno",
+    "ka": "ნაზი",
+    "level": "C1",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "terms",
+    "es": "términos",
+    "ka": "ტერმინები",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "terms of payment",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "the elephant in the room",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "think outside the box",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "thousand",
+    "es": "mil",
+    "level": "A1",
+    "type": "number",
+    "category": "business"
+  },
+  {
+    "en": "ticket",
+    "es": "boleto",
+    "ka": "ბილეთი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "time's up",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "tip",
+    "es": "propina",
+    "ka": "წვერი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "title",
+    "es": "título",
+    "ka": "სათაური",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "to be grateful",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "to be short-listed",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "to enclose",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "to grant a discount",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "to inquire",
+    "es": "preguntar",
+    "ka": "დაკითხვა",
+    "level": "C1",
+    "type": "verb",
+    "category": "business"
+  },
+  {
+    "en": "to invoice",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "to quote a price",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "to refund",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "to request",
+    "es": "solicitar",
+    "ka": "მოთხოვნა",
+    "level": "B1",
+    "type": "verb",
+    "category": "business"
+  },
+  {
+    "en": "to retail",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "to ship",
+    "es": "enviar",
+    "ka": "გადაგზავნა",
+    "level": "B2",
+    "type": "verb",
+    "category": "business"
+  },
+  {
+    "en": "to sign",
+    "es": "firmar",
+    "ka": "ხელმოწერა",
+    "level": "A2",
+    "type": "verb",
+    "category": "business"
+  },
+  {
+    "en": "to start with...",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "to whom it may concern",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "touch base",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "traction",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "trade fair",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "trade union",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "trademark",
+    "es": "marca registrada",
+    "ka": "სავაჭრო ნიშანი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "trader",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "trading session",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "trainee",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "training",
+    "es": "entrenamiento",
+    "ka": "ვარჯიში",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "training course",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "transaction",
+    "es": "transacción",
+    "ka": "ტრანზაქცია",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "transcend",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "transit passenger",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "transport",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "trial",
+    "es": "juicio",
+    "ka": "საცდელი",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "trillion",
+    "es": "billón",
+    "level": "B2",
+    "type": "number",
+    "category": "business"
+  },
+  {
+    "en": "turning now to...",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "turnkey",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "turnover",
+    "es": "facturación",
+    "ka": "ბრუნვა",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "twist someone's arm",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "typeset",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "unanimous",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "underestimate",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "underpin",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "unemployment benefits",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "union",
+    "es": "unión",
+    "ka": "კავშირი",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "unit price",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "unit trusts",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "unpack",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "unsaleable",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "up in the air",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "uphill battle",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "upper hand",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "upsell",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "vacancy",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "valid",
+    "es": "válido",
+    "ka": "მოქმედი",
+    "level": "B2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "value",
+    "es": "valor",
+    "ka": "ღირებულება",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "vary",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "venture capital",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "verdict",
+    "es": "veredicto",
+    "ka": "განაჩენი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "vertical",
+    "es": "vertical",
+    "ka": "ვერტიკალური",
+    "level": "B2",
+    "type": "adjective",
+    "category": "business"
+  },
+  {
+    "en": "vice president",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "video conference",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "viral marketing",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "virus",
+    "es": "virus",
+    "ka": "ვირუსი",
+    "level": "A2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "visual aids",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "vote",
+    "es": "voto",
+    "ka": "ხმა",
+    "level": "B1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "warehouse",
+    "es": "almacén",
+    "ka": "საწყობი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "warrant",
+    "es": "orden",
+    "ka": "გარანტი",
+    "level": "C1",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "waybill",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "weakness",
+    "es": "debilidad",
+    "ka": "სისუსტე",
+    "level": "B2",
+    "type": "noun",
+    "category": "business"
+  },
+  {
+    "en": "wheelhouse",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "whereas",
+    "es": "mientras que",
+    "level": "B2",
+    "type": "conjunction",
+    "category": "business"
+  },
+  {
+    "en": "whiteboard",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "wholesale",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "wholesaler",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "with reference to",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "withdraw",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "without prejudice",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "word of mouth",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "work history",
+    "es": "",
+    "ka": "",
+    "level": "",
+    "type": "",
+    "category": "business"
+  },
+  {
+    "en": "worker",
+    "es": "trabajador",
+    "ka": "მუშაკი",
+    "level": "A1",
+    "type": "noun",
+    "category": "business"
+  }
+]
