@@ -16,6 +16,7 @@ const allowedOrigins = [
   "http://192.168.0.104:3000",
   "http://192.168.0.105:3000",
   "http://192.168.0.106:3000",
+  "http://192.168.1.6:3000",
   "exp://192.168.0.104:19000",
   "exp://192.168.0.104:8081",
   "exp://192.168.0.100:19000",
@@ -51,20 +52,29 @@ const userRoutes = require("./src/routes/userRoutes");
 const { SendSimpleEmail } = require("./src/utils/emails");
 
 const list = require("./wordsList.json");
-const businessWords = require("./businessWords.json");
 
 app.get("/", (req, res) => {
   // Send the category and type counts as an HTML response.
 
-  const length = businessWords.map((i, x) => {
-    let obj = list.find((it) => it.en.toLowerCase() === i.word.toLowerCase());
-    if (obj) {
-      return obj.en;
-      // } else {
-      //   return JSON.stringify(i);
-      // }
-    }
-  });
+  const nouns = list
+    .map((i, x) => {
+      if (i.type === "noun") {
+        return i.en;
+      }
+    })
+    .filter((it) => it);
+
+  const verbs = list
+    ?.map((i, x) => {
+      if (i.type === "verb") {
+        let v = i.en.split(" ")[1];
+        let found = nouns.find((it) => it === v);
+        if (found) {
+          return i.en;
+        }
+      }
+    })
+    .filter((itm) => itm);
 
   res.send(`
     <html>
@@ -76,17 +86,7 @@ app.get("/", (req, res) => {
         <div style="display: flex;">
           <ul style="flex: 1;">
         
-            ${businessWords.map((i, x) => {
-              let obj = list.find(
-                (it) => it.en.toLowerCase() === i.word.toLowerCase()
-              );
-              if (obj) {
-                return obj.en;
-                // } else {
-                //   return JSON.stringify(i);
-                // }
-              }
-            })}
+            ${verbs}
           </ul>
           
         </div>
@@ -96,7 +96,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/version", (req, res) => {
-  res.send("1.0.2");
+  res.send("1.0.3");
 });
 
 // send email from user to support

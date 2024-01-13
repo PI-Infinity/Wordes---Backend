@@ -85,11 +85,16 @@ exports.signup = catchAsync(async (req, res, next) => {
         newUser: definedUser,
       });
     } else {
-      const newUser = await User.create({
-        ...req.body,
-        packs: packs,
-        stats: stats,
-      });
+      let newUser;
+      if (packs || stats) {
+        newUser = await User.create({
+          ...req.body,
+          packs: packs,
+          stats: stats,
+        });
+      } else {
+        newUser = await User.create(req.body);
+      }
 
       await newUser.save({ validateBeforeSave: false });
 

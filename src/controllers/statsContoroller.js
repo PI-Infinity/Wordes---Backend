@@ -1,6 +1,7 @@
 const User = require("../models/userModel");
 const Word = require("../models/wordModel");
 const catchAsync = require("../utils/catchAsync");
+const WordsList = require("../../wordsList.json");
 
 exports.addWordStat = async (req, res, next) => {
   const userId = req.params.id;
@@ -16,9 +17,7 @@ exports.addWordStat = async (req, res, next) => {
     }
 
     let packArray = stats[pack.value];
-    let activeWordIndex = packArray.findIndex(
-      (i) => i.en === word.en && i.ka === word.ka
-    );
+    let activeWordIndex = packArray.findIndex((i) => i.en === word.en);
 
     if (answer === "true") {
       if (activeWordIndex > -1) {
@@ -99,67 +98,99 @@ exports.getPercents = async (req, res, next) => {
     // Unlock packs
     const packThresholds = {
       "Common Used Nouns A1": {
-        total: 396 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "noun" && i.level === "A1")
+            .length * 5,
         nextPack: "Common Used Nouns A2",
       },
       "Common Used Nouns A2": {
-        total: 412 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "noun" && i.level === "A2")
+            .length * 5,
         nextPack: "Common Used Nouns B1",
       },
       "Common Used Nouns B1": {
-        total: 347 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "noun" && i.level === "B1")
+            .length * 5,
         nextPack: "Common Used Nouns B2",
       },
       "Common Used Nouns B2": {
-        total: 721 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "noun" && i.level === "B2")
+            .length * 5,
         nextPack: "Common Used Nouns C1",
       },
       "Common Used Verbs A1": {
-        total: 150 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "verb" && i.level === "A1")
+            .length * 5,
         nextPack: "Common Used Verbs A2",
       },
       "Common Used Verbs A2": {
-        total: 157 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "verb" && i.level === "A2")
+            .length * 5,
         nextPack: "Common Used Verbs B1",
       },
       "Common Used Verbs B1": {
-        total: 173 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "verb" && i.level === "B1")
+            .length * 5,
         nextPack: "Common Used Verbs B2",
       },
       "Common Used Verbs B2": {
-        total: 340 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "verb" && i.level === "B2")
+            .length * 5,
         nextPack: "Common Used Verbs C1",
       },
       "Common Used Adjectives A1": {
-        total: 123 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "adjective" && i.level === "A1")
+            .length * 5,
         nextPack: "Common Used Adjectives A2",
       },
       "Common Used Adjectives A2": {
-        total: 140 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "adjective" && i.level === "A2")
+            .length * 5,
         nextPack: "Common Used Adjectives B1",
       },
       "Common Used Adjectives B1": {
-        total: 154 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "adjective" && i.level === "B1")
+            .length * 5,
         nextPack: "Common Used Adjectives B2",
       },
       "Common Used Adjectives B2": {
-        total: 281 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "adjective" && i.level === "B2")
+            .length * 5,
         nextPack: "Common Used Adjectives C1",
       },
       "Common Used Adverbs A1": {
-        total: 91 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "adverb" && i.level === "A1")
+            .length * 5,
         nextPack: "Common Used Adverbs A2",
       },
       "Common Used Adverbs A2": {
-        total: 55 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "adverb" && i.level === "A2")
+            .length * 5,
         nextPack: "Common Used Adverbs B1",
       },
       "Common Used Adverbs B1": {
-        total: 60 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "adverb" && i.level === "B1")
+            .length * 5,
         nextPack: "Common Used Adverbs B2",
       },
       "Common Used Adverbs B2": {
-        total: 88 * 5,
+        total:
+          WordsList?.filter((i) => i.type === "adverb" && i.level === "B2")
+            .length * 5,
         nextPack: "Common Used Adverbs C1",
       },
     };

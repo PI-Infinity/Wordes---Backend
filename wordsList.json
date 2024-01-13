@@ -3,7 +3,7 @@
     "en": "a",
     "es": "un, una (artículo indefinido)",
     "ka": "განუსაზღვრელი არტიკლი არტიკლი",
-    "level": "a1",
+    "level": "A1",
     "type": "indefinite article",
     "example": {
       "en": "a cat",
@@ -13,7 +13,7 @@
   {
     "en": "To abandon",
     "es": "abandonar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "abandon hope",
@@ -24,7 +24,7 @@
   {
     "en": "ability",
     "es": "habilidad",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily", "academic", "business"],
     "example": {
@@ -36,7 +36,7 @@
   {
     "en": "able",
     "es": "capaz",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "able to swim",
@@ -47,7 +47,7 @@
   {
     "en": "abroad",
     "es": "en el extranjero",
-    "level": "b2",
+    "level": "B2",
     "type": "adverb",
     "example": {
       "en": "study abroad",
@@ -58,7 +58,7 @@
   {
     "en": "absolute",
     "es": "absoluto",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "absolute truth",
@@ -69,7 +69,7 @@
   {
     "en": "absolutely",
     "es": "absolutamente",
-    "level": "b1",
+    "level": "B1",
     "type": "adverb",
     "example": {
       "en": "absolutely sure",
@@ -80,7 +80,7 @@
   {
     "en": "academic",
     "es": "académico",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "academic research",
@@ -179,7 +179,7 @@
   {
     "en": "achievement",
     "es": "logro",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["daily", "academic", "business"],
     "example": {
@@ -191,7 +191,7 @@
   {
     "en": "To acknowledge",
     "es": "reconocer",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "acknowledge a fact",
@@ -202,7 +202,7 @@
   {
     "en": "To acquire",
     "es": "adquirir",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "acquire skills",
@@ -213,7 +213,7 @@
   {
     "en": "action",
     "es": "acción",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "business", "politic", "technology"],
     "example": {
@@ -225,7 +225,7 @@
   {
     "en": "active",
     "es": "activo",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "stay active",
@@ -236,7 +236,7 @@
   {
     "en": "activity",
     "es": "actividad",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "travel", "healthcare"],
     "example": {
@@ -248,7 +248,7 @@
   {
     "en": "actor",
     "es": "actor",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["art", "entertainment"],
     "example": {
@@ -260,7 +260,7 @@
   {
     "en": "actress",
     "es": "actriz",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["art", "entertainment"],
     "example": {
@@ -272,7 +272,7 @@
   {
     "en": "actual",
     "es": "real, efectivo",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "actual results",
@@ -283,7 +283,7 @@
   {
     "en": "actually",
     "es": "realmente, de hecho",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "actually surprised",
@@ -294,7 +294,7 @@
   {
     "en": "To adapt",
     "es": "adaptar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "adapt to changes",
@@ -305,7 +305,7 @@
   {
     "en": "To add",
     "es": "añadir",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "add sugar",
@@ -316,7 +316,7 @@
   {
     "en": "addition",
     "es": "adición",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["mathematics", "daily"],
     "example": {
@@ -328,7 +328,7 @@
   {
     "en": "additional",
     "es": "adicional",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "additional information",
@@ -339,7 +339,7 @@
   {
     "en": "administration",
     "es": "administración",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["business", "politic"],
     "example": {
@@ -351,7 +351,7 @@
   {
     "en": "To admire",
     "es": "admirar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "admire the view",
@@ -362,7 +362,7 @@
   {
     "en": "To admit",
     "es": "admitir",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "admit a mistake",
@@ -373,7 +373,7 @@
   {
     "en": "To adopt",
     "es": "adoptar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "adopt a policy",
@@ -384,7 +384,7 @@
   {
     "en": "advanced",
     "es": "avanzado",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "advanced technology",
@@ -395,7 +395,7 @@
   {
     "en": "advantage",
     "es": "ventaja",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily", "business", "sport"],
     "example": {
@@ -407,7 +407,7 @@
   {
     "en": "adventure",
     "es": "aventura",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["travel", "entertainment"],
     "example": {
@@ -419,7 +419,7 @@
   {
     "en": "To advertise",
     "es": "anunciar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "advertise a product",
@@ -430,7 +430,7 @@
   {
     "en": "advertisement",
     "es": "anuncio",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["marketing", "business"],
     "example": {
@@ -442,7 +442,7 @@
   {
     "en": "advertising",
     "es": "publicidad",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["marketing", "business"],
     "example": {
@@ -454,7 +454,7 @@
   {
     "en": "advice",
     "es": "consejo",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -466,7 +466,7 @@
   {
     "en": "To advise",
     "es": "aconsejar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "advise caution",
@@ -477,7 +477,7 @@
   {
     "en": "affair",
     "es": "asunto",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["daily", "politic", "business"],
     "example": {
@@ -489,7 +489,7 @@
   {
     "en": "To affect",
     "es": "afectar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "affect the outcome",
@@ -500,7 +500,7 @@
   {
     "en": "To afford",
     "es": "permitirse",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "afford a car",
@@ -511,7 +511,7 @@
   {
     "en": "afraid",
     "es": "temeroso, asustado",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "afraid of dark",
@@ -522,7 +522,7 @@
   {
     "en": "afternoon",
     "es": "tarde",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -534,7 +534,7 @@
   {
     "en": "afterward",
     "es": "después, posteriormente",
-    "level": "b2",
+    "level": "B2",
     "type": "adverb",
     "example": {
       "en": "shortly afterward",
@@ -545,7 +545,7 @@
   {
     "en": "again",
     "es": "otra vez, de nuevo",
-    "level": "a1",
+    "level": "A1",
     "type": "adverb",
     "example": {
       "en": "try again",
@@ -556,7 +556,7 @@
   {
     "en": "against",
     "es": "en contra de",
-    "level": "a2",
+    "level": "A2",
     "type": "preposition",
     "example": {
       "en": "against the rules",
@@ -566,7 +566,7 @@
   {
     "en": "agency",
     "es": "agencia",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["business", "politic", "travel"],
     "example": {
@@ -578,7 +578,7 @@
   {
     "en": "agenda",
     "es": "agenda",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["business", "daily", "politic"],
     "example": {
@@ -590,7 +590,7 @@
   {
     "en": "agent",
     "es": "agente",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["business", "law", "travel"],
     "example": {
@@ -602,7 +602,7 @@
   {
     "en": "aggressive",
     "es": "agresivo",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "aggressive behavior",
@@ -613,7 +613,7 @@
   {
     "en": "ago",
     "es": "hace",
-    "level": "a1",
+    "level": "A1",
     "type": "adverb",
     "example": {
       "en": "two years ago",
@@ -624,7 +624,7 @@
   {
     "en": "To agree",
     "es": "estar de acuerdo",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "agree to terms",
@@ -635,7 +635,7 @@
   {
     "en": "agreement",
     "es": "acuerdo",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["business", "law", "daily"],
     "example": {
@@ -647,7 +647,7 @@
   {
     "en": "ah",
     "es": "ah",
-    "level": "a2",
+    "level": "A2",
     "type": "exclamation",
     "example": {
       "en": "Ah, I see",
@@ -657,7 +657,7 @@
   {
     "en": "ahead",
     "es": "adelante, por delante",
-    "level": "b1",
+    "level": "B1",
     "type": "adverb",
     "example": {
       "en": "plan ahead",
@@ -668,7 +668,7 @@
   {
     "en": "air",
     "es": "aire",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "environment"],
     "example": {
@@ -680,7 +680,7 @@
   {
     "en": "aircraft",
     "es": "aeronave",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["travel", "technology"],
     "example": {
@@ -692,7 +692,7 @@
   {
     "en": "airline",
     "es": "aerolínea",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["travel", "business"],
     "example": {
@@ -704,7 +704,7 @@
   {
     "en": "airport",
     "es": "aeropuerto",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["travel"],
     "example": {
@@ -716,7 +716,7 @@
   {
     "en": "album",
     "es": "álbum",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["entertainment", "daily"],
     "example": {
@@ -728,7 +728,7 @@
   {
     "en": "alcohol",
     "es": "alcohol",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["healthcare", "daily"],
     "example": {
@@ -740,7 +740,7 @@
   {
     "en": "alcoholic",
     "es": "alcohólico",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "alcoholic beverages",
@@ -751,7 +751,7 @@
   {
     "en": "alive",
     "es": "vivo",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "stay alive",
@@ -762,7 +762,7 @@
   {
     "en": "To allow",
     "es": "permitir",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "allow time",
@@ -773,7 +773,7 @@
   {
     "en": "almost",
     "es": "casi",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "almost finished",
@@ -784,7 +784,7 @@
   {
     "en": "already",
     "es": "ya",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "already done",
@@ -795,7 +795,7 @@
   {
     "en": "also",
     "es": "también",
-    "level": "a1",
+    "level": "A1",
     "type": "adverb",
     "example": {
       "en": "also important",
@@ -806,7 +806,7 @@
   {
     "en": "To alter",
     "es": "alterar, modificar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "alter plans",
@@ -817,7 +817,7 @@
   {
     "en": "although",
     "es": "aunque",
-    "level": "a2",
+    "level": "A2",
     "type": "conjunction",
     "example": {
       "en": "although difficult",
@@ -827,7 +827,7 @@
   {
     "en": "always",
     "es": "siempre",
-    "level": "a1",
+    "level": "A1",
     "type": "adverb",
     "example": {
       "en": "always happy",
@@ -838,7 +838,7 @@
   {
     "en": "amazed",
     "es": "asombrado",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "amazed by",
@@ -849,7 +849,7 @@
   {
     "en": "amazing",
     "es": "asombroso",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "amazing view",
@@ -860,7 +860,7 @@
   {
     "en": "ambition",
     "es": "ambición",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["daily", "academic", "business"],
     "example": {
@@ -872,7 +872,7 @@
   {
     "en": "among",
     "es": "entre",
-    "level": "a2",
+    "level": "A2",
     "type": "preposition",
     "example": {
       "en": "among friends",
@@ -882,7 +882,7 @@
   {
     "en": "analysis",
     "es": "análisis",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["academic", "business", "science"],
     "example": {
@@ -894,7 +894,7 @@
   {
     "en": "To analyze",
     "es": "analizar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "analyze data",
@@ -905,7 +905,7 @@
   {
     "en": "ancient",
     "es": "antiguo",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "ancient civilization",
@@ -916,7 +916,7 @@
   {
     "en": "and",
     "es": "y",
-    "level": "a1",
+    "level": "A1",
     "type": "conjunction",
     "example": {
       "en": "bread and butter",
@@ -926,7 +926,7 @@
   {
     "en": "anger",
     "es": "ira",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["daily", "psychology"],
     "example": {
@@ -938,7 +938,7 @@
   {
     "en": "angle",
     "es": "ángulo",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["mathematics", "daily"],
     "example": {
@@ -950,7 +950,7 @@
   {
     "en": "angry",
     "es": "enojado",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "angry face",
@@ -961,7 +961,7 @@
   {
     "en": "animal",
     "es": "animal",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "science"],
     "example": {
@@ -973,7 +973,7 @@
   {
     "en": "ankle",
     "es": "tobillo",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["healthcare", "daily"],
     "example": {
@@ -985,7 +985,7 @@
   {
     "en": "anniversary",
     "es": "aniversario",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["daily", "social"],
     "example": {
@@ -997,7 +997,7 @@
   {
     "en": "To announce",
     "es": "anunciar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "announce news",
@@ -1008,7 +1008,7 @@
   {
     "en": "announcement",
     "es": "anuncio",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["business", "daily"],
     "example": {
@@ -1020,7 +1020,7 @@
   {
     "en": "To annoy",
     "es": "molestar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "annoy someone",
@@ -1031,7 +1031,7 @@
   {
     "en": "annoyed",
     "es": "molesto",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "feel annoyed",
@@ -1042,7 +1042,7 @@
   {
     "en": "annoying",
     "es": "molesto",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "annoying habit",
@@ -1053,7 +1053,7 @@
   {
     "en": "annual",
     "es": "anual",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "annual event",
@@ -1064,7 +1064,7 @@
   {
     "en": "anxious",
     "es": "ansioso",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "feel anxious",
@@ -1075,7 +1075,7 @@
   {
     "en": "anybody",
     "es": "cualquiera",
-    "level": "a2",
+    "level": "A2",
     "type": "pronoun",
     "example": {
       "en": "know anybody",
@@ -1085,7 +1085,7 @@
   {
     "en": "anymore",
     "es": "ya no",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "not anymore",
@@ -1096,7 +1096,7 @@
   {
     "en": "anyone",
     "es": "alguien",
-    "level": "a1",
+    "level": "A1",
     "type": "pronoun",
     "example": {
       "en": "anyone here",
@@ -1106,7 +1106,7 @@
   {
     "en": "anything",
     "es": "cualquier cosa",
-    "level": "a1",
+    "level": "A1",
     "type": "pronoun",
     "example": {
       "en": "do anything",
@@ -1116,7 +1116,7 @@
   {
     "en": "anyway",
     "es": "de todos modos",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "say it anyway",
@@ -1127,7 +1127,7 @@
   {
     "en": "apart",
     "es": "separado",
-    "level": "b1",
+    "level": "B1",
     "type": "adverb",
     "example": {
       "en": "live apart",
@@ -1138,7 +1138,7 @@
   {
     "en": "apartment",
     "es": "apartamento",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "travel"],
     "example": {
@@ -1150,7 +1150,7 @@
   {
     "en": "To apologize",
     "es": "disculparse",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "apologize for",
@@ -1161,7 +1161,7 @@
   {
     "en": "app",
     "es": "aplicación",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["technology"],
     "example": {
@@ -1173,7 +1173,7 @@
   {
     "en": "apparent",
     "es": "aparente",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "apparent reason",
@@ -1184,7 +1184,7 @@
   {
     "en": "apparently",
     "es": "aparentemente",
-    "level": "b2",
+    "level": "B2",
     "type": "adverb",
     "example": {
       "en": "apparently true",
@@ -1195,7 +1195,7 @@
   {
     "en": "To appear",
     "es": "aparecer",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "appear suddenly",
@@ -1206,7 +1206,7 @@
   {
     "en": "appearance",
     "es": "apariencia",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily", "social"],
     "example": {
@@ -1218,7 +1218,7 @@
   {
     "en": "apple",
     "es": "manzana",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "food"],
     "example": {
@@ -1228,9 +1228,69 @@
     "ka": "ვაშლი"
   },
   {
+    "en": "pich",
+    "es": "manzana",
+    "level": "A1",
+    "type": "noun",
+    "category": ["daily", "food"],
+    "example": {
+      "en": "eat an apple",
+      "es": "comer una manzana"
+    },
+    "ka": "ატამი"
+  },
+  {
+    "en": "strawberry",
+    "es": "manzana",
+    "level": "A1",
+    "type": "noun",
+    "category": ["daily", "food"],
+    "example": {
+      "en": "eat an apple",
+      "es": "comer una manzana"
+    },
+    "ka": "მარწყვი"
+  },
+  {
+    "en": "pich",
+    "es": "manzana",
+    "level": "A1",
+    "type": "noun",
+    "category": ["daily", "food"],
+    "example": {
+      "en": "eat an apple",
+      "es": "comer una manzana"
+    },
+    "ka": "ატამი"
+  },
+  {
+    "en": "cherry",
+    "es": "manzana",
+    "level": "A1",
+    "type": "noun",
+    "category": ["daily", "food"],
+    "example": {
+      "en": "eat an apple",
+      "es": "comer una manzana"
+    },
+    "ka": "ალუბალი"
+  },
+  {
+    "en": "grapes",
+    "es": "manzana",
+    "level": "A1",
+    "type": "noun",
+    "category": ["daily", "food"],
+    "example": {
+      "en": "eat an apple",
+      "es": "comer una manzana"
+    },
+    "ka": "ყურძენი"
+  },
+  {
     "en": "application",
     "es": "solicitud, aplicación",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["business", "technology"],
     "example": {
@@ -1242,7 +1302,7 @@
   {
     "en": "To apply",
     "es": "solicitar, aplicar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "apply for a job",
@@ -1253,7 +1313,7 @@
   {
     "en": "appointment",
     "es": "cita",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["daily", "business", "healthcare"],
     "example": {
@@ -1265,7 +1325,7 @@
   {
     "en": "To appreciate",
     "es": "apreciar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "appreciate art",
@@ -1276,7 +1336,7 @@
   {
     "en": "appropriate",
     "es": "apropiado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "appropriate response",
@@ -1287,7 +1347,7 @@
   {
     "en": "To approve",
     "es": "aprobar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "approve a plan",
@@ -1298,7 +1358,7 @@
   {
     "en": "approximately",
     "es": "aproximadamente",
-    "level": "b1",
+    "level": "B1",
     "type": "adverb",
     "example": {
       "en": "approximately ten",
@@ -1309,7 +1369,7 @@
   {
     "en": "april",
     "es": "abril",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -1321,7 +1381,7 @@
   {
     "en": "architect",
     "es": "arquitecto",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["occupation"],
     "example": {
@@ -1333,7 +1393,7 @@
   {
     "en": "architecture",
     "es": "arquitectura",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["art", "education"],
     "example": {
@@ -1345,7 +1405,7 @@
   {
     "en": "area",
     "es": "área, zona",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "geography"],
     "example": {
@@ -1357,7 +1417,7 @@
   {
     "en": "To argue",
     "es": "discutir",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "argue about",
@@ -1368,7 +1428,7 @@
   {
     "en": "To arise",
     "es": "surgir",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "problems arise",
@@ -1379,7 +1439,7 @@
   {
     "en": "arm",
     "es": "brazo",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "healthcare"],
     "example": {
@@ -1391,7 +1451,7 @@
   {
     "en": "armed",
     "es": "armado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "armed forces",
@@ -1402,7 +1462,7 @@
   {
     "en": "arms",
     "es": "armas",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["politic", "law"],
     "example": {
@@ -1414,7 +1474,7 @@
   {
     "en": "army",
     "es": "ejército",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["politic", "history"],
     "example": {
@@ -1426,7 +1486,7 @@
   {
     "en": "To arrange",
     "es": "organizar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "arrange a meeting",
@@ -1437,7 +1497,7 @@
   {
     "en": "arrival",
     "es": "llegada",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["travel"],
     "example": {
@@ -1449,7 +1509,7 @@
   {
     "en": "To arrive",
     "es": "llegar",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "arrive on time",
@@ -1460,7 +1520,7 @@
   {
     "en": "art",
     "es": "arte",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["art", "culture"],
     "example": {
@@ -1472,7 +1532,7 @@
   {
     "en": "article",
     "es": "artículo",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "academic", "business"],
     "example": {
@@ -1484,7 +1544,7 @@
   {
     "en": "artificial",
     "es": "artificial",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "artificial intelligence",
@@ -1495,7 +1555,7 @@
   {
     "en": "artist",
     "es": "artista",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["art", "entertainment"],
     "example": {
@@ -1507,7 +1567,7 @@
   {
     "en": "artistic",
     "es": "artístico",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "artistic talent",
@@ -1518,7 +1578,7 @@
   {
     "en": "ashamed",
     "es": "avergonzado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "feel ashamed",
@@ -1529,7 +1589,7 @@
   {
     "en": "aside",
     "es": "a un lado",
-    "level": "b2",
+    "level": "B2",
     "type": "adverb",
     "example": {
       "en": "step aside",
@@ -1540,7 +1600,7 @@
   {
     "en": "To ask",
     "es": "preguntar, pedir",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "ask a question",
@@ -1551,7 +1611,7 @@
   {
     "en": "asleep",
     "es": "dormido",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "fall asleep",
@@ -1562,7 +1622,7 @@
   {
     "en": "aspect",
     "es": "aspecto",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["daily", "business", "academic"],
     "example": {
@@ -1574,7 +1634,7 @@
   {
     "en": "To assess",
     "es": "evaluar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "assess the situation",
@@ -1585,7 +1645,7 @@
   {
     "en": "assessment",
     "es": "evaluación",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["academic", "business"],
     "example": {
@@ -1597,7 +1657,7 @@
   {
     "en": "assignment",
     "es": "tarea",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["academic", "business"],
     "example": {
@@ -1609,7 +1669,7 @@
   {
     "en": "To assist",
     "es": "asistir",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "assist in a project",
@@ -1620,7 +1680,7 @@
   {
     "en": "To associate",
     "es": "asociar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "associate with",
@@ -1631,7 +1691,7 @@
   {
     "en": "associated",
     "es": "asociado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "associated risks",
@@ -1642,7 +1702,7 @@
   {
     "en": "association",
     "es": "asociación",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["business", "social"],
     "example": {
@@ -1654,7 +1714,7 @@
   {
     "en": "To assume",
     "es": "suponer",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "assume responsibility",
@@ -1665,7 +1725,7 @@
   {
     "en": "at",
     "es": "en",
-    "level": "a1",
+    "level": "A1",
     "type": "preposition",
     "example": {
       "en": "at school",
@@ -1675,7 +1735,7 @@
   {
     "en": "athlete",
     "es": "atleta",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["sport"],
     "example": {
@@ -1687,7 +1747,7 @@
   {
     "en": "atmosphere",
     "es": "atmósfera",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["science", "environment"],
     "example": {
@@ -1699,7 +1759,7 @@
   {
     "en": "To attach",
     "es": "adjuntar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "attach a file",
@@ -1710,7 +1770,7 @@
   {
     "en": "To attend",
     "es": "asistir",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "attend a meeting",
@@ -1721,7 +1781,7 @@
   {
     "en": "attention",
     "es": "atención",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily", "academic"],
     "example": {
@@ -1733,7 +1793,7 @@
   {
     "en": "attitude",
     "es": "actitud",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["daily", "psychology"],
     "example": {
@@ -1745,7 +1805,7 @@
   {
     "en": "attorney",
     "es": "abogado",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["law"],
     "example": {
@@ -1757,7 +1817,7 @@
   {
     "en": "To attract",
     "es": "atraer",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "attract attention",
@@ -1768,7 +1828,7 @@
   {
     "en": "attraction",
     "es": "atracción",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["travel", "entertainment"],
     "example": {
@@ -1780,7 +1840,7 @@
   {
     "en": "attractive",
     "es": "atractivo",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "attractive offer",
@@ -1791,7 +1851,7 @@
   {
     "en": "audience",
     "es": "audiencia",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["entertainment", "media"],
     "example": {
@@ -1803,7 +1863,7 @@
   {
     "en": "august",
     "es": "agosto",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -1815,7 +1875,7 @@
   {
     "en": "aunt",
     "es": "tía",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "family"],
     "example": {
@@ -1827,7 +1887,7 @@
   {
     "en": "author",
     "es": "autor",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["art", "literature"],
     "example": {
@@ -1839,7 +1899,7 @@
   {
     "en": "authority",
     "es": "autoridad",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["law", "politic"],
     "example": {
@@ -1851,7 +1911,7 @@
   {
     "en": "automatic",
     "es": "automático",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "automatic door",
@@ -1862,7 +1922,7 @@
   {
     "en": "automatically",
     "es": "automáticamente",
-    "level": "b1",
+    "level": "B1",
     "type": "adverb",
     "example": {
       "en": "works automatically",
@@ -1873,7 +1933,7 @@
   {
     "en": "available",
     "es": "disponible",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "room available",
@@ -1884,7 +1944,7 @@
   {
     "en": "To avoid",
     "es": "evitar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "avoid problems",
@@ -1895,7 +1955,7 @@
   {
     "en": "aware",
     "es": "consciente",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "be aware of",
@@ -1906,7 +1966,7 @@
   {
     "en": "away",
     "es": "lejos",
-    "level": "a1",
+    "level": "A1",
     "type": "adverb",
     "example": {
       "en": "go away",
@@ -1917,7 +1977,7 @@
   {
     "en": "awesome",
     "es": "impresionante",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "awesome experience",
@@ -1928,7 +1988,7 @@
   {
     "en": "awful",
     "es": "terrible",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "awful weather",
@@ -1939,7 +1999,7 @@
   {
     "en": "baby",
     "es": "bebé",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "family"],
     "example": {
@@ -1951,7 +2011,7 @@
   {
     "en": "background",
     "es": "fondo, antecedentes",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily", "business", "technology"],
     "example": {
@@ -1963,7 +2023,7 @@
   {
     "en": "backward",
     "es": "hacia atrás",
-    "level": "b1",
+    "level": "B1",
     "type": "adverb",
     "example": {
       "en": "look backward",
@@ -1974,7 +2034,7 @@
   {
     "en": "bacteria",
     "es": "bacteria",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["science", "healthcare"],
     "example": {
@@ -1986,7 +2046,7 @@
   {
     "en": "bad",
     "es": "malo",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "bad weather",
@@ -1997,7 +2057,7 @@
   {
     "en": "badly",
     "es": "mal",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "perform badly",
@@ -2008,7 +2068,7 @@
   {
     "en": "bag",
     "es": "bolsa",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -2020,7 +2080,7 @@
   {
     "en": "To bake",
     "es": "hornear",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "bake a cake",
@@ -2031,7 +2091,7 @@
   {
     "en": "ball",
     "es": "pelota",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["sport", "daily"],
     "example": {
@@ -2043,7 +2103,7 @@
   {
     "en": "banana",
     "es": "banana",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food", "daily"],
     "example": {
@@ -2053,9 +2113,21 @@
     "ka": "ბანანი"
   },
   {
+    "en": "ananas",
+    "es": "banana",
+    "level": "A1",
+    "type": "noun",
+    "category": ["food", "daily"],
+    "example": {
+      "en": "eat a banana",
+      "es": "comer una banana"
+    },
+    "ka": "ანანასი"
+  },
+  {
     "en": "band",
     "es": "banda",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["entertainment", "music"],
     "example": {
@@ -2067,7 +2139,7 @@
   {
     "en": "bank (money)",
     "es": "banco",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["business", "daily"],
     "example": {
@@ -2079,7 +2151,7 @@
   {
     "en": "bank (river)",
     "es": "orilla",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["nature", "geography"],
     "example": {
@@ -2091,7 +2163,7 @@
   {
     "en": "barrier",
     "es": "barrera",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["social", "technology"],
     "example": {
@@ -2103,7 +2175,7 @@
   {
     "en": "baseball",
     "es": "béisbol",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["sport"],
     "example": {
@@ -2115,7 +2187,7 @@
   {
     "en": "based",
     "es": "basado",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "based on a true story",
@@ -2126,7 +2198,7 @@
   {
     "en": "basic",
     "es": "básico",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "basic needs",
@@ -2137,7 +2209,7 @@
   {
     "en": "basically",
     "es": "básicamente",
-    "level": "b2",
+    "level": "B2",
     "type": "adverb",
     "example": {
       "en": "basically the same",
@@ -2148,7 +2220,7 @@
   {
     "en": "basis",
     "es": "base",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["business", "academic"],
     "example": {
@@ -2160,7 +2232,7 @@
   {
     "en": "basketball",
     "es": "baloncesto",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["sport"],
     "example": {
@@ -2172,7 +2244,7 @@
   {
     "en": "bath",
     "es": "baño",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -2184,7 +2256,7 @@
   {
     "en": "bathroom",
     "es": "baño",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -2196,7 +2268,7 @@
   {
     "en": "battery",
     "es": "batería",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["technology"],
     "example": {
@@ -2208,7 +2280,7 @@
   {
     "en": "beach",
     "es": "playa",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["travel", "nature"],
     "example": {
@@ -2220,7 +2292,7 @@
   {
     "en": "bean",
     "es": "frijol",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -2232,7 +2304,7 @@
   {
     "en": "To bear (deal with)",
     "es": "soportar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "bear the pain",
@@ -2243,7 +2315,7 @@
   {
     "en": "bear (animal)",
     "es": "oso",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["nature", "wildlife"],
     "example": {
@@ -2255,7 +2327,7 @@
   {
     "en": "beautiful",
     "es": "hermoso",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "beautiful view",
@@ -2266,7 +2338,7 @@
   {
     "en": "beauty",
     "es": "belleza",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["daily", "art"],
     "example": {
@@ -2278,7 +2350,7 @@
   {
     "en": "because",
     "es": "porque",
-    "level": "a1",
+    "level": "A1",
     "type": "conjunction",
     "example": {
       "en": "cry because of joy",
@@ -2288,7 +2360,7 @@
   {
     "en": "To become",
     "es": "convertirse",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "become a teacher",
@@ -2299,7 +2371,7 @@
   {
     "en": "bed",
     "es": "cama",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -2311,7 +2383,7 @@
   {
     "en": "bedroom",
     "es": "dormitorio",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -2323,7 +2395,7 @@
   {
     "en": "To be",
     "es": "estado",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "have been there",
@@ -2334,7 +2406,7 @@
   {
     "en": "beef",
     "es": "carne de res",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -2346,7 +2418,7 @@
   {
     "en": "beer",
     "es": "cerveza",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food", "daily"],
     "example": {
@@ -2358,7 +2430,7 @@
   {
     "en": "To beg",
     "es": "suplicar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "beg for help",
@@ -2369,7 +2441,7 @@
   {
     "en": "To begin",
     "es": "comenzar",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "begin a journey",
@@ -2380,7 +2452,7 @@
   {
     "en": "To behave",
     "es": "comportarse",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "behave well",
@@ -2391,7 +2463,7 @@
   {
     "en": "behavior",
     "es": "comportamiento",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["psychology", "social"],
     "example": {
@@ -2403,7 +2475,7 @@
   {
     "en": "being",
     "es": "ser, existencia",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["philosophy", "daily"],
     "example": {
@@ -2415,7 +2487,7 @@
   {
     "en": "belief",
     "es": "creencia",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["culture", "religion"],
     "example": {
@@ -2427,7 +2499,7 @@
   {
     "en": "To believe",
     "es": "creer",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "believe in yourself",
@@ -2438,7 +2510,7 @@
   {
     "en": "bell",
     "es": "campana",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["daily", "music"],
     "example": {
@@ -2450,7 +2522,7 @@
   {
     "en": "To belong",
     "es": "pertenecer",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "belong to a group",
@@ -2461,7 +2533,7 @@
   {
     "en": "belt",
     "es": "cinturón",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily", "fashion"],
     "example": {
@@ -2473,7 +2545,7 @@
   {
     "en": "bent",
     "es": "doblado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "bent wire",
@@ -2484,7 +2556,7 @@
   {
     "en": "bicycle",
     "es": "bicicleta",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["transportation", "daily"],
     "example": {
@@ -2496,7 +2568,7 @@
   {
     "en": "big",
     "es": "grande",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "big house",
@@ -2507,7 +2579,7 @@
   {
     "en": "bike",
     "es": "bicicleta, moto",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["transportation", "daily"],
     "example": {
@@ -2519,7 +2591,7 @@
   {
     "en": "billion",
     "es": "mil millones",
-    "level": "a2",
+    "level": "A2",
     "type": "number",
     "example": {
       "en": "two billion",
@@ -2529,7 +2601,7 @@
   {
     "en": "biology",
     "es": "biología",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["science", "education"],
     "example": {
@@ -2541,7 +2613,7 @@
   {
     "en": "bird",
     "es": "pájaro",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["nature", "wildlife"],
     "example": {
@@ -2553,7 +2625,7 @@
   {
     "en": "birth",
     "es": "nacimiento",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily", "family"],
     "example": {
@@ -2565,7 +2637,7 @@
   {
     "en": "birthday",
     "es": "cumpleaños",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "social"],
     "example": {
@@ -2577,7 +2649,7 @@
   {
     "en": "bitter",
     "es": "amargo",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "bitter taste",
@@ -2588,7 +2660,7 @@
   {
     "en": "blind",
     "es": "ciego",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "blind person",
@@ -2599,7 +2671,7 @@
   {
     "en": "blog",
     "es": "blog",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["technology", "daily"],
     "example": {
@@ -2611,7 +2683,7 @@
   {
     "en": "blond",
     "es": "rubio",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "blond hair",
@@ -2622,7 +2694,7 @@
   {
     "en": "blood",
     "es": "sangre",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["healthcare", "biology"],
     "example": {
@@ -2634,7 +2706,7 @@
   {
     "en": "To blow",
     "es": "soplar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "blow out candles",
@@ -2645,7 +2717,7 @@
   {
     "en": "boat",
     "es": "barco",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["transportation", "travel"],
     "example": {
@@ -2657,7 +2729,7 @@
   {
     "en": "body",
     "es": "cuerpo",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "healthcare"],
     "example": {
@@ -2669,7 +2741,7 @@
   {
     "en": "To boil",
     "es": "hervir",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "boil water",
@@ -2680,7 +2752,7 @@
   {
     "en": "bond",
     "es": "bono, vínculo",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["business", "social"],
     "example": {
@@ -2692,7 +2764,7 @@
   {
     "en": "bone",
     "es": "hueso",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["healthcare", "biology"],
     "example": {
@@ -2704,7 +2776,7 @@
   {
     "en": "boot",
     "es": "bota",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["fashion", "daily"],
     "example": {
@@ -2716,7 +2788,7 @@
   {
     "en": "bored",
     "es": "aburrido",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "feel bored",
@@ -2727,7 +2799,7 @@
   {
     "en": "boring",
     "es": "aburrido",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "boring movie",
@@ -2738,7 +2810,7 @@
   {
     "en": "To born",
     "es": "nacido",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "was born",
@@ -2749,7 +2821,7 @@
   {
     "en": "To borrow",
     "es": "pedir prestado",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "borrow a book",
@@ -2760,7 +2832,7 @@
   {
     "en": "boss",
     "es": "jefe",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["business", "work"],
     "example": {
@@ -2772,7 +2844,7 @@
   {
     "en": "To bother",
     "es": "molestar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "bother someone",
@@ -2783,7 +2855,7 @@
   {
     "en": "bottle",
     "es": "botella",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "food"],
     "example": {
@@ -2795,7 +2867,7 @@
   {
     "en": "bowl",
     "es": "cuenco",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily", "food"],
     "example": {
@@ -2807,7 +2879,7 @@
   {
     "en": "box",
     "es": "caja",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -2819,7 +2891,7 @@
   {
     "en": "boy",
     "es": "niño",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "family"],
     "example": {
@@ -2831,7 +2903,7 @@
   {
     "en": "boyfriend",
     "es": "novio",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "social"],
     "example": {
@@ -2843,7 +2915,7 @@
   {
     "en": "brain",
     "es": "cerebro",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["healthcare", "biology"],
     "example": {
@@ -2855,7 +2927,7 @@
   {
     "en": "branch",
     "es": "rama, sucursal",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["nature", "business"],
     "example": {
@@ -2867,7 +2939,7 @@
   {
     "en": "brave",
     "es": "valiente",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "brave soldier",
@@ -2878,7 +2950,7 @@
   {
     "en": "bread",
     "es": "pan",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -2890,7 +2962,7 @@
   {
     "en": "breakfast",
     "es": "desayuno",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -2902,7 +2974,7 @@
   {
     "en": "breast",
     "es": "pecho",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["healthcare", "biology"],
     "example": {
@@ -2914,7 +2986,7 @@
   {
     "en": "breath",
     "es": "respiración",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["healthcare"],
     "example": {
@@ -2926,7 +2998,7 @@
   {
     "en": "To breathe",
     "es": "respirar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "breathe easily",
@@ -2937,7 +3009,7 @@
   {
     "en": "breathing",
     "es": "respiración",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["healthcare"],
     "example": {
@@ -2949,7 +3021,7 @@
   {
     "en": "bride",
     "es": "novia (en una boda)",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["social", "daily"],
     "example": {
@@ -2961,7 +3033,7 @@
   {
     "en": "bridge",
     "es": "puente",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["transportation", "architecture"],
     "example": {
@@ -2973,7 +3045,7 @@
   {
     "en": "brief",
     "es": "breve",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "brief meeting",
@@ -2984,7 +3056,7 @@
   {
     "en": "bright",
     "es": "brillante, luminoso",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "bright light",
@@ -2995,7 +3067,7 @@
   {
     "en": "brilliant",
     "es": "brillante, genial",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "brilliant idea",
@@ -3006,7 +3078,7 @@
   {
     "en": "To bring",
     "es": "traer",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "bring a gift",
@@ -3017,7 +3089,7 @@
   {
     "en": "broad",
     "es": "amplio",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "broad spectrum",
@@ -3028,7 +3100,7 @@
   {
     "en": "broken",
     "es": "roto",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "broken window",
@@ -3039,7 +3111,7 @@
   {
     "en": "brother",
     "es": "hermano",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["family"],
     "example": {
@@ -3051,7 +3123,7 @@
   {
     "en": "bubble",
     "es": "burbuja",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["science", "daily"],
     "example": {
@@ -3063,7 +3135,7 @@
   {
     "en": "budget",
     "es": "presupuesto",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["business", "finance"],
     "example": {
@@ -3075,7 +3147,7 @@
   {
     "en": "To build",
     "es": "construir",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "build a house",
@@ -3086,7 +3158,7 @@
   {
     "en": "building",
     "es": "edificio",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["architecture", "daily"],
     "example": {
@@ -3098,7 +3170,7 @@
   {
     "en": "bullet",
     "es": "bala",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["law", "military"],
     "example": {
@@ -3110,7 +3182,7 @@
   {
     "en": "bunch",
     "es": "manojo, grupo",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["nature", "social"],
     "example": {
@@ -3122,7 +3194,7 @@
   {
     "en": "To bury",
     "es": "enterrar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "bury treasure",
@@ -3133,7 +3205,7 @@
   {
     "en": "bus",
     "es": "autobús",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["transportation"],
     "example": {
@@ -3145,7 +3217,7 @@
   {
     "en": "bush",
     "es": "arbusto",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["nature"],
     "example": {
@@ -3157,7 +3229,7 @@
   {
     "en": "business",
     "es": "negocio",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["business", "finance"],
     "example": {
@@ -3169,7 +3241,7 @@
   {
     "en": "businessman",
     "es": "hombre de negocios",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["business", "work"],
     "example": {
@@ -3181,7 +3253,7 @@
   {
     "en": "busy",
     "es": "ocupado",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "busy schedule",
@@ -3192,7 +3264,7 @@
   {
     "en": "but",
     "es": "pero",
-    "level": "a1",
+    "level": "A1",
     "type": "conjunction",
     "example": {
       "en": "tired but happy",
@@ -3202,7 +3274,7 @@
   {
     "en": "butter",
     "es": "mantequilla",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -3214,7 +3286,7 @@
   {
     "en": "button",
     "es": "botón",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily", "technology"],
     "example": {
@@ -3226,7 +3298,7 @@
   {
     "en": "To buy",
     "es": "comprar",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "buy groceries",
@@ -3237,7 +3309,7 @@
   {
     "en": "bye",
     "es": "adiós",
-    "level": "a1",
+    "level": "A1",
     "type": "exclamation",
     "example": {
       "en": "say bye",
@@ -3247,7 +3319,7 @@
   {
     "en": "cable",
     "es": "cable",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["technology"],
     "example": {
@@ -3259,7 +3331,7 @@
   {
     "en": "cafe",
     "es": "café",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "food"],
     "example": {
@@ -3271,7 +3343,7 @@
   {
     "en": "cake",
     "es": "pastel",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -3283,7 +3355,7 @@
   {
     "en": "To calculate",
     "es": "calcular",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "calculate expenses",
@@ -3294,7 +3366,7 @@
   {
     "en": "camera",
     "es": "cámara",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["technology", "daily"],
     "example": {
@@ -3306,7 +3378,7 @@
   {
     "en": "camping",
     "es": "acampada",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["travel", "recreation"],
     "example": {
@@ -3318,7 +3390,7 @@
   {
     "en": "campus",
     "es": "campus",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["education"],
     "example": {
@@ -3328,9 +3400,9 @@
     "ka": "კამპუსი"
   },
   {
-    "en": "To can",
+    "en": "Can",
     "es": "poder",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "can help",
@@ -3341,7 +3413,7 @@
   {
     "en": "can",
     "es": "lata",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -3353,7 +3425,7 @@
   {
     "en": "To cancel",
     "es": "cancelar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "cancel a meeting",
@@ -3364,7 +3436,7 @@
   {
     "en": "cancer",
     "es": "cáncer",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["healthcare"],
     "example": {
@@ -3376,7 +3448,7 @@
   {
     "en": "candidate",
     "es": "candidato",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["politics", "work"],
     "example": {
@@ -3388,7 +3460,7 @@
   {
     "en": "candy",
     "es": "dulce",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -3400,7 +3472,7 @@
   {
     "en": "cap",
     "es": "gorra",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["fashion"],
     "example": {
@@ -3412,7 +3484,7 @@
   {
     "en": "capable",
     "es": "capaz",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "capable of doing",
@@ -3423,7 +3495,7 @@
   {
     "en": "capacity",
     "es": "capacidad",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -3435,7 +3507,7 @@
   {
     "en": "captain",
     "es": "capitán",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["work", "sports"],
     "example": {
@@ -3447,7 +3519,7 @@
   {
     "en": "car",
     "es": "coche",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["transportation"],
     "example": {
@@ -3459,7 +3531,7 @@
   {
     "en": "card",
     "es": "tarjeta",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily", "business"],
     "example": {
@@ -3471,7 +3543,7 @@
   {
     "en": "career",
     "es": "carrera",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["work"],
     "example": {
@@ -3483,7 +3555,7 @@
   {
     "en": "careful",
     "es": "cuidadoso",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "be careful",
@@ -3494,7 +3566,7 @@
   {
     "en": "carefully",
     "es": "cuidadosamente",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "listen carefully",
@@ -3505,7 +3577,7 @@
   {
     "en": "careless",
     "es": "descuidado",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "careless mistake",
@@ -3516,7 +3588,7 @@
   {
     "en": "carpet",
     "es": "alfombra",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["daily", "household"],
     "example": {
@@ -3528,7 +3600,7 @@
   {
     "en": "carrot",
     "es": "zanahoria",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -3540,7 +3612,7 @@
   {
     "en": "To carry",
     "es": "llevar",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "carry a bag",
@@ -3551,7 +3623,7 @@
   {
     "en": "cartoon",
     "es": "dibujos animados",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["entertainment"],
     "example": {
@@ -3563,7 +3635,7 @@
   {
     "en": "case",
     "es": "caso, estuche",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["law", "daily"],
     "example": {
@@ -3575,7 +3647,7 @@
   {
     "en": "cash",
     "es": "efectivo",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["finance"],
     "example": {
@@ -3587,7 +3659,7 @@
   {
     "en": "cat",
     "es": "gato",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["animals"],
     "example": {
@@ -3599,7 +3671,7 @@
   {
     "en": "ceiling",
     "es": "techo",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["architecture", "daily"],
     "example": {
@@ -3611,7 +3683,7 @@
   {
     "en": "To celebrate",
     "es": "celebrar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "celebrate a birthday",
@@ -3622,7 +3694,7 @@
   {
     "en": "celebration",
     "es": "celebración",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["social", "culture"],
     "example": {
@@ -3634,7 +3706,7 @@
   {
     "en": "celebrity",
     "es": "celebridad",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["entertainment", "social"],
     "example": {
@@ -3646,7 +3718,7 @@
   {
     "en": "cell",
     "es": "célula",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["biology", "technology"],
     "example": {
@@ -3658,7 +3730,7 @@
   {
     "en": "cent",
     "es": "centavo",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["finance"],
     "example": {
@@ -3670,7 +3742,7 @@
   {
     "en": "central",
     "es": "central",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "central location",
@@ -3681,7 +3753,7 @@
   {
     "en": "century",
     "es": "siglo",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["history"],
     "example": {
@@ -3693,7 +3765,7 @@
   {
     "en": "ceremony",
     "es": "ceremonia",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["culture", "social"],
     "example": {
@@ -3705,7 +3777,7 @@
   {
     "en": "certain",
     "es": "cierto",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "certain about",
@@ -3716,7 +3788,7 @@
   {
     "en": "certainly",
     "es": "ciertamente",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "certainly agree",
@@ -3727,7 +3799,7 @@
   {
     "en": "chairman",
     "es": "presidente",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["work", "politics"],
     "example": {
@@ -3739,7 +3811,7 @@
   {
     "en": "champion",
     "es": "campeón",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["sports"],
     "example": {
@@ -3751,7 +3823,7 @@
   {
     "en": "channel",
     "es": "canal",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["media", "nature"],
     "example": {
@@ -3763,7 +3835,7 @@
   {
     "en": "chapter",
     "es": "capítulo",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["literature"],
     "example": {
@@ -3775,7 +3847,7 @@
   {
     "en": "character",
     "es": "personaje",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["literature", "cinema"],
     "example": {
@@ -3787,7 +3859,7 @@
   {
     "en": "charity",
     "es": "caridad",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["social"],
     "example": {
@@ -3799,7 +3871,7 @@
   {
     "en": "cheerful",
     "es": "alegre",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "cheerful person",
@@ -3810,7 +3882,7 @@
   {
     "en": "cheese",
     "es": "queso",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -3822,7 +3894,7 @@
   {
     "en": "chef",
     "es": "chef",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["work", "food"],
     "example": {
@@ -3834,7 +3906,7 @@
   {
     "en": "chemistry",
     "es": "química",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["science"],
     "example": {
@@ -3846,7 +3918,7 @@
   {
     "en": "chest",
     "es": "pecho",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["anatomy"],
     "example": {
@@ -3858,7 +3930,7 @@
   {
     "en": "chicken",
     "es": "pollo",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -3870,7 +3942,7 @@
   {
     "en": "child",
     "es": "niño",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["family"],
     "example": {
@@ -3882,7 +3954,7 @@
   {
     "en": "chip",
     "es": "chip",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["technology", "food"],
     "example": {
@@ -3894,7 +3966,7 @@
   {
     "en": "chocolate",
     "es": "chocolate",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -3906,7 +3978,7 @@
   {
     "en": "To choose",
     "es": "elegir",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "choose a career",
@@ -3917,7 +3989,7 @@
   {
     "en": "church",
     "es": "iglesia",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["religion", "architecture"],
     "example": {
@@ -3929,7 +4001,7 @@
   {
     "en": "cigarette",
     "es": "cigarrillo",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["healthcare"],
     "example": {
@@ -3941,7 +4013,7 @@
   {
     "en": "To cite",
     "es": "citar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "cite a source",
@@ -3952,7 +4024,7 @@
   {
     "en": "citizen",
     "es": "ciudadano",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["politics", "society"],
     "example": {
@@ -3964,7 +4036,7 @@
   {
     "en": "city",
     "es": "ciudad",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["geography"],
     "example": {
@@ -3976,7 +4048,7 @@
   {
     "en": "civil",
     "es": "civil",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "civil law",
@@ -3987,7 +4059,7 @@
   {
     "en": "class",
     "es": "clase",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["education"],
     "example": {
@@ -3999,7 +4071,7 @@
   {
     "en": "classical",
     "es": "clásico",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "classical music",
@@ -4010,7 +4082,7 @@
   {
     "en": "classroom",
     "es": "aula",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["education"],
     "example": {
@@ -4022,7 +4094,7 @@
   {
     "en": "clause",
     "es": "cláusula",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["law", "literature"],
     "example": {
@@ -4034,7 +4106,7 @@
   {
     "en": "clearly",
     "es": "claramente",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "speak clearly",
@@ -4045,7 +4117,7 @@
   {
     "en": "clerk",
     "es": "empleado",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["work"],
     "example": {
@@ -4057,7 +4129,7 @@
   {
     "en": "clever",
     "es": "inteligente",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "clever solution",
@@ -4068,7 +4140,7 @@
   {
     "en": "client",
     "es": "cliente",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["business"],
     "example": {
@@ -4080,7 +4152,7 @@
   {
     "en": "climate",
     "es": "clima",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["geography", "environment"],
     "example": {
@@ -4092,7 +4164,7 @@
   {
     "en": "clock",
     "es": "reloj",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["daily"],
     "example": {
@@ -4104,7 +4176,7 @@
   {
     "en": "closed",
     "es": "cerrado",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "closed door",
@@ -4115,7 +4187,7 @@
   {
     "en": "closely",
     "es": "de cerca",
-    "level": "b2",
+    "level": "B2",
     "type": "adverb",
     "example": {
       "en": "look closely",
@@ -4126,7 +4198,7 @@
   {
     "en": "closet",
     "es": "armario",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["furniture"],
     "example": {
@@ -4138,7 +4210,7 @@
   {
     "en": "cloth",
     "es": "tela",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["fashion", "daily"],
     "example": {
@@ -4150,7 +4222,7 @@
   {
     "en": "clothes",
     "es": "ropa",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["fashion", "daily"],
     "example": {
@@ -4162,7 +4234,7 @@
   {
     "en": "clothing",
     "es": "vestimenta",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["fashion"],
     "example": {
@@ -4174,7 +4246,7 @@
   {
     "en": "cloud",
     "es": "nube",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["nature"],
     "example": {
@@ -4186,7 +4258,7 @@
   {
     "en": "club",
     "es": "club",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["social", "sports"],
     "example": {
@@ -4198,7 +4270,7 @@
   {
     "en": "clue",
     "es": "pista",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -4210,7 +4282,7 @@
   {
     "en": "coal",
     "es": "carbón",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["energy"],
     "example": {
@@ -4222,7 +4294,7 @@
   {
     "en": "coast",
     "es": "costa",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["geography"],
     "example": {
@@ -4234,7 +4306,7 @@
   {
     "en": "coat",
     "es": "abrigo",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["fashion"],
     "example": {
@@ -4246,7 +4318,7 @@
   {
     "en": "code",
     "es": "código",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["technology", "law"],
     "example": {
@@ -4258,7 +4330,7 @@
   {
     "en": "coffee",
     "es": "café",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -4270,7 +4342,7 @@
   {
     "en": "coin",
     "es": "moneda",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["finance"],
     "example": {
@@ -4282,7 +4354,7 @@
   {
     "en": "colleague",
     "es": "colega",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["work"],
     "example": {
@@ -4294,7 +4366,7 @@
   {
     "en": "To collect",
     "es": "coleccionar, recolectar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "collect stamps",
@@ -4305,7 +4377,7 @@
   {
     "en": "collection",
     "es": "colección",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -4317,7 +4389,7 @@
   {
     "en": "college",
     "es": "colegio, universidad",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["education"],
     "example": {
@@ -4329,7 +4401,7 @@
   {
     "en": "color",
     "es": "color",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -4341,7 +4413,7 @@
   {
     "en": "colored",
     "es": "de color",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "colored pencils",
@@ -4352,7 +4424,7 @@
   {
     "en": "column",
     "es": "columna",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["architecture", "journalism"],
     "example": {
@@ -4364,7 +4436,7 @@
   {
     "en": "To combine",
     "es": "combinar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "combine ingredients",
@@ -4375,7 +4447,7 @@
   {
     "en": "To come",
     "es": "venir",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "come here",
@@ -4386,7 +4458,7 @@
   {
     "en": "comedy",
     "es": "comedia",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["entertainment"],
     "example": {
@@ -4398,7 +4470,7 @@
   {
     "en": "comfortable",
     "es": "cómodo",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "comfortable chair",
@@ -4409,7 +4481,7 @@
   {
     "en": "To commit",
     "es": "comprometerse",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "commit a crime",
@@ -4420,7 +4492,7 @@
   {
     "en": "commitment",
     "es": "compromiso",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["relationship", "work"],
     "example": {
@@ -4432,7 +4504,7 @@
   {
     "en": "committee",
     "es": "comité",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["politics", "organization"],
     "example": {
@@ -4444,7 +4516,7 @@
   {
     "en": "common",
     "es": "común",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "common knowledge",
@@ -4455,7 +4527,7 @@
   {
     "en": "commonly",
     "es": "comúnmente",
-    "level": "b2",
+    "level": "B2",
     "type": "adverb",
     "example": {
       "en": "commonly used",
@@ -4466,7 +4538,7 @@
   {
     "en": "To communicate",
     "es": "comunicar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "communicate effectively",
@@ -4477,7 +4549,7 @@
   {
     "en": "communication",
     "es": "comunicación",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["communication"],
     "example": {
@@ -4489,7 +4561,7 @@
   {
     "en": "community",
     "es": "comunidad",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["society"],
     "example": {
@@ -4501,7 +4573,7 @@
   {
     "en": "company",
     "es": "empresa",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["business"],
     "example": {
@@ -4513,7 +4585,7 @@
   {
     "en": "To compare",
     "es": "comparar",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "compare prices",
@@ -4524,7 +4596,7 @@
   {
     "en": "comparison",
     "es": "comparación",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -4536,7 +4608,7 @@
   {
     "en": "To compete",
     "es": "competir",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "compete in a race",
@@ -4547,7 +4619,7 @@
   {
     "en": "competition",
     "es": "competencia",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["sports", "business"],
     "example": {
@@ -4559,7 +4631,7 @@
   {
     "en": "competitive",
     "es": "competitivo",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "competitive market",
@@ -4570,7 +4642,7 @@
   {
     "en": "competitor",
     "es": "competidor",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["sports", "business"],
     "example": {
@@ -4582,7 +4654,7 @@
   {
     "en": "To complain",
     "es": "quejarse",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "complain about service",
@@ -4593,7 +4665,7 @@
   {
     "en": "complaint",
     "es": "queja",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["communication"],
     "example": {
@@ -4605,7 +4677,7 @@
   {
     "en": "completely",
     "es": "completamente",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "completely different",
@@ -4616,7 +4688,7 @@
   {
     "en": "complicated",
     "es": "complicado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "complicated situation",
@@ -4627,7 +4699,7 @@
   {
     "en": "component",
     "es": "componente",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["technology", "science"],
     "example": {
@@ -4639,7 +4711,7 @@
   {
     "en": "computer",
     "es": "computadora",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["technology"],
     "example": {
@@ -4651,7 +4723,7 @@
   {
     "en": "To concentrate",
     "es": "concentrarse",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "concentrate on work",
@@ -4662,7 +4734,7 @@
   {
     "en": "concept",
     "es": "concepto",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -4674,7 +4746,7 @@
   {
     "en": "concerned",
     "es": "preocupado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "concerned about",
@@ -4685,7 +4757,7 @@
   {
     "en": "concert",
     "es": "concierto",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["entertainment"],
     "example": {
@@ -4697,7 +4769,7 @@
   {
     "en": "To conclude",
     "es": "concluir",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "conclude a meeting",
@@ -4708,7 +4780,7 @@
   {
     "en": "condition",
     "es": "condición",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["health", "general"],
     "example": {
@@ -4720,7 +4792,7 @@
   {
     "en": "conference",
     "es": "conferencia",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["business", "education"],
     "example": {
@@ -4732,7 +4804,7 @@
   {
     "en": "confidence",
     "es": "confianza",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["emotions"],
     "example": {
@@ -4744,7 +4816,7 @@
   {
     "en": "confident",
     "es": "confiado",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "feel confident",
@@ -4755,7 +4827,7 @@
   {
     "en": "To confirm",
     "es": "confirmar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "confirm an appointment",
@@ -4766,7 +4838,7 @@
   {
     "en": "To confuse",
     "es": "confundir",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "confuse someone",
@@ -4777,7 +4849,7 @@
   {
     "en": "confused",
     "es": "confundido",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "look confused",
@@ -4788,7 +4860,7 @@
   {
     "en": "confusing",
     "es": "confuso",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "confusing instructions",
@@ -4799,7 +4871,7 @@
   {
     "en": "congress",
     "es": "congreso",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["politics"],
     "example": {
@@ -4811,7 +4883,7 @@
   {
     "en": "To connect",
     "es": "conectar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "connect to the internet",
@@ -4822,7 +4894,7 @@
   {
     "en": "connected",
     "es": "conectado",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "stay connected",
@@ -4833,7 +4905,7 @@
   {
     "en": "connection",
     "es": "conexión",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["technology", "communication"],
     "example": {
@@ -4845,7 +4917,7 @@
   {
     "en": "conscious",
     "es": "consciente",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "be conscious of",
@@ -4856,7 +4928,7 @@
   {
     "en": "consequence",
     "es": "consecuencia",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -4868,7 +4940,7 @@
   {
     "en": "To consider",
     "es": "considerar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "consider options",
@@ -4879,7 +4951,7 @@
   {
     "en": "consideration",
     "es": "consideración",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -4891,7 +4963,7 @@
   {
     "en": "To consist",
     "es": "consistir",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "consist of parts",
@@ -4902,7 +4974,7 @@
   {
     "en": "consistent",
     "es": "consistente",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "consistent quality",
@@ -4913,7 +4985,7 @@
   {
     "en": "constant",
     "es": "constante",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "constant improvement",
@@ -4924,7 +4996,7 @@
   {
     "en": "constantly",
     "es": "constantemente",
-    "level": "b2",
+    "level": "B2",
     "type": "adverb",
     "example": {
       "en": "constantly changing",
@@ -4935,7 +5007,7 @@
   {
     "en": "To construct",
     "es": "construir",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "construct a building",
@@ -4946,7 +5018,7 @@
   {
     "en": "construction",
     "es": "construcción",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["construction"],
     "example": {
@@ -4958,7 +5030,7 @@
   {
     "en": "To consume",
     "es": "consumir",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "consume less energy",
@@ -4969,7 +5041,7 @@
   {
     "en": "consumer",
     "es": "consumidor",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["economics"],
     "example": {
@@ -4981,7 +5053,7 @@
   {
     "en": "To contain",
     "es": "contener",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "box contains items",
@@ -4992,7 +5064,7 @@
   {
     "en": "container",
     "es": "contenedor",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -5004,7 +5076,7 @@
   {
     "en": "contemporary",
     "es": "contemporáneo",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "contemporary design",
@@ -5015,7 +5087,7 @@
   {
     "en": "content",
     "es": "contenido",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -5027,7 +5099,7 @@
   {
     "en": "context",
     "es": "contexto",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -5039,7 +5111,7 @@
   {
     "en": "continent",
     "es": "continente",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["geography"],
     "example": {
@@ -5051,7 +5123,7 @@
   {
     "en": "To continue",
     "es": "continuar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "continue working",
@@ -5062,7 +5134,7 @@
   {
     "en": "continuous",
     "es": "continuo",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "continuous improvement",
@@ -5073,7 +5145,7 @@
   {
     "en": "To contribute",
     "es": "contribuir",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "contribute to a project",
@@ -5084,7 +5156,7 @@
   {
     "en": "contribution",
     "es": "contribución",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["society", "economics"],
     "example": {
@@ -5096,7 +5168,7 @@
   {
     "en": "convenient",
     "es": "cómodo",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "convenient location",
@@ -5107,7 +5179,7 @@
   {
     "en": "conversation",
     "es": "conversación",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["communication"],
     "example": {
@@ -5119,7 +5191,7 @@
   {
     "en": "To convert",
     "es": "convertir",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "convert to digital",
@@ -5130,7 +5202,7 @@
   {
     "en": "To convince",
     "es": "convencer",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "convince someone",
@@ -5141,7 +5213,7 @@
   {
     "en": "convinced",
     "es": "convencido",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "convinced of the idea",
@@ -5152,7 +5224,7 @@
   {
     "en": "cookie",
     "es": "galleta",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -5164,7 +5236,7 @@
   {
     "en": "cooking",
     "es": "cocina",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -5176,7 +5248,7 @@
   {
     "en": "corn",
     "es": "maíz",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -5188,7 +5260,7 @@
   {
     "en": "corner",
     "es": "esquina",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -5200,7 +5272,7 @@
   {
     "en": "corporate",
     "es": "corporativo",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "corporate culture",
@@ -5211,7 +5283,7 @@
   {
     "en": "correctly",
     "es": "correctamente",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "answer correctly",
@@ -5222,7 +5294,7 @@
   {
     "en": "costume",
     "es": "disfraz",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["entertainment"],
     "example": {
@@ -5234,7 +5306,7 @@
   {
     "en": "cotton",
     "es": "algodón",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["material"],
     "example": {
@@ -5246,7 +5318,7 @@
   {
     "en": "could",
     "es": "podría (pasado de can)",
-    "level": "a1",
+    "level": "A1",
     "type": "modal verb",
     "example": {
       "en": "could help",
@@ -5256,7 +5328,7 @@
   {
     "en": "council",
     "es": "consejo",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["politics"],
     "example": {
@@ -5268,7 +5340,7 @@
   {
     "en": "country",
     "es": "país",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["geography"],
     "example": {
@@ -5280,7 +5352,7 @@
   {
     "en": "countryside",
     "es": "campo",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["geography"],
     "example": {
@@ -5292,7 +5364,7 @@
   {
     "en": "county",
     "es": "condado",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["geography"],
     "example": {
@@ -5304,7 +5376,7 @@
   {
     "en": "couple",
     "es": "pareja",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["social"],
     "example": {
@@ -5316,7 +5388,7 @@
   {
     "en": "courage",
     "es": "valentía",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["emotions"],
     "example": {
@@ -5328,7 +5400,7 @@
   {
     "en": "course",
     "es": "curso",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["education"],
     "example": {
@@ -5340,7 +5412,7 @@
   {
     "en": "court",
     "es": "tribunal, corte",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["law"],
     "example": {
@@ -5352,7 +5424,7 @@
   {
     "en": "could",
     "es": "podría (pasado de can)",
-    "level": "a1",
+    "level": "A1",
     "type": "modal verb",
     "example": {
       "en": "could help",
@@ -5362,7 +5434,7 @@
   {
     "en": "creature",
     "es": "criatura",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["nature"],
     "example": {
@@ -5374,7 +5446,7 @@
   {
     "en": "crew",
     "es": "tripulación",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["transportation"],
     "example": {
@@ -5386,7 +5458,7 @@
   {
     "en": "crime",
     "es": "delito",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["law"],
     "example": {
@@ -5398,7 +5470,7 @@
   {
     "en": "crisis",
     "es": "crisis",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["politics", "economics"],
     "example": {
@@ -5410,7 +5482,7 @@
   {
     "en": "criterion",
     "es": "criterio",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -5422,7 +5494,7 @@
   {
     "en": "critic",
     "es": "crítico",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["art", "media"],
     "example": {
@@ -5434,7 +5506,7 @@
   {
     "en": "critical",
     "es": "crítico",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "critical situation",
@@ -5445,7 +5517,7 @@
   {
     "en": "criticism",
     "es": "crítica",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["communication"],
     "example": {
@@ -5457,7 +5529,7 @@
   {
     "en": "To criticize",
     "es": "criticar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "criticize a decision",
@@ -5468,7 +5540,7 @@
   {
     "en": "crop",
     "es": "cultivo",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["agriculture"],
     "example": {
@@ -5480,7 +5552,7 @@
   {
     "en": "crowd",
     "es": "multitud",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["social"],
     "example": {
@@ -5492,7 +5564,7 @@
   {
     "en": "crowded",
     "es": "abarrotado",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "crowded place",
@@ -5503,7 +5575,7 @@
   {
     "en": "crucial",
     "es": "crucial",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "crucial moment",
@@ -5514,7 +5586,7 @@
   {
     "en": "cruel",
     "es": "cruel",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "cruel behavior",
@@ -5525,7 +5597,7 @@
   {
     "en": "cultural",
     "es": "cultural",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "cultural differences",
@@ -5536,7 +5608,7 @@
   {
     "en": "culture",
     "es": "cultura",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["society", "art"],
     "example": {
@@ -5548,19 +5620,19 @@
   {
     "en": "cup",
     "es": "taza",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["kitchenware"],
     "example": {
       "en": "coffee cup",
       "es": "taza de café"
     },
-    "ka": "თასი"
+    "ka": "თასი, ჭიქა"
   },
   {
     "en": "cupboard",
     "es": "armario",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["furniture"],
     "example": {
@@ -5572,7 +5644,7 @@
   {
     "en": "curly",
     "es": "rizado",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "curly hair",
@@ -5583,7 +5655,7 @@
   {
     "en": "currency",
     "es": "moneda",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["finance"],
     "example": {
@@ -5595,7 +5667,7 @@
   {
     "en": "currently",
     "es": "actualmente",
-    "level": "b1",
+    "level": "B1",
     "type": "adverb",
     "example": {
       "en": "currently working",
@@ -5606,7 +5678,7 @@
   {
     "en": "curtain",
     "es": "cortina",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["furniture"],
     "example": {
@@ -5618,7 +5690,7 @@
   {
     "en": "curved",
     "es": "curvado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "curved screen",
@@ -5629,7 +5701,7 @@
   {
     "en": "custom",
     "es": "costumbre",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["society"],
     "example": {
@@ -5641,7 +5713,7 @@
   {
     "en": "customer",
     "es": "cliente",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["business"],
     "example": {
@@ -5653,7 +5725,7 @@
   {
     "en": "dad",
     "es": "papá",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["family"],
     "example": {
@@ -5665,7 +5737,7 @@
   {
     "en": "dancer",
     "es": "bailarín",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["entertainment"],
     "example": {
@@ -5677,7 +5749,7 @@
   {
     "en": "dancing",
     "es": "danza",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["entertainment"],
     "example": {
@@ -5689,7 +5761,7 @@
   {
     "en": "danger",
     "es": "peligro",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["safety"],
     "example": {
@@ -5701,7 +5773,7 @@
   {
     "en": "dangerous",
     "es": "peligroso",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "dangerous situation",
@@ -5712,7 +5784,7 @@
   {
     "en": "data",
     "es": "datos",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["technology"],
     "example": {
@@ -5724,7 +5796,7 @@
   {
     "en": "daughter",
     "es": "hija",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["family"],
     "example": {
@@ -5736,7 +5808,7 @@
   {
     "en": "day",
     "es": "día",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["time"],
     "example": {
@@ -5748,7 +5820,7 @@
   {
     "en": "dead",
     "es": "muerto",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "dead animal",
@@ -5759,7 +5831,7 @@
   {
     "en": "dear",
     "es": "querido",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "dear friend",
@@ -5770,7 +5842,7 @@
   {
     "en": "death",
     "es": "muerte",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -5782,7 +5854,7 @@
   {
     "en": "debt",
     "es": "deuda",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["finance"],
     "example": {
@@ -5794,7 +5866,7 @@
   {
     "en": "decade",
     "es": "década",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["time"],
     "example": {
@@ -5806,7 +5878,7 @@
   {
     "en": "december",
     "es": "diciembre",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["time"],
     "example": {
@@ -5818,7 +5890,7 @@
   {
     "en": "decent",
     "es": "decente",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "decent behavior",
@@ -5829,7 +5901,7 @@
   {
     "en": "To decide",
     "es": "decidir",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "decide to go",
@@ -5840,7 +5912,7 @@
   {
     "en": "decision",
     "es": "decisión",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -5852,7 +5924,7 @@
   {
     "en": "To declare",
     "es": "declarar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "declare independence",
@@ -5863,7 +5935,7 @@
   {
     "en": "To decorate",
     "es": "decorar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "decorate a room",
@@ -5874,7 +5946,7 @@
   {
     "en": "decoration",
     "es": "decoración",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["art", "home"],
     "example": {
@@ -5886,7 +5958,7 @@
   {
     "en": "deeply",
     "es": "profundamente",
-    "level": "b2",
+    "level": "B2",
     "type": "adverb",
     "example": {
       "en": "deeply affected",
@@ -5897,7 +5969,7 @@
   {
     "en": "To defend",
     "es": "defender",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "defend a client",
@@ -5908,7 +5980,7 @@
   {
     "en": "defense",
     "es": "defensa",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["law", "military"],
     "example": {
@@ -5920,7 +5992,7 @@
   {
     "en": "To define",
     "es": "definir",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "define a term",
@@ -5931,7 +6003,7 @@
   {
     "en": "definite",
     "es": "definitivo",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "a definite answer",
@@ -5942,7 +6014,7 @@
   {
     "en": "definitely",
     "es": "definitivamente",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "definitely going",
@@ -5953,7 +6025,7 @@
   {
     "en": "definition",
     "es": "definición",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["education"],
     "example": {
@@ -5965,7 +6037,7 @@
   {
     "en": "degree",
     "es": "grado",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["education"],
     "example": {
@@ -5977,7 +6049,7 @@
   {
     "en": "deliberate",
     "es": "deliberado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "deliberate action",
@@ -5988,7 +6060,7 @@
   {
     "en": "deliberately",
     "es": "deliberadamente",
-    "level": "b2",
+    "level": "B2",
     "type": "adverb",
     "example": {
       "en": "act deliberately",
@@ -5999,7 +6071,7 @@
   {
     "en": "delicious",
     "es": "delicioso",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "delicious meal",
@@ -6010,7 +6082,7 @@
   {
     "en": "To deliver",
     "es": "entregar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "deliver a package",
@@ -6021,7 +6093,7 @@
   {
     "en": "delivery",
     "es": "entrega",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["business"],
     "example": {
@@ -6033,7 +6105,7 @@
   {
     "en": "To demonstrate",
     "es": "demostrar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "demonstrate a skill",
@@ -6044,7 +6116,7 @@
   {
     "en": "dentist",
     "es": "dentista",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["healthcare"],
     "example": {
@@ -6056,7 +6128,7 @@
   {
     "en": "To deny",
     "es": "negar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "deny an accusation",
@@ -6067,7 +6139,7 @@
   {
     "en": "department",
     "es": "departamento",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["business"],
     "example": {
@@ -6079,7 +6151,7 @@
   {
     "en": "departure",
     "es": "salida",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["transportation"],
     "example": {
@@ -6091,7 +6163,7 @@
   {
     "en": "To depend",
     "es": "depender",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "depend on someone",
@@ -6102,7 +6174,7 @@
   {
     "en": "depressed",
     "es": "deprimido",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "feel depressed",
@@ -6113,7 +6185,7 @@
   {
     "en": "depressing",
     "es": "deprimente",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "depressing news",
@@ -6124,7 +6196,7 @@
   {
     "en": "depth",
     "es": "profundidad",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -6136,7 +6208,7 @@
   {
     "en": "To describe",
     "es": "describir",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "describe a scene",
@@ -6147,7 +6219,7 @@
   {
     "en": "description",
     "es": "descripción",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["communication"],
     "example": {
@@ -6159,7 +6231,7 @@
   {
     "en": "To deserve",
     "es": "merecer",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "deserve respect",
@@ -6170,7 +6242,7 @@
   {
     "en": "designer",
     "es": "diseñador",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["art", "occupation"],
     "example": {
@@ -6182,7 +6254,7 @@
   {
     "en": "desk",
     "es": "escritorio",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["furniture"],
     "example": {
@@ -6194,7 +6266,7 @@
   {
     "en": "desperate",
     "es": "desesperado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "desperate attempt",
@@ -6205,7 +6277,7 @@
   {
     "en": "despite",
     "es": "a pesar de",
-    "level": "b1",
+    "level": "B1",
     "type": "preposition",
     "example": {
       "en": "succeed despite difficulties",
@@ -6215,7 +6287,7 @@
   {
     "en": "dessert",
     "es": "postre",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -6227,7 +6299,7 @@
   {
     "en": "destination",
     "es": "destino",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["travel"],
     "example": {
@@ -6239,7 +6311,7 @@
   {
     "en": "To destroy",
     "es": "destruir",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "destroy a building",
@@ -6250,7 +6322,7 @@
   {
     "en": "detailed",
     "es": "detallado",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "detailed report",
@@ -6261,7 +6333,7 @@
   {
     "en": "To detect",
     "es": "detectar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "detect a problem",
@@ -6272,7 +6344,7 @@
   {
     "en": "detective",
     "es": "detective",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["law"],
     "example": {
@@ -6284,7 +6356,7 @@
   {
     "en": "To determine",
     "es": "determinar",
-    "level": "b1",
+    "level": "B1",
     "type": "verb",
     "example": {
       "en": "determine the cause",
@@ -6295,7 +6367,7 @@
   {
     "en": "determined",
     "es": "determinado",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "determined effort",
@@ -6306,7 +6378,7 @@
   {
     "en": "To develop",
     "es": "desarrollar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "develop a skill",
@@ -6317,7 +6389,7 @@
   {
     "en": "development",
     "es": "desarrollo",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -6329,7 +6401,7 @@
   {
     "en": "device",
     "es": "dispositivo",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["technology"],
     "example": {
@@ -6341,7 +6413,7 @@
   {
     "en": "diagram",
     "es": "diagrama",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["education"],
     "example": {
@@ -6353,7 +6425,7 @@
   {
     "en": "dialogue",
     "es": "diálogo",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["communication"],
     "example": {
@@ -6365,7 +6437,7 @@
   {
     "en": "diamond",
     "es": "diamante",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["materials"],
     "example": {
@@ -6377,7 +6449,7 @@
   {
     "en": "diary",
     "es": "diario",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["literature"],
     "example": {
@@ -6389,7 +6461,7 @@
   {
     "en": "dictionary",
     "es": "diccionario",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["education"],
     "example": {
@@ -6401,7 +6473,7 @@
   {
     "en": "To die",
     "es": "morir",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "die young",
@@ -6412,7 +6484,7 @@
   {
     "en": "diet",
     "es": "dieta",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["health"],
     "example": {
@@ -6424,7 +6496,7 @@
   {
     "en": "difference",
     "es": "diferencia",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -6436,7 +6508,7 @@
   {
     "en": "different",
     "es": "diferente",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "different cultures",
@@ -6447,7 +6519,7 @@
   {
     "en": "differently",
     "es": "diferentemente",
-    "level": "a2",
+    "level": "A2",
     "type": "adverb",
     "example": {
       "en": "think differently",
@@ -6458,7 +6530,7 @@
   {
     "en": "difficult",
     "es": "difícil",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "difficult task",
@@ -6469,7 +6541,7 @@
   {
     "en": "difficulty",
     "es": "dificultad",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -6481,7 +6553,7 @@
   {
     "en": "To dig",
     "es": "cavar",
-    "level": "b2",
+    "level": "B2",
     "type": "verb",
     "example": {
       "en": "dig a hole",
@@ -6492,7 +6564,7 @@
   {
     "en": "digital",
     "es": "digital",
-    "level": "a2",
+    "level": "A2",
     "type": "adjective",
     "example": {
       "en": "digital media",
@@ -6503,7 +6575,7 @@
   {
     "en": "dinner",
     "es": "cena",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -6515,7 +6587,7 @@
   {
     "en": "direction",
     "es": "dirección",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -6527,7 +6599,7 @@
   {
     "en": "directly",
     "es": "directamente",
-    "level": "b1",
+    "level": "B1",
     "type": "adverb",
     "example": {
       "en": "speak directly",
@@ -6538,7 +6610,7 @@
   {
     "en": "director",
     "es": "director",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["occupation"],
     "example": {
@@ -6550,7 +6622,7 @@
   {
     "en": "dirt",
     "es": "suciedad",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -6562,7 +6634,7 @@
   {
     "en": "dirty",
     "es": "sucio",
-    "level": "a1",
+    "level": "A1",
     "type": "adjective",
     "example": {
       "en": "dirty clothes",
@@ -6573,7 +6645,7 @@
   {
     "en": "disadvantage",
     "es": "desventaja",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -6585,7 +6657,7 @@
   {
     "en": "To disagree",
     "es": "discrepar",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "disagree with a decision",
@@ -6596,7 +6668,7 @@
   {
     "en": "To disappear",
     "es": "desaparecer",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "disappear suddenly",
@@ -6607,7 +6679,7 @@
   {
     "en": "disappointed",
     "es": "decepcionado",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "feel disappointed",
@@ -6618,7 +6690,7 @@
   {
     "en": "disappointing",
     "es": "decepcionante",
-    "level": "b1",
+    "level": "B1",
     "type": "adjective",
     "example": {
       "en": "disappointing results",
@@ -6629,7 +6701,7 @@
   {
     "en": "disaster",
     "es": "desastre",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["general"],
     "example": {
@@ -6641,7 +6713,7 @@
   {
     "en": "discipline",
     "es": "disciplina",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["education"],
     "example": {
@@ -6653,7 +6725,7 @@
   {
     "en": "To discover",
     "es": "descubrir",
-    "level": "a2",
+    "level": "A2",
     "type": "verb",
     "example": {
       "en": "discover a secret",
@@ -6664,7 +6736,7 @@
   {
     "en": "discovery",
     "es": "descubrimiento",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["science"],
     "example": {
@@ -6676,7 +6748,7 @@
   {
     "en": "To discuss",
     "es": "discutir",
-    "level": "a1",
+    "level": "A1",
     "type": "verb",
     "example": {
       "en": "discuss a topic",
@@ -6687,7 +6759,7 @@
   {
     "en": "discussion",
     "es": "discusión",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["communication"],
     "example": {
@@ -6699,7 +6771,7 @@
   {
     "en": "disease",
     "es": "enfermedad",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "category": ["health"],
     "example": {
@@ -6711,7 +6783,7 @@
   {
     "en": "dish",
     "es": "plato",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "category": ["food"],
     "example": {
@@ -6723,7 +6795,7 @@
   {
     "en": "dishonest",
     "es": "deshonesto",
-    "level": "b2",
+    "level": "B2",
     "type": "adjective",
     "example": {
       "en": "dishonest behavior",
@@ -6734,7 +6806,7 @@
   {
     "en": "disk",
     "es": "disco",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "category": ["technology"],
     "example": {
@@ -8135,7 +8207,7 @@
       "en": "special event",
       "es": "evento especial"
     },
-    "ka": "მოვლენა"
+    "ka": "ღონისძიება"
   },
   {
     "en": "eventually",
@@ -13750,18 +13822,6 @@
     "ka": "დამზადება"
   },
   {
-    "en": "mall",
-    "es": "centro comercial",
-    "level": "A1",
-    "type": "noun",
-    "category": ["places"],
-    "example": {
-      "en": "go to mall",
-      "es": "ir al centro comercial"
-    },
-    "ka": "მოლი"
-  },
-  {
     "en": "man",
     "es": "hombre",
     "level": "A1",
@@ -16162,7 +16222,7 @@
     "ka": "პანელი"
   },
   {
-    "en": "pants",
+    "en": "pants, trousers",
     "es": "pantalones",
     "level": "A1",
     "type": "noun",
@@ -16791,7 +16851,7 @@
       "en": "chess piece",
       "es": "pieza de ajedrez"
     },
-    "ka": "ცალი"
+    "ka": "ნაჭერი"
   },
   {
     "en": "pipe",
@@ -19712,18 +19772,6 @@
     "ka": "სეზონი"
   },
   {
-    "en": "second",
-    "es": "segundo",
-    "level": "A1",
-    "type": "noun",
-    "category": ["time"],
-    "example": {
-      "en": "one second",
-      "es": "un segundo"
-    },
-    "ka": "მეორე"
-  },
-  {
     "en": "secondary",
     "es": "secundario",
     "level": "B1",
@@ -21508,18 +21556,6 @@
     "ka": "დგომა"
   },
   {
-    "en": "stand",
-    "es": "soporte",
-    "level": "B2",
-    "type": "noun",
-    "category": ["object"],
-    "example": {
-      "en": "music stand",
-      "es": "atríl"
-    },
-    "ka": "დგომა"
-  },
-  {
     "en": "star",
     "es": "estrella",
     "level": "A1",
@@ -21550,18 +21586,6 @@
     "example": {
       "en": "start work",
       "es": "empezar trabajo"
-    },
-    "ka": "დაწყება"
-  },
-  {
-    "en": "start",
-    "es": "inicio",
-    "level": "A2",
-    "type": "noun",
-    "category": ["action"],
-    "example": {
-      "en": "race start",
-      "es": "inicio carrera"
     },
     "ka": "დაწყება"
   },
@@ -24372,18 +24396,6 @@
     "ka": "მონახულება"
   },
   {
-    "en": "visit",
-    "es": "visita",
-    "level": "A1",
-    "type": "noun",
-    "category": ["action"],
-    "example": {
-      "en": "family visit",
-      "es": "visita familiar"
-    },
-    "ka": "ვიზიტი"
-  },
-  {
     "en": "visitor",
     "es": "visitante",
     "level": "A1",
@@ -24737,18 +24749,6 @@
     "example": {
       "en": "watch TV",
       "es": "mirar televisión"
-    },
-    "ka": "ყურება"
-  },
-  {
-    "en": "watch",
-    "es": "reloj",
-    "level": "A1",
-    "type": "noun",
-    "category": ["object"],
-    "example": {
-      "en": "wrist watch",
-      "es": "reloj de pulsera"
     },
     "ka": "ყურება"
   },
@@ -25703,18 +25703,6 @@
       "es": "escritor famoso"
     },
     "ka": "მწერალი"
-  },
-  {
-    "en": "writing",
-    "es": "escritura",
-    "level": "A1",
-    "type": "noun",
-    "category": ["activity"],
-    "example": {
-      "en": "enjoy writing",
-      "es": "disfrutar escribiendo"
-    },
-    "ka": "ნაწერი"
   },
   {
     "en": "written",
@@ -43087,18 +43075,6 @@
     "ka": "კმაყოფილება"
   },
   {
-    "en": "say",
-    "es": "decir",
-    "level": "C1",
-    "type": "noun",
-    "category": ["expression"],
-    "example": {
-      "en": "have a say",
-      "es": "tener voz"
-    },
-    "ka": "განცხადება, სათქმელი"
-  },
-  {
     "en": "scandal",
     "es": "escándalo",
     "level": "B2",
@@ -47482,7 +47458,7 @@
   {
     "en": "approval",
     "es": "aprobación",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "example": {
       "en": "seek approval",
@@ -47494,7 +47470,7 @@
   {
     "en": "argument",
     "es": "argumento",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "example": {
       "en": "strong argument",
@@ -47506,7 +47482,7 @@
   {
     "en": "arrangement",
     "es": "acuerdo, organización",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "example": {
       "en": "make an arrangement",
@@ -47518,7 +47494,7 @@
   {
     "en": "beginning",
     "es": "principio",
-    "level": "a1",
+    "level": "A1",
     "type": "noun",
     "example": {
       "en": "at the beginning",
@@ -47530,7 +47506,7 @@
   {
     "en": "category",
     "es": "categoría",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "example": {
       "en": "category of products",
@@ -47542,7 +47518,7 @@
   {
     "en": "chance",
     "es": "oportunidad",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "example": {
       "en": "take a chance",
@@ -47554,7 +47530,7 @@
   {
     "en": "childhood",
     "es": "infancia",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "example": {
       "en": "childhood memories",
@@ -47566,7 +47542,7 @@
   {
     "en": "choice",
     "es": "elección",
-    "level": "a2",
+    "level": "A2",
     "type": "noun",
     "example": {
       "en": "make a choice",
@@ -47578,7 +47554,7 @@
   {
     "en": "circumstance",
     "es": "circunstancia",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "example": {
       "en": "under certain circumstances",
@@ -47590,7 +47566,7 @@
   {
     "en": "combination",
     "es": "combinación",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "example": {
       "en": "perfect combination",
@@ -47602,7 +47578,7 @@
   {
     "en": "concentration",
     "es": "concentración",
-    "level": "b2",
+    "level": "B2",
     "type": "noun",
     "example": {
       "en": "lack of concentration",
@@ -47614,7 +47590,7 @@
   {
     "en": "conclusion",
     "es": "conclusión",
-    "level": "b1",
+    "level": "B1",
     "type": "noun",
     "example": {
       "en": "reach a conclusion",
@@ -47960,18 +47936,6 @@
     "ka": "მომარაგება"
   },
   {
-    "en": "support",
-    "es": "apoyo",
-    "level": "A2",
-    "type": "noun",
-    "example": {
-      "en": "need support",
-      "es": "necesitar apoyo"
-    },
-    "category": ["assistance"],
-    "ka": "მხარდაჭერა"
-  },
-  {
     "en": "supporter",
     "es": "seguidor",
     "level": "B1",
@@ -48063,18 +48027,6 @@
     "example": {
       "en": "swim lesson",
       "es": "clase de natación"
-    },
-    "category": ["activity"],
-    "ka": "ცურვა"
-  },
-  {
-    "en": "swimming",
-    "es": "nadar",
-    "level": "A1",
-    "type": "noun",
-    "example": {
-      "en": "go swimming",
-      "es": "ir a nadar"
     },
     "category": ["activity"],
     "ka": "ცურვა"
@@ -48702,6 +48654,18 @@
     },
     "category": "Food",
     "ka": "პომიდორი"
+  },
+  {
+    "en": "cucumber",
+    "es": "tomate",
+    "level": "A1",
+    "type": "noun",
+    "example": {
+      "en": "ripe tomato",
+      "es": "tomate maduro"
+    },
+    "category": "Food",
+    "ka": "კიტრი"
   },
   {
     "en": "ton",
@@ -49775,7 +49739,7 @@
       "en": "hurt back",
       "es": "dolor espalda"
     },
-    "ka": "ზურგი"
+    "ka": "ზურგი, (უკან)"
   },
   {
     "en": "back",
@@ -50197,18 +50161,6 @@
     "ka": "შავი"
   },
   {
-    "en": "black",
-    "es": "negro",
-    "level": "A1",
-    "type": "noun",
-    "category": ["color"],
-    "example": {
-      "en": "wear black",
-      "es": "vestir negro"
-    },
-    "ka": "შავი"
-  },
-  {
     "en": "To blame",
     "es": "culpar",
     "level": "B2",
@@ -50285,18 +50237,6 @@
     "example": {
       "en": "blue sky",
       "es": "cielo azul"
-    },
-    "ka": "ლურჯი"
-  },
-  {
-    "en": "blue",
-    "es": "azul",
-    "level": "A1",
-    "type": "noun",
-    "category": ["color"],
-    "example": {
-      "en": "paint blue",
-      "es": "pintar azul"
     },
     "ka": "ლურჯი"
   },
@@ -51351,7 +51291,7 @@
     "en": "cold",
     "es": "resfriado",
     "level": "A1",
-    "type": "noun",
+    "type": "adjective",
     "category": ["health"],
     "example": {
       "en": "catch cold",
@@ -52492,7 +52432,7 @@
       "en": "in detail",
       "es": "en detalle"
     },
-    "ka": "დეტალები"
+    "ka": "დეტალი"
   },
   {
     "en": "To detail",
@@ -53408,7 +53348,7 @@
       "en": "do exercise",
       "es": "hacer ejercicio"
     },
-    "ka": "ვარჯიში"
+    "ka": "სავარჯიშო"
   },
   {
     "en": "To exercise",
@@ -53651,18 +53591,6 @@
     "ka": "დაცემა"
   },
   {
-    "en": "fall",
-    "es": "caída",
-    "level": "A1",
-    "type": "noun",
-    "category": ["movement"],
-    "example": {
-      "en": "autumn fall",
-      "es": "otoño"
-    },
-    "ka": "დაცემა"
-  },
-  {
     "en": "family",
     "es": "familia",
     "level": "A1",
@@ -53796,7 +53724,7 @@
       "en": "favorite food",
       "es": "comida favorita"
     },
-    "ka": "საყვარელი"
+    "ka": "ფავორიტი"
   },
   {
     "en": "favorite",
@@ -54711,7 +54639,7 @@
       "en": "gold color",
       "es": "color dorado"
     },
-    "ka": "ოქროსი"
+    "ka": "ოქროსფერი"
   },
   {
     "en": "good",
@@ -57584,6 +57512,39 @@
     "ka": "ნარინჯისფერი"
   },
   {
+    "en": "tangerine",
+    "es": "naranja",
+    "level": "A1",
+    "type": "noun",
+    "example": {
+      "en": "orange juice",
+      "es": "jugo de naranja"
+    },
+    "ka": "მანდარინი"
+  },
+  {
+    "en": "graphfruit",
+    "es": "naranja",
+    "level": "A1",
+    "type": "noun",
+    "example": {
+      "en": "orange juice",
+      "es": "jugo de naranja"
+    },
+    "ka": "გრეიფრუტი"
+  },
+  {
+    "en": "Pear",
+    "es": "naranja",
+    "level": "A1",
+    "type": "noun",
+    "example": {
+      "en": "orange juice",
+      "es": "jugo de naranja"
+    },
+    "ka": "მსახლი"
+  },
+  {
     "en": "order",
     "es": "orden",
     "level": "A1",
@@ -58506,7 +58467,7 @@
       "en": "give a present",
       "es": "dar un regalo"
     },
-    "ka": "აწმყო, ამჟამინდელი"
+    "ka": "აწმყო"
   },
   {
     "en": "To present",
@@ -59898,6 +59859,17 @@
       "es": "sentar a los invitados"
     },
     "ka": "დაჯდომა"
+  },
+  {
+    "en": "second",
+    "es": "segundo",
+    "level": "A1",
+    "type": "noun",
+    "example": {
+      "en": "second place",
+      "es": "segundo lugar"
+    },
+    "ka": "წამი"
   },
   {
     "en": "second",
