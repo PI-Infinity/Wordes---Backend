@@ -4,6 +4,7 @@ const router = express.Router();
 const authentication = require("../controllers/authController");
 const users = require("../controllers/userController");
 const stats = require("../controllers/statsContoroller");
+const admin = require("../controllers/adminController");
 
 // const chats = require('../controllers/messageController');
 
@@ -34,5 +35,10 @@ router.route("/users/:id/counter").patch(stats.pressCounter);
 // words
 router.route("/words").get(stats.getWord);
 router.route("/words").post(stats.addWord);
+
+// admin
+router.route("/admin/stats").get(admin.getUsers);
+router.route("/admin/stats/user/:email").get(admin.getUserStats);
+router.route("/admin/stats/charts").get(admin.getCharts);
 
 module.exports = router;

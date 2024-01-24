@@ -46,7 +46,7 @@ const userSchema = new mongoose.Schema({
   dailyWordCounter: {
     type: Object,
   },
-  activePack: { type: String },
+  activePack: { type: String, default: "Common Used Nouns A1" },
   subscription: {
     activationDate: {
       type: Date,
@@ -81,11 +81,11 @@ const userSchema = new mongoose.Schema({
   registerMachineId: { type: String },
   createdAt: {
     type: Date,
-    default: Date.now(),
+    default: new Date(),
   },
   lastLoginAt: {
     type: Date,
-    default: Date.now(),
+    default: new Date(),
   },
   passwordResetToken: String,
   passwordResetExpires: Date,

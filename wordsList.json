@@ -2287,7 +2287,7 @@
       "en": "go to the beach",
       "es": "ir a la playa"
     },
-    "ka": "პლაჟი"
+    "ka": "სანაპირო"
   },
   {
     "en": "bean",
@@ -5234,18 +5234,6 @@
     "ka": "ქუქი"
   },
   {
-    "en": "cooking",
-    "es": "cocina",
-    "level": "A1",
-    "type": "noun",
-    "category": ["food"],
-    "example": {
-      "en": "enjoy cooking",
-      "es": "disfrutar cocinando"
-    },
-    "ka": "სამზადისი"
-  },
-  {
     "en": "corn",
     "es": "maíz",
     "level": "B1",
@@ -5747,18 +5735,6 @@
     "ka": "მოცეკვავე"
   },
   {
-    "en": "dancing",
-    "es": "danza",
-    "level": "A1",
-    "type": "noun",
-    "category": ["entertainment"],
-    "example": {
-      "en": "love dancing",
-      "es": "amar la danza"
-    },
-    "ka": "ცეკვა"
-  },
-  {
     "en": "danger",
     "es": "peligro",
     "level": "A2",
@@ -6226,7 +6202,7 @@
       "en": "give a description",
       "es": "dar una descripción"
     },
-    "ka": "აღწერილობა"
+    "ka": "აღწერა"
   },
   {
     "en": "To deserve",
@@ -10413,7 +10389,7 @@
     "ka": "ბებია"
   },
   {
-    "en": "grandparent",
+    "en": "grandparents",
     "es": "abuelo",
     "level": "A1",
     "type": "noun",
@@ -16151,18 +16127,6 @@
     "ka": "მხატვარი"
   },
   {
-    "en": "painting",
-    "es": "pintura",
-    "level": "A1",
-    "type": "noun",
-    "category": ["art"],
-    "example": {
-      "en": "oil painting",
-      "es": "pintura al óleo"
-    },
-    "ka": "ხატვა"
-  },
-  {
     "en": "pair",
     "es": "par",
     "level": "A1",
@@ -18392,18 +18356,6 @@
     "ka": "მკითხველი"
   },
   {
-    "en": "reading",
-    "es": "lectura",
-    "level": "A1",
-    "type": "noun",
-    "category": ["activity"],
-    "example": {
-      "en": "enjoy reading",
-      "es": "disfrutar de la lectura"
-    },
-    "ka": "კითხვა"
-  },
-  {
     "en": "ready",
     "es": "listo",
     "level": "A1",
@@ -20414,13 +20366,13 @@
     "en": "shopping",
     "es": "compras",
     "level": "A1",
-    "type": "noun",
+    "type": "verb",
     "category": ["activity"],
     "example": {
       "en": "go shopping",
       "es": "ir de compras"
     },
-    "ka": "შოპინგი"
+    "ka": "საყიდლებზე სიარული"
   },
   {
     "en": "short",
@@ -21368,18 +21320,6 @@
       "es": "deletrear palabra"
     },
     "ka": "დამარცვლა"
-  },
-  {
-    "en": "spelling",
-    "es": "ortografía",
-    "level": "A1",
-    "type": "noun",
-    "category": ["education"],
-    "example": {
-      "en": "check spelling",
-      "es": "revisar ortografía"
-    },
-    "ka": "მართლწერა"
   },
   {
     "en": "To spend",
@@ -50446,18 +50386,6 @@
     "ka": "ყავისფერი"
   },
   {
-    "en": "brown",
-    "es": "marrón",
-    "level": "A1",
-    "type": "noun",
-    "category": ["color"],
-    "example": {
-      "en": "color brown",
-      "es": "color marrón"
-    },
-    "ka": "ყავისფერი"
-  },
-  {
     "en": "To brush",
     "es": "cepillar",
     "level": "A2",
@@ -50853,7 +50781,7 @@
       "en": "climate change",
       "es": "cambio climático"
     },
-    "ka": "შეცვლა"
+    "ka": "ცვლილება"
   },
   {
     "en": "To change",
@@ -51744,18 +51672,6 @@
       "es": "corregir errores"
     },
     "ka": "გასწორება"
-  },
-  {
-    "en": "cost",
-    "es": "costo",
-    "level": "A1",
-    "type": "noun",
-    "category": ["finance"],
-    "example": {
-      "en": "total cost",
-      "es": "costo total"
-    },
-    "ka": "ღირებულება"
   },
   {
     "en": "To cost",
@@ -54823,18 +54739,6 @@
     "ka": "გამოცნობა"
   },
   {
-    "en": "guess",
-    "es": "suposición",
-    "level": "A1",
-    "type": "noun",
-    "category": ["assumption"],
-    "example": {
-      "en": "make a guess",
-      "es": "hacer una suposición"
-    },
-    "ka": "გამოცნობა"
-  },
-  {
     "en": "guide",
     "es": "guía",
     "level": "A2",
@@ -55416,7 +55320,7 @@
       "en": "come in",
       "es": "entrar"
     },
-    "ka": "in"
+    "ka": "ში (რაღაცაში)"
   },
   {
     "en": "To increase",
@@ -56309,7 +56213,6 @@
     },
     "ka": "ფოსტის გაგზავნა"
   },
-
   {
     "en": "To make",
     "es": "hacer",
@@ -56815,7 +56718,6 @@
     },
     "ka": "მუსიკალური"
   },
-
   {
     "en": "To name",
     "es": "nombrar",
@@ -56827,7 +56729,6 @@
     },
     "ka": "დარქმევა"
   },
-
   {
     "en": "moral",
     "es": "moral",
@@ -56950,7 +56851,6 @@
     },
     "ka": "თხრობა"
   },
-
   {
     "en": "narrow",
     "es": "estrecho",
@@ -57534,7 +57434,7 @@
     "ka": "გრეიფრუტი"
   },
   {
-    "en": "Pear",
+    "en": "pear",
     "es": "naranja",
     "level": "A1",
     "type": "noun",
@@ -59552,29 +59452,6 @@
     "ka": "რაუნდი"
   },
   {
-    "en": "routine",
-    "es": "rutina",
-    "level": "A1",
-    "type": "noun",
-    "category": ["habit"],
-    "example": {
-      "en": "daily routine",
-      "es": "rutina diaria"
-    },
-    "ka": "რუტინა"
-  },
-  {
-    "en": "routine",
-    "es": "rutinario",
-    "level": "B2",
-    "type": "adjective",
-    "example": {
-      "en": "routine check",
-      "es": "control rutinario"
-    },
-    "ka": "რუტინა"
-  },
-  {
     "en": "rubber",
     "es": "goma",
     "level": "B2",
@@ -60222,18 +60099,6 @@
     "ka": "ჩვენება"
   },
   {
-    "en": "show",
-    "es": "espectáculo",
-    "level": "A1",
-    "type": "noun",
-    "category": ["entertainment"],
-    "example": {
-      "en": "watch a show",
-      "es": "ver un espectáculo"
-    },
-    "ka": "ჩვენება"
-  },
-  {
     "en": "To shut",
     "es": "cerrar",
     "level": "A2",
@@ -60615,7 +60480,6 @@
       "es": "algunas manzanas"
     }
   },
-
   {
     "en": "sorry",
     "es": "lo siento",
@@ -61349,7 +61213,7 @@
       "en": "look up",
       "es": "mirar arriba"
     },
-    "ka": "up"
+    "ka": "ზევით"
   },
   {
     "en": "up",
@@ -61644,7 +61508,6 @@
     },
     "ka": "შეურაწყოფა"
   },
-
   {
     "en": "bid",
     "es": "oferta",
@@ -61679,7 +61542,6 @@
     },
     "ka": "აფეთქება"
   },
-
   {
     "en": "To blend",
     "es": "mezclar",
@@ -65013,5 +64875,720 @@
       "en": "One might say",
       "es": "Uno podría decir"
     }
+  },
+  {
+    "en": "Scarcity",
+    "ka": "სიმცირე, დეფიციტი",
+    "category": "business"
+  },
+  {
+    "en": "Negotiate",
+    "ka": "მოლაპარაკება",
+    "category": "business"
+  },
+  {
+    "en": "Interest rate",
+    "ka": "საპროცენტო განაკვეთი",
+    "category": "business"
+  },
+  {
+    "en": "Dividend",
+    "ka": "Დივიდენდი",
+    "category": "business"
+  },
+  {
+    "en": "Business card",
+    "ka": "Სავიზიტო ბარათი",
+    "category": "business"
+  },
+  {
+    "en": "Shipment",
+    "ka": "გადაზიდვა",
+    "category": "business"
+  },
+  {
+    "en": "Workspace",
+    "ka": "სამუშაო სივრცე",
+    "category": "business"
+  },
+  {
+    "en": "Income tax",
+    "ka": "Საშემოსავლო გადასახადი",
+    "category": "business"
+  },
+  {
+    "en": "Costs",
+    "ka": "ღირებულება",
+    "category": "business"
+  },
+  {
+    "en": "Diversify",
+    "ka": "დივერსიფიკაცია",
+    "category": "business"
+  },
+  {
+    "en": "Economical",
+    "ka": "ეკონომიკური",
+    "category": "business"
+  },
+  {
+    "en": "Credit card",
+    "ka": "Საკრედიტო ბარათი",
+    "category": "business"
+  },
+  {
+    "en": "Remuneration",
+    "ka": "ანაზღაურება",
+    "category": "business"
+  },
+  {
+    "en": "Outgoing",
+    "ka": "გამავალი",
+    "category": "business"
+  },
+  {
+    "en": "Petty cash",
+    "ka": "წვრილი ნაღდი ფული",
+    "category": "business"
+  },
+  {
+    "en": "Vice-president",
+    "ka": "Ვიცე პრეზიდენტი",
+    "category": "business"
+  },
+  {
+    "en": "Wastebasket",
+    "ka": "ნაგვის კალათა",
+    "category": "business"
+  },
+  {
+    "en": "Dismiss",
+    "ka": "გათავისუფლება",
+    "category": "business"
+  },
+  {
+    "en": "Lend",
+    "ka": "სესხება",
+    "category": "business"
+  },
+  {
+    "en": "Cost",
+    "ka": "ღირებულება",
+    "category": "business"
+  },
+  {
+    "en": "Down payment",
+    "ka": "წინასწარი გადახდა",
+    "category": "business"
+  },
+  {
+    "en": "Video conference",
+    "ka": "Ვიდეო კონფერენცია",
+    "category": "business"
+  },
+  {
+    "en": "Manage",
+    "ka": "Მართვა",
+    "category": "business"
+  },
+  {
+    "en": "Launch",
+    "ka": "გაშვება",
+    "category": "business"
+  },
+  {
+    "en": "Retailer",
+    "ka": "საცალო ვაჭრობა",
+    "category": "business"
+  },
+  {
+    "en": "Spreadsheet",
+    "ka": "ელ. ცხრილი, ტაბულა",
+    "category": "business"
+  },
+  {
+    "en": "Cold call",
+    "ka": "Ცივი საუბარი",
+    "category": "business"
+  },
+  {
+    "en": "Quit",
+    "ka": "გააჩერე",
+    "category": "business"
+  },
+  {
+    "en": "Break even",
+    "ka": "დაარღვიე",
+    "category": "business"
+  },
+  {
+    "en": "Hours",
+    "ka": "საათები",
+    "category": "business"
+  },
+  {
+    "en": "Notice",
+    "ka": "შენიშვნა",
+    "category": "business"
+  },
+  {
+    "en": "Accounts",
+    "ka": "ანგარიშები",
+    "category": "business"
+  },
+  {
+    "en": "Accruals",
+    "ka": "დარიცხვები",
+    "category": "business"
+  },
+  {
+    "en": "Liability",
+    "ka": "პასუხისმგებლობა",
+    "category": "business"
+  },
+  {
+    "en": "Fax",
+    "ka": "ფაქსი",
+    "category": "business"
+  },
+  {
+    "en": "Authorization",
+    "ka": "ავტორიზაცია",
+    "category": "business"
+  },
+  {
+    "en": "Log-in",
+    "ka": "Შესვლა",
+    "category": "business"
+  },
+  {
+    "en": "Earning",
+    "ka": "შოვნა",
+    "category": "business"
+  },
+  {
+    "en": "Temp",
+    "ka": "Ტემპი",
+    "category": "business"
+  },
+  {
+    "en": "Advertise",
+    "ka": "რეკლამა",
+    "category": "business"
+  },
+  {
+    "en": "Recruiter",
+    "ka": "რეკრუტერი",
+    "category": "business"
+  },
+  {
+    "en": "Cashier",
+    "ka": "მოლარე",
+    "category": "business"
+  },
+  {
+    "en": "Treasurer",
+    "ka": "ხაზინადარი",
+    "category": "business"
+  },
+  {
+    "en": "Tariff",
+    "ka": "ტარიფი",
+    "category": "business"
+  },
+  {
+    "en": "Purchasing",
+    "ka": "ყიდვა",
+    "category": "business"
+  },
+  {
+    "en": "Letterhead",
+    "ka": "ნაბეჭდი ბლანკი",
+    "category": "business"
+  },
+  {
+    "en": "Bill of lading",
+    "ka": "სატვირთო ზედნადები",
+    "category": "business"
+  },
+  {
+    "en": "Motherboard",
+    "ka": "დედა დაფა",
+    "category": "business"
+  },
+  {
+    "en": "Lease",
+    "ka": "იჯარა",
+    "category": "business"
+  },
+  {
+    "en": "Resign",
+    "ka": "გადადგეს",
+    "category": "business"
+  },
+  {
+    "en": "Quarterly",
+    "ka": "კვარტალური",
+    "category": "business"
+  },
+  {
+    "en": "Duties",
+    "ka": "მოვალეობები",
+    "category": "business"
+  },
+  {
+    "en": "Policy",
+    "ka": "პოლიტიკა",
+    "category": "business"
+  },
+  {
+    "en": "Purchase",
+    "ka": "Შესყიდვა",
+    "category": "business"
+  },
+  {
+    "en": "Rise",
+    "ka": "აწევა",
+    "category": "business"
+  },
+  {
+    "en": "Foreman",
+    "ka": "ოსტატი",
+    "category": "business"
+  },
+  {
+    "en": "Overhead",
+    "ka": "ზედნადები",
+    "category": "business"
+  },
+  {
+    "en": "Chairwoman",
+    "ka": "თავმჯდომარე",
+    "category": "business"
+  },
+  {
+    "en": "Board of directors",
+    "ka": "Დირექტორთა საბჭო",
+    "category": "business"
+  },
+  {
+    "en": "Retire",
+    "ka": "Გადადგეს",
+    "category": "business"
+  },
+  {
+    "en": "Vacation time",
+    "ka": "Დასვენების დრო",
+    "category": "business"
+  },
+  {
+    "en": "Collateral",
+    "ka": "გირაო",
+    "category": "business"
+  },
+  {
+    "en": "Withdraw",
+    "ka": "გაყვანა",
+    "category": "business"
+  },
+  {
+    "en": "Wholesale",
+    "ka": "Საბითუმო",
+    "category": "business"
+  },
+  {
+    "en": "Borrow",
+    "ka": "სესხე",
+    "category": "business"
+  },
+  {
+    "en": "Saleswoman",
+    "ka": "გამყიდველი",
+    "category": "business"
+  },
+  {
+    "en": "Merchandise",
+    "ka": "საქონელი",
+    "category": "business"
+  },
+  {
+    "en": "Upload",
+    "ka": "ატვირთვა",
+    "category": "business"
+  },
+  {
+    "en": "Net worth",
+    "ka": "წმინდა ღირებულება",
+    "category": "business"
+  },
+  {
+    "en": "Leave",
+    "ka": "დატოვე",
+    "category": "business"
+  },
+  {
+    "en": "Freight",
+    "ka": "სატვირთო",
+    "category": "business"
+  },
+  {
+    "en": "Typewriter",
+    "ka": "საბეჭდი მანქანა",
+    "category": "business"
+  },
+  {
+    "en": "Lucrative",
+    "ka": "Მომგებიანი",
+    "category": "business"
+  },
+  {
+    "en": "Cubicle",
+    "ka": "კუბიკი",
+    "category": "business"
+  },
+  {
+    "en": "Laborer",
+    "ka": "მუშაკი",
+    "category": "business"
+  },
+  {
+    "en": "No-win",
+    "ka": "არა მოგება",
+    "category": "business"
+  },
+  {
+    "en": "Buy",
+    "ka": "იყიდე",
+    "category": "business"
+  },
+  {
+    "en": "Debit",
+    "ka": "Სადებეტო",
+    "category": "business"
+  },
+  {
+    "en": "Offline",
+    "ka": "ხაზგარეშე",
+    "category": "business"
+  },
+  {
+    "en": "Invest",
+    "ka": "ინვესტიცია",
+    "category": "business"
+  },
+  {
+    "en": "Guidebook",
+    "ka": "სახელმძღვანელო",
+    "category": "business"
+  },
+  {
+    "en": "Overtime",
+    "ka": "Დროთა განმავლობაში",
+    "category": "business"
+  },
+  {
+    "en": "Sick leave",
+    "ka": "Დათხოვნა ავადმყოფობის გამო",
+    "category": "business"
+  },
+  {
+    "en": "Public holidays",
+    "ka": "სახალხო არდადეგები",
+    "category": "business"
+  },
+  {
+    "en": "Typeface",
+    "ka": "ტიპი",
+    "category": "business"
+  },
+  {
+    "en": "Deflation",
+    "ka": "დეფლაცია",
+    "category": "business"
+  },
+  {
+    "en": "Bottom line",
+    "ka": "ძირითადი ხაზი",
+    "category": "business"
+  },
+  {
+    "en": "Username",
+    "ka": "მომხმარებლის სახელი",
+    "category": "business"
+  },
+  {
+    "en": "Facilities",
+    "ka": "ნაგებობები",
+    "category": "business"
+  },
+  {
+    "en": "Wholesaler",
+    "ka": "ბითუმოვაჭრელი",
+    "category": "business"
+  },
+  {
+    "en": "Win-win",
+    "ka": "გამარჯვება-გამარჯვება",
+    "category": "business"
+  },
+  {
+    "en": "Purchase order",
+    "ka": "შეძენის შეკვეთა",
+    "category": "business"
+  },
+  {
+    "en": "Billboard",
+    "ka": "ბილბორდი",
+    "category": "business"
+  },
+  {
+    "en": "Coupon",
+    "ka": "კუპონი",
+    "category": "business"
+  },
+  {
+    "en": "Economy of scale",
+    "ka": "მასშტაბის ეკონომია",
+    "category": "business"
+  },
+  {
+    "en": "Co-worker",
+    "ka": "Თანამშრომელი",
+    "category": "business"
+  },
+  {
+    "en": "Benefits",
+    "ka": "სარგებელი",
+    "category": "business"
+  },
+  {
+    "en": "Biannual",
+    "ka": "ორწლიური",
+    "category": "business"
+  },
+  {
+    "en": "Headhunter",
+    "ka": "თავის მონადირე",
+    "category": "business"
+  },
+  {
+    "en": "Bookkeeping",
+    "ka": "ბუღალტრული აღრიცხვა",
+    "category": "business"
+  },
+  {
+    "en": "Unit cost",
+    "ka": "Ერთეულის ფასი",
+    "category": "business"
+  },
+  {
+    "en": "Make redundant",
+    "ka": "გააკეთე ზედმეტი",
+    "category": "business"
+  },
+  {
+    "en": "Expenses",
+    "ka": "Ხარჯები",
+    "category": "business"
+  },
+  {
+    "en": "Trainee",
+    "ka": "სტაჟიორი",
+    "category": "business"
+  },
+  {
+    "en": "Mailbox",
+    "ka": "ფოსტის ყუთი",
+    "category": "business"
+  },
+  {
+    "en": "Figures",
+    "ka": "ფიგურები",
+    "category": "business"
+  },
+  {
+    "en": "Vacancy",
+    "ka": "Ვაკანსია",
+    "category": "business"
+  },
+  {
+    "en": "Employ",
+    "ka": "დასაქმება",
+    "category": "business"
+  },
+  {
+    "en": "Trade-off",
+    "ka": "გარიგება",
+    "category": "business"
+  },
+  {
+    "en": "Workroom",
+    "ka": "სამუშაო ოთახი",
+    "category": "business"
+  },
+  {
+    "en": "Seller",
+    "ka": "Გამყიდველი",
+    "category": "business"
+  },
+  {
+    "en": "Lead",
+    "ka": "ტყვია",
+    "category": "business"
+  },
+  {
+    "en": "Salesman",
+    "ka": "გამყიდველი",
+    "category": "business"
+  },
+  {
+    "en": "Hourly",
+    "ka": "საათიანი",
+    "category": "business"
+  },
+  {
+    "en": "Prime rate",
+    "ka": "პრაიმ განაკვეთი",
+    "category": "business"
+  },
+  {
+    "en": "Overdraft",
+    "ka": "ოვერდრაფტი",
+    "category": "business"
+  },
+  {
+    "en": "Packing list",
+    "ka": "Ჩასალაგებელი სია",
+    "category": "business"
+  },
+  {
+    "en": "Waybill",
+    "ka": "გადასახდელი",
+    "category": "business"
+  },
+  {
+    "en": "Ads",
+    "ka": "რეკლამები",
+    "category": "business"
+  },
+  {
+    "en": "Paperweight",
+    "ka": "ქაღალდის წონა",
+    "category": "business"
+  },
+  {
+    "en": "Arbitration",
+    "ka": "არბიტრაჟი",
+    "category": "business"
+  },
+  {
+    "en": "Buyer",
+    "ka": "მყიდველი",
+    "category": "business"
+  },
+  {
+    "en": "Sell",
+    "ka": "გაყიდვა",
+    "category": "business"
+  },
+  {
+    "en": "Sales tax",
+    "ka": "Გაყიდვების საგადასახადო",
+    "category": "business"
+  },
+  {
+    "en": "Calculate",
+    "ka": "გამოთვლა",
+    "category": "business"
+  },
+  {
+    "en": "Intern",
+    "ka": "სტაჟიორი",
+    "category": "business"
+  },
+  {
+    "en": "Accounting",
+    "ka": "Აღრიცხვა",
+    "category": "business"
+  },
+  {
+    "en": "Briefcase",
+    "ka": "ჩანთა",
+    "category": "business"
+  },
+  {
+    "en": "Mogul",
+    "ka": "მოგული",
+    "category": "business"
+  },
+  {
+    "en": "Treasury",
+    "ka": "სახაზინო",
+    "category": "business"
+  },
+  {
+    "en": "Prospects",
+    "ka": "პერსპექტივები",
+    "category": "business"
+  },
+  {
+    "en": "Invoice",
+    "ka": "ინვოისი",
+    "category": "business"
+  },
+  {
+    "en": "Perk",
+    "ka": "პრემია",
+    "category": "business"
+  },
+  {
+    "en": "Increase",
+    "ka": "Მომატება",
+    "category": "business"
+  },
+  {
+    "en": "Graph",
+    "ka": "გრაფიკი",
+    "category": "business"
+  },
+  {
+    "en": "Mouse pad",
+    "ka": "მაუსის პანელი",
+    "category": "business"
+  },
+  {
+    "en": "Corner office",
+    "ka": "კუთხის ოფისი",
+    "category": "business"
+  },
+  {
+    "en": "Maternity leave",
+    "ka": "Დეკრეტული შვებულება",
+    "category": "business"
+  },
+  {
+    "en": "Warranty",
+    "ka": "Გარანტია",
+    "category": "business"
+  },
+  {
+    "en": "Refund",
+    "ka": "ანაზღაურება",
+    "category": "business"
+  },
+  {
+    "en": "Support",
+    "ka": "მხარდაჭერა",
+    "category": "business"
+  },
+  {
+    "en": "Stockholder",
+    "ka": "აქციონერი",
+    "category": "business"
+  },
+  {
+    "en": "Hire",
+    "ka": "Დაქირავება",
+    "category": "business"
   }
 ]

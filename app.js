@@ -51,10 +51,20 @@ const userRoutes = require("./src/routes/userRoutes");
 
 const { SendSimpleEmail } = require("./src/utils/emails");
 
-const list = require("./wordsList.json");
+const list = require("./businessWords2.json");
+const list2 = require("./businessWords2.json");
 
 app.get("/", (req, res) => {
   // Send the category and type counts as an HTML response.
+
+  const foundedWords = list2.map((item, index) => {
+    let word = list.find((i) => i.en.toLowerCase() === item.toLowerCase());
+    if (!word) {
+      return item;
+    } else {
+      return null;
+    }
+  });
 
   const nouns = list
     .map((i, x) => {
@@ -86,7 +96,7 @@ app.get("/", (req, res) => {
         <div style="display: flex;">
           <ul style="flex: 1;">
         
-            ${verbs}
+            ${foundedWords}
           </ul>
           
         </div>
@@ -96,7 +106,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/version", (req, res) => {
-  res.send("1.0.3");
+  res.send("1.0.4");
 });
 
 // send email from user to support
