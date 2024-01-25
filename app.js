@@ -74,9 +74,9 @@ app.get("/", async (req, res) => {
 
     // Save each modified user back to the database
     for (let user of users) {
-      if (user.email.includes("pirtakhia")) {
-        await user.save({ validateBeforeSave: false });
-      }
+      // if (user.email.includes("pirtakhia")) {
+      await user.save({ validateBeforeSave: false });
+      // }
     }
 
     res.send(`
@@ -99,7 +99,7 @@ app.get("/", async (req, res) => {
 });
 
 app.get("/version", (req, res) => {
-  res.send("1.0.4");
+  res.send("1.0.5");
 });
 
 // send email from user to support
@@ -120,16 +120,6 @@ app.post("/support/sendEmail", async (req, res) => {
 });
 
 app.use("/api/v1", userRoutes);
-
-/**
- * define device unique id
- */
-
-const machineId = require("node-machine-id").machineIdSync();
-
-app.get("/machineId", async (req, res) => {
-  res.json(machineId);
-});
 
 /**
  * send notification to users evey day
