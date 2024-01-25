@@ -122,6 +122,16 @@ app.post("/support/sendEmail", async (req, res) => {
 app.use("/api/v1", userRoutes);
 
 /**
+ * define device unique id
+ */
+
+const machineId = require("node-machine-id").machineIdSync();
+
+app.get("/machineId", async (req, res) => {
+  res.json(machineId);
+});
+
+/**
  * send notification to users evey day
  */
 const cron = require("node-cron");
