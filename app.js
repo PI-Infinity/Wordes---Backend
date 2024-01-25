@@ -51,58 +51,51 @@ const userRoutes = require("./src/routes/userRoutes");
 
 const { SendSimpleEmail } = require("./src/utils/emails");
 
-const list = require("./businessWords2.json");
-const list2 = require("./businessWords2.json");
+const list = require("./wordsList.json");
+const Users = require("./src/models/userModel");
 
-app.get("/", (req, res) => {
-  // Send the category and type counts as an HTML response.
+app.get("/", async (req, res) => {
+  try {
+    const users = await Users.find({});
+    const allowedWords = new Set(list.map((word) => word.en));
 
-  const foundedWords = list2.map((item, index) => {
-    let word = list.find((i) => i.en.toLowerCase() === item.toLowerCase());
-    if (!word) {
-      return item;
-    } else {
-      return null;
-    }
-  });
-
-  const nouns = list
-    .map((i, x) => {
-      if (i.type === "noun") {
-        return i.en;
-      }
-    })
-    .filter((it) => it);
-
-  const verbs = list
-    ?.map((i, x) => {
-      if (i.type === "verb") {
-        let v = i.en.split(" ")[1];
-        let found = nouns.find((it) => it === v);
-        if (found) {
-          return i.en;
+    users.forEach((user) => {
+      Object.keys(user.stats).forEach((key) => {
+        const originalLength = user.stats[key].length;
+        user.stats[key] = user.stats[key].filter((item) =>
+          allowedWords.has(item.en)
+        );
+        // Mark as modified if there are changes
+        if (user.stats[key].length !== originalLength) {
+          user.markModified("stats");
         }
-      }
-    })
-    .filter((itm) => itm);
+      });
+    });
 
-  res.send(`
-    <html>
-      <head>
-        <title>Category and Type Counts</title>
-      </head>
-      <body>
-        <h1>Counts (Descending Order)</h1>
-        <div style="display: flex;">
-          <ul style="flex: 1;">
-        
-            ${foundedWords}
+    // Save each modified user back to the database
+    for (let user of users) {
+      if (user.email.includes("pirtakhia")) {
+        await user.save({ validateBeforeSave: false });
+      }
+    }
+
+    res.send(`
+      <html>
+        <head>
+          <title>User Names</title>
+        </head>
+        <body>
+          <h1>User Names</h1>
+          <ul>
+            <!-- User names can be listed here -->
           </ul>
-          
-        </div>
-      </body>
-    </html>
-  `);
+        </body>
+      </html>
+    `);
+  } catch (error) {
+    console.error(error);
+    res.status(500).send("Error processing request");
+  }
 });
 
 app.get("/version", (req, res) => {
@@ -144,11 +137,10 @@ app.get("/machineId", async (req, res) => {
 const cron = require("node-cron");
 const { sendPushNotifications } = require("./src/utils/pushNotifications");
 const { updateDailyWordCounter } = require("./src/utils/dailyTotalCounter");
-const User = require("./src/models/userModel");
 
 cron.schedule("00 15 * * *", function () {
   const SendNotifs = async () => {
-    const usersWithTokens = await User.find({
+    const usersWithTokens = await Users.find({
       pushNotificationToken: { $exists: true, $ne: "" },
     });
 

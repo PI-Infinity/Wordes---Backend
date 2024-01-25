@@ -81,11 +81,11 @@ const userSchema = new mongoose.Schema({
   registerMachineId: { type: String },
   createdAt: {
     type: Date,
-    default: new Date(),
+    default: () => new Date(),
   },
   lastLoginAt: {
     type: Date,
-    default: new Date(),
+    default: () => new Date(),
   },
   passwordResetToken: String,
   passwordResetExpires: Date,
