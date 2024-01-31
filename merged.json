@@ -1,0 +1,2670 @@
+[
+  {
+    "word": "Variable",
+    "explain": {
+      "ka": "ცვლადი - ინახავს მონაცემთა მნიშვნელობებს.",
+      "en": "Stores data values."
+    }
+  },
+  {
+    "word": "Function",
+    "explain": {
+      "ka": "ფუნქცია - კონკრეტული დავალების შესრულება.",
+      "en": "Perform specific task."
+    }
+  },
+  {
+    "word": "Array",
+    "explain": {
+      "ka": "მასივი - სიის მსგავსი ობიექტი, რომელშიც მოთავსებულია კოლექციები.",
+      "en": "List-like object."
+    }
+  },
+  {
+    "word": "Object",
+    "explain": {
+      "ka": "ინახავს გასაღებიან კოლექციებს.",
+      "en": "Stores keyed collections."
+    }
+  },
+  {
+    "word": "Loop",
+    "explain": {
+      "ka": "იმეორებს მოქმედებებს.",
+      "en": "Repeats actions."
+    }
+  },
+  {
+    "word": "Condition",
+    "explain": {
+      "ka": "ამოწმებს კრიტერიუმებს.",
+      "en": "Checks criteria."
+    }
+  },
+  {
+    "word": "Callback",
+    "explain": {
+      "ka": "ფუნქცია, როგორც არგუმენტი.",
+      "en": "Function as argument."
+    }
+  },
+  {
+    "word": "Promise",
+    "explain": {
+      "ka": "ასახავს მომავალ შედეგს.",
+      "en": "Represents future result."
+    }
+  },
+  {
+    "word": "Async/Await",
+    "explain": {
+      "ka": "ასინქრონული კოდისთვის.",
+      "en": "For asynchronous code."
+    }
+  },
+  {
+    "word": "Class",
+    "explain": {
+      "ka": "ობიექტების გეგმა.",
+      "en": "Blueprint for objects."
+    }
+  },
+  {
+    "word": "Console",
+    "explain": {
+      "ka": "გამოაქვს შედეგი ეკრანზე.",
+      "en": "Provides debugging console."
+    }
+  },
+  {
+    "word": "DOM",
+    "explain": {
+      "ka": "წარმოადგენს HTML დოკუმენტებს.",
+      "en": "Represents HTML documents."
+    }
+  },
+  {
+    "word": "Event",
+    "explain": {
+      "ka": "პასუხი ქმედებებზე.",
+      "en": "Response to actions."
+    }
+  },
+  {
+    "word": "JSON",
+    "explain": {
+      "ka": "მონაცემთა გაცვლის ფორმატი.",
+      "en": "Data interchange format."
+    }
+  },
+  {
+    "word": "NaN",
+    "explain": {
+      "ka": "Not a Number - ურიცხვო მნიშვნელობა.",
+      "en": "'Not a Number' value."
+    }
+  },
+  {
+    "word": "Null",
+    "explain": {
+      "en": "Represents nothing.",
+      "ka": "აბრუნებს არაფერს"
+    }
+  },
+  {
+    "word": "Undefined",
+    "explain": {
+      "ka": "ცვლადი არ არის მინიჭებული.",
+      "en": "Variable not assigned."
+    }
+  },
+  {
+    "word": "Scope",
+    "explain": {
+      "ka": "ცვლადი წვდომის კონტექსტი.",
+      "en": "Variable access context."
+    }
+  },
+  {
+    "word": "Hoisting",
+    "explain": {
+      "ka": "ცვლადი/მეთოდის მოძრაობა.",
+      "en": "Variable/method movement."
+    }
+  },
+  {
+    "word": "Closure",
+    "explain": {
+      "ka": "ფუნქცია შენახული მონაცემებით.",
+      "en": "Function with preserved data."
+    }
+  },
+  {
+    "word": "IIFE",
+    "explain": {
+      "ka": "დაუყოვნებლივ გამოძახებული ფუნქციის გამოხატულება.",
+      "en": "Immediately Invoked Function Expression."
+    }
+  },
+  {
+    "word": "Let",
+    "explain": {
+      "ka": "Block Scoped ცვლადი.",
+      "en": "Block scoped variable."
+    }
+  },
+  {
+    "word": "Const",
+    "explain": {
+      "ka": "ბლოკის დიაპაზონი, უცვლელი ცვლადი.",
+      "en": "Block scoped, unchangeable variable."
+    }
+  },
+  {
+    "word": "Prototype",
+    "explain": {
+      "ka": "ობიექტის პროტოტიპის თვისება.",
+      "en": "Object's prototype property."
+    }
+  },
+  {
+    "word": "This",
+    "explain": {
+      "ka": "კონტექსტური მითითების საკვანძო სიტყვა.",
+      "en": "Context reference keyword."
+    }
+  },
+  {
+    "word": "New",
+    "explain": {
+      "ka": "ქმნის ახალ ობიექტს.",
+      "en": "Creates new object."
+    }
+  },
+  {
+    "word": "Delete",
+    "explain": {
+      "ka": "შლის ობიექტის თვისებას.",
+      "en": "Deletes object's property."
+    }
+  },
+  {
+    "word": "Typeof",
+    "explain": {
+      "ka": "აბრუნებს მონაცემთა ტიპს.",
+      "en": "Returns data type."
+    }
+  },
+  {
+    "word": "Instanceof",
+    "explain": {
+      "ka": "ამოწმებს ობიექტის მაგალითს.",
+      "en": "Checks object instance."
+    }
+  },
+  {
+    "word": "Try...catch",
+    "explain": {
+      "ka": "ამუშავებს გამონაკლისებს.",
+      "en": "Handles exceptions."
+    }
+  },
+  {
+    "word": "Finally",
+    "explain": {
+      "ka": "ახორციელებს მცდელობის/დაჭერის შემდეგ.",
+      "en": "Executes after try/catch."
+    }
+  },
+  {
+    "word": "Throw",
+    "explain": {
+      "ka": "ისვრის გამონაკლისს.",
+      "en": "Throws an exception."
+    }
+  },
+  {
+    "word": "Break",
+    "explain": {
+      "ka": "გადის მარყუჟიდან ან გადართვით.",
+      "en": "Exits loop or switch."
+    }
+  },
+  {
+    "word": "Continue",
+    "explain": {
+      "ka": "გამოტოვებს ციკლის გამეორებას.",
+      "en": "Skips loop iteration."
+    }
+  },
+  {
+    "word": "Debugger",
+    "explain": {
+      "ka": "აჩერებს შესრულებას გამართვისთვის.",
+      "en": "Stops execution for debugging."
+    }
+  },
+  {
+    "word": "Strict mode",
+    "explain": {
+      "ka": "ახორციელებს უფრო მკაცრ ანალიზს.",
+      "en": "Enforces stricter parsing."
+    }
+  },
+  {
+    "word": "Window",
+    "explain": {
+      "ka": "გლობალური ობიექტი ბრაუზერებში.",
+      "en": "Global object in browsers."
+    }
+  },
+  {
+    "word": "Document",
+    "explain": {
+      "ka": "წვდომა და შეცვალე DOM.",
+      "en": "Access and modify DOM."
+    }
+  },
+  {
+    "word": "Navigator",
+    "explain": {
+      "ka": "ასახავს მომხმარებლის ბრაუზერს.",
+      "en": "Represents user's browser."
+    }
+  },
+  {
+    "word": "Screen",
+    "explain": {
+      "ka": "ინფორმაცია მომხმარებლის ეკრანის შესახებ.",
+      "en": "Information about user's screen."
+    }
+  },
+  {
+    "word": "History",
+    "explain": {
+      "ka": "ბრაუზერის ნავიგაციის ისტორია.",
+      "en": "Browser navigation history."
+    }
+  },
+  {
+    "word": "Cookies",
+    "explain": {
+      "ka": "მონაცემების ადგილობრივად შენახვა.",
+      "en": "Store data locally."
+    }
+  },
+  {
+    "word": "SessionStorage",
+    "explain": {
+      "ka": "ინახავს მონაცემებს თითო სესიაზე.",
+      "en": "Stores data per session."
+    }
+  },
+  {
+    "word": "LocalStorage",
+    "explain": {
+      "ka": "ინახავს მონაცემებს ადგილობრივად.",
+      "en": "Stores data locally."
+    }
+  },
+  {
+    "word": "Fetch",
+    "explain": {
+      "ka": "აკეთებს ქსელის მოთხოვნებს.",
+      "en": "Makes network requests."
+    }
+  },
+  {
+    "word": "XMLHttpRequest",
+    "explain": {
+      "ka": "აკეთებს HTTP მოთხოვნებს.",
+      "en": "Makes HTTP requests."
+    }
+  },
+  {
+    "word": "AJAX",
+    "explain": {
+      "ka": "ასინქრონული JavaScript და XML.",
+      "en": "Asynchronous JavaScript and XML."
+    }
+  },
+  {
+    "word": "SetTimeout",
+    "explain": {
+      "ka": "ახორციელებს დაყოვნების შემდეგ.",
+      "en": "Executes after delay."
+    }
+  },
+  {
+    "word": "SetInterval",
+    "explain": {
+      "ka": "განმეორებით იძახებს ფუნქციას.",
+      "en": "Repeatedly calls function."
+    }
+  },
+  {
+    "word": "ClearTimeout",
+    "explain": {
+      "ka": "ასუფთავებს ვადას.",
+      "en": "Clears timeout."
+    }
+  },
+  {
+    "word": "ClearInterval",
+    "explain": {
+      "ka": "ასუფთავებს ინტერვალს.",
+      "en": "Clears interval."
+    }
+  },
+  {
+    "word": "Event Loop",
+    "explain": {
+      "ka": "ამუშავებს ასინქრონულ გამოძახებებს.",
+      "en": "Handles async callbacks."
+    }
+  },
+  {
+    "word": "Callback Queue",
+    "explain": {
+      "ka": "რიგი გამოძახებისთვის.",
+      "en": "Queue for callbacks."
+    }
+  },
+  {
+    "word": "Web API",
+    "explain": {
+      "ka": "ბრაუზერის მიერ მოწოდებული API.",
+      "en": "Browser provided APIs."
+    }
+  },
+  {
+    "word": "Node.js",
+    "explain": {
+      "ka": "JavaScript გაშვების გარემო.",
+      "en": "JavaScript runtime environment."
+    }
+  },
+  {
+    "word": "NPM",
+    "explain": {
+      "ka": "Node Package Manager.",
+      "en": "Node Package Manager."
+    }
+  },
+  {
+    "word": "Yarn",
+    "explain": {
+      "ka": "NPM-ის ალტერნატივა.",
+      "en": "Alternative to NPM."
+    }
+  },
+  {
+    "word": "Webpack",
+    "explain": {
+      "ka": "მოდულის ნაკრები.",
+      "en": "Module bundler."
+    }
+  },
+  {
+    "word": "Babel",
+    "explain": {
+      "ka": "JavaScript შემდგენელი.",
+      "en": "JavaScript compiler."
+    }
+  },
+  {
+    "word": "ES6",
+    "explain": {
+      "ka": "ECMAScript 2015.",
+      "en": "ECMAScript 2015."
+    }
+  },
+  {
+    "word": "Template Literals",
+    "explain": {
+      "ka": "სტრიქონის ინტერპოლაცია.",
+      "en": "String interpolation."
+    }
+  },
+  {
+    "word": "Destructuring",
+    "explain": {
+      "ka": "მნიშვნელობების ამოხსნა მასივიდან ან ობიექტებიდან.",
+      "en": "Unpacking values from arrays or objects."
+    }
+  },
+  {
+    "word": "Spread Operator",
+    "explain": {
+      "ka": "აფართოებს iterable ელემენტებს.",
+      "en": "Expands iterable elements."
+    }
+  },
+  {
+    "word": "Rest Parameters",
+    "explain": {
+      "ka": "ასახავს არგუმენტების განუსაზღვრელ რაოდენობას.",
+      "en": "Represents indefinite number of arguments."
+    }
+  },
+  {
+    "word": "Arrow Function",
+    "explain": {
+      "ka": "მოკლე ფუნქციის სინტაქსი.",
+      "en": "Shorter function syntax."
+    }
+  },
+  {
+    "word": "Default Parameters",
+    "explain": {
+      "ka": "ფუნქციის პარამეტრების ნაგულისხმევი მნიშვნელობები.",
+      "en": "Default values for function parameters."
+    }
+  },
+  {
+    "word": "Map",
+    "explain": {
+      "ka": "გასაღები-მნიშვნელობის წყვილების კოლექცია.",
+      "en": "Key-value pairs collection."
+    }
+  },
+  {
+    "word": "Set",
+    "explain": {
+      "ka": "უნიკალური ფასეულობების კოლექცია.",
+      "en": "Collection of unique values."
+    }
+  },
+  {
+    "word": "Symbol",
+    "explain": {
+      "ka": "ასახავს უნიკალურ იდენტიფიკატორს.",
+      "en": "Represents unique identifier."
+    }
+  },
+  {
+    "word": "Iterator",
+    "explain": {
+      "ka": "ობიექტი, რომელიც გამეორების საშუალებას იძლევა.",
+      "en": "Object that enables iteration."
+    }
+  },
+  {
+    "word": "Generator",
+    "explain": {
+      "ka": "წარმოქმნის მნიშვნელობების თანმიმდევრობას.",
+      "en": "Generates sequence of values."
+    }
+  },
+  {
+    "word": "Module",
+    "explain": {
+      "ka": "განმეორებით გამოყენებადი კოდის ნაწილი.",
+      "en": "Reusable piece of code."
+    }
+  },
+  {
+    "word": "Import",
+    "explain": {
+      "ka": "მოიცავს მოდულებს.",
+      "en": "Includes modules."
+    }
+  },
+  {
+    "word": "Export",
+    "explain": {
+      "ka": "მოდულების ექსპორტი.",
+      "en": "Exports modules."
+    }
+  },
+  {
+    "word": "Async Function",
+    "explain": {
+      "ka": "ამუშავებს ასინქრონულ ოპერაციებს.",
+      "en": "Handles asynchronous operations."
+    }
+  },
+  {
+    "word": "Await",
+    "explain": {
+      "ka": "ელოდება ასინქრონიზაციის ოპერაციას.",
+      "en": "Waits for async operation."
+    }
+  },
+  {
+    "word": "Callback Hell",
+    "explain": {
+      "ka": "ჩამოკიდებული გამოძახების პრობლემა.",
+      "en": "Nested callbacks problem."
+    }
+  },
+  {
+    "word": "Promisify",
+    "explain": {
+      "ka": "აკონვერტირებს გამოძახებას დაპირებად.",
+      "en": "Converts callback to promise."
+    }
+  },
+  {
+    "word": "Transpiler",
+    "explain": {
+      "ka": "აკონვერტირებს წყაროს კოდს.",
+      "en": "Converts source code."
+    }
+  },
+  {
+    "word": "Polyfill",
+    "explain": {
+      "ka": "ახორციელებს ფუნქციებს ძველ ბრაუზერებში.",
+      "en": "Implements features in older browsers."
+    }
+  },
+  {
+    "word": "Truthy",
+    "explain": {
+      "ka": "მნიშვნელობები, რომლებიც ჭეშმარიტია ლოგიკურ კონტექსტში.",
+      "en": "Values that are true in boolean context."
+    }
+  },
+  {
+    "word": "Falsy",
+    "explain": {
+      "ka": "მნიშვნელობები, რომლებიც ყალბია ლოგიკურ კონტექსტში.",
+      "en": "Values that are false in boolean context."
+    }
+  },
+  {
+    "word": "Execution Context",
+    "explain": {
+      "ka": "გარემო JavaScript კოდის შესრულებისთვის.",
+      "en": "Environment for JavaScript code execution."
+    }
+  },
+  {
+    "word": "Lexical Environment",
+    "explain": {
+      "ka": "კოდის ფარგლების იერარქია.",
+      "en": "Hierarchy of code scope."
+    }
+  },
+  {
+    "word": "Lexical Scope",
+    "explain": {
+      "ka": "ფარგლები დაფუძნებულია წყაროს კოდზე.",
+      "en": "Scope based on source code."
+    }
+  },
+  {
+    "word": "Global Scope",
+    "explain": {
+      "ka": "ცვლადები ხელმისაწვდომია ყველგან.",
+      "en": "Variables accessible everywhere."
+    }
+  },
+  {
+    "word": "Local Scope",
+    "explain": {
+      "ka": "ცვლადები ხელმისაწვდომი კონკრეტულ ტერიტორიაზე.",
+      "en": "Variables accessible in specific area."
+    }
+  },
+  {
+    "word": "Block Scope",
+    "explain": {
+      "ka": "ცვლადები ბლოკების ფარგლებში.",
+      "en": "Variables scoped within blocks."
+    }
+  },
+  {
+    "word": "Scope Chain",
+    "explain": {
+      "ka": "ფარგლების იერარქია",
+      "en": "Hierarchy of scopes."
+    }
+  },
+  {
+    "word": "Functional Programming",
+    "explain": {
+      "ka": "პროგრამირება ფუნქციებით.",
+      "en": "Programming with functions."
+    }
+  },
+  {
+    "word": "Object-Oriented Programming",
+    "explain": {
+      "ka": "პროგრამირება ობიექტებით.",
+      "en": "Programming with objects."
+    }
+  },
+  {
+    "word": "Immutable",
+    "explain": {
+      "en": "Unchangeable after creation."
+    }
+  },
+  {
+    "word": "Mutable",
+    "explain": {
+      "ka": "შესაცვლელია შექმნის შემდეგ.",
+      "en": "Changeable after creation."
+    }
+  },
+  {
+    "word": "Side Effect",
+    "explain": {
+      "ka": "ფუნქცია გავლენას ახდენს გარე მდგომარეობაზე.",
+      "en": "Function affects outside state."
+    }
+  },
+  {
+    "word": "Pure Function",
+    "explain": {
+      "en": "No side effects."
+    }
+  },
+  {
+    "word": "Higher-Order Function",
+    "explain": {
+      "ka": "ფუნქცია, რომელიც იღებს/აბრუნებს ფუნქციებს.",
+      "en": "Function that takes/returns functions."
+    }
+  },
+  {
+    "word": "First-Class Function",
+    "explain": {
+      "ka": "ფუნქცია განიხილება როგორც მნიშვნელობა.",
+      "en": "Function treated as value."
+    }
+  },
+  {
+    "word": "Currying",
+    "explain": {
+      "ka": "ფუნქციის კონვერტაცია მრავალი არგუმენტით ფუნქციების თანმიმდევრობით.",
+      "en": "Converting function with multiple arguments into sequence of functions."
+    }
+  },
+  {
+    "word": "Partial Application",
+    "explain": {
+      "ka": "ფუნქციის არგუმენტების წინასწარ შევსება.",
+      "en": "Pre-filling function arguments."
+    }
+  },
+  {
+    "word": "Memoization",
+    "explain": {
+      "ka": "ფუნქციის ქეშირების შედეგები.",
+      "en": "Caching function results."
+    }
+  },
+  {
+    "word": "Recursion",
+    "explain": {
+      "ka": "ფუნქცია თავის თავს იძახებს.",
+      "en": "Function calls itself."
+    }
+  },
+  {
+    "word": "Tail Call Optimization",
+    "explain": {
+      "ka": "აუმჯობესებს რეკურსიულ ზარებს.",
+      "en": "Optimizes recursive calls."
+    }
+  },
+  {
+    "word": "Event Bubbling",
+    "explain": {
+      "ka": "მოვლენა ვრცელდება DOM-ზე.",
+      "en": "Event propagates up DOM."
+    }
+  },
+  {
+    "word": "Event Capturing",
+    "explain": {
+      "ka": "მოვლენა ვრცელდება DOM-ში.",
+      "en": "Event propagates down DOM."
+    }
+  },
+  {
+    "word": "Event Delegation",
+    "explain": {
+      "ka": "მოვლენის მართვა უფრო მაღალ დონეზე.",
+      "en": "Handling events at higher level."
+    }
+  },
+  {
+    "word": "Event Handling",
+    "explain": {
+      "ka": "მომხმარებლის მოვლენების მართვა.",
+      "en": "Managing user events."
+    }
+  },
+  {
+    "word": "Event Listener",
+    "explain": {
+      "ka": "უსმენს მოვლენებს.",
+      "en": "Listens for events."
+    }
+  },
+  {
+    "word": "Event Object",
+    "explain": {
+      "ka": "ინფორმაცია მოვლენის შესახებ.",
+      "en": "Information about event."
+    }
+  },
+  {
+    "word": "Propagation",
+    "explain": {
+      "ka": "ღონისძიების მოგზაურობა DOM-ის მეშვეობით.",
+      "en": "Event travel through DOM."
+    }
+  },
+  {
+    "word": "Prevent Default",
+    "explain": {
+      "ka": "აჩერებს ნაგულისხმევ მოქმედებას.",
+      "en": "Stops default action."
+    }
+  },
+  {
+    "word": "Stop Propagation",
+    "explain": {
+      "ka": "აჩერებს მოვლენის ბუშტუკებს/ჩაღებას.",
+      "en": "Stops event bubbling/capturing."
+    }
+  },
+  {
+    "word": "Target",
+    "explain": {
+      "ka": "ელემენტი, რომელმაც გამოიწვია მოვლენა.",
+      "en": "Element that triggered event."
+    }
+  },
+  {
+    "word": "CurrentTarget",
+    "explain": {
+      "ka": "ელემენტი მსმენელთან.",
+      "en": "Element with listener."
+    }
+  },
+  {
+    "word": "AddEventListener",
+    "explain": {
+      "ka": "რეგისტრირდება მოვლენის მსმენელი.",
+      "en": "Registers event listener."
+    }
+  },
+  {
+    "word": "RemoveEventListener",
+    "explain": {
+      "ka": "აუქმებს ღონისძიების მსმენელის რეგისტრაციას.",
+      "en": "Unregisters event listener."
+    }
+  },
+  {
+    "word": "DOMContentLoaded",
+    "explain": {
+      "ka": "HTML სრულად დატვირთული და გაანალიზებულია.",
+      "en": "HTML fully loaded and parsed."
+    }
+  },
+  {
+    "word": "Load Event",
+    "explain": {
+      "ka": "გვერდი სრულად დატვირთულია, რესურსების ჩათვლით.",
+      "en": "Page fully loaded, including resources."
+    }
+  },
+  {
+    "word": "Unload Event",
+    "explain": {
+      "ka": "გვერდი იტვირთება.",
+      "en": "Page being unloaded."
+    }
+  },
+  {
+    "word": "Resize Event",
+    "explain": {
+      "ka": "ფანჯრის ზომის შეცვლა.",
+      "en": "Window resize."
+    }
+  },
+  {
+    "word": "Scroll Event",
+    "explain": {
+      "ka": "გვერდის გადახვევა.",
+      "en": "Scrolling page."
+    }
+  },
+  {
+    "word": "Focus Event",
+    "explain": {
+      "ka": "ელემენტი იძენს ყურადღებას.",
+      "en": "Element gains focus."
+    }
+  },
+  {
+    "word": "Blur Event",
+    "explain": {
+      "ka": "ელემენტი კარგავს ყურადღებას.",
+      "en": "Element loses focus."
+    }
+  },
+  {
+    "word": "Submit Event",
+    "explain": {
+      "ka": "ფორმის წარდგენა.",
+      "en": "Form submission."
+    }
+  },
+  {
+    "word": "Change Event",
+    "explain": {
+      "ka": "შეყვანის მნიშვნელობა იცვლება.",
+      "en": "Input value changes."
+    }
+  },
+  {
+    "word": "Input Event",
+    "explain": {
+      "ka": "შეყვანის ცვლილებები.",
+      "en": "Input changes."
+    }
+  },
+  {
+    "word": "Click Event",
+    "explain": {
+      "ka": "დაწკაპუნება ელემენტზე.",
+      "en": "Clicking element."
+    }
+  },
+  {
+    "word": "DoubleClick Event",
+    "explain": {
+      "ka": "ორმაგი დაწკაპუნებით ელემენტი.",
+      "en": "Double clicking element."
+    }
+  },
+  {
+    "word": "Mouse Events",
+    "explain": {
+      "ka": "დაკავშირებულია მაუსის მოქმედებებთან.",
+      "en": "Related to mouse actions."
+    }
+  },
+  {
+    "word": "Keyboard Events",
+    "explain": {
+      "ka": "დაკავშირებულია კლავიატურის მოქმედებებთან.",
+      "en": "Related to keyboard actions."
+    }
+  },
+  {
+    "word": "Touch Events",
+    "explain": {
+      "ka": "დაკავშირებულია შეხების მოქმედებებთან.",
+      "en": "Related to touch actions."
+    }
+  },
+  {
+    "word": "Drag Events",
+    "explain": {
+      "ka": "დაკავშირებულია გადატანის მოქმედებებთან.",
+      "en": "Related to drag actions."
+    }
+  },
+  {
+    "word": "API",
+    "explain": {
+      "ka": "აპლიკაციის პროგრამირების ინტერფეისი.",
+      "en": "Application Programming Interface."
+    }
+  },
+  {
+    "word": "REST API",
+    "explain": {
+      "ka": "Representational State Transfer API.",
+      "en": "Representational State Transfer API."
+    }
+  },
+  {
+    "word": "GraphQL",
+    "explain": {
+      "ka": "API-ების შეკითხვის ენა.",
+      "en": "Query language for APIs."
+    }
+  },
+  {
+    "word": "Fetch API",
+    "explain": {
+      "ka": "HTTP მოთხოვნების განხორციელების მშობლიური გზა.",
+      "en": "Native way to make HTTP requests."
+    }
+  },
+  {
+    "word": "Axios",
+    "explain": {
+      "ka": "HTTP კლიენტის ბიბლიოთეკა.",
+      "en": "HTTP client library."
+    }
+  },
+  {
+    "word": "CORS",
+    "explain": {
+      "ka": "Cross-Origin Resource Sharing.",
+      "en": "Cross-Origin Resource Sharing."
+    }
+  },
+  {
+    "word": "XML",
+    "explain": {
+      "ka": "გაფართოებადი მარკირების ენა.",
+      "en": "Extensible Markup Language."
+    }
+  },
+  {
+    "word": "JWT",
+    "explain": {
+      "ka": "JSON Web Token.",
+      "en": "JSON Web Token."
+    }
+  },
+  {
+    "word": "OAuth",
+    "explain": {
+      "ka": "ღია სტანდარტი წვდომის დელეგაციისთვის.",
+      "en": "Open standard for access delegation."
+    }
+  },
+  {
+    "word": "ESLint",
+    "explain": {
+      "ka": "Code linting tool.",
+      "en": "Code linting tool."
+    }
+  },
+  {
+    "word": "Prettier",
+    "explain": {
+      "ka": "კოდის ფორმატირების ინსტრუმენტი.",
+      "en": "Code formatting tool."
+    }
+  },
+  {
+    "word": "Git",
+    "explain": {
+      "ka": "ვერსიის კონტროლის სისტემა.",
+      "en": "Version control system."
+    }
+  },
+  {
+    "word": "GitHub",
+    "explain": {
+      "ka": "Git საცავის ჰოსტინგი.",
+      "en": "Git repository hosting."
+    }
+  },
+  {
+    "word": "Bitbucket",
+    "explain": {
+      "ka": "Git საცავის ჰოსტინგი.",
+      "en": "Git repository hosting."
+    }
+  },
+  {
+    "word": "GitLab",
+    "explain": {
+      "ka": "Git საცავის ჰოსტინგი.",
+      "en": "Git repository hosting."
+    }
+  },
+  {
+    "word": "CI/CD",
+    "explain": {
+      "ka": "უწყვეტი ინტეგრაცია/უწყვეტი განლაგება.",
+      "en": "Continuous Integration/Continuous Deployment."
+    }
+  },
+  {
+    "word": "Jest",
+    "explain": {
+      "ka": "ტესტირების ჩარჩო.",
+      "en": "Testing framework."
+    }
+  },
+  {
+    "word": "Mocha",
+    "explain": {
+      "ka": "ტესტირების ჩარჩო.",
+      "en": "Testing framework."
+    }
+  },
+  {
+    "word": "Chai",
+    "explain": {
+      "ka": "Assertion ბიბლიოთეკა.",
+      "en": "Assertion library."
+    }
+  },
+  {
+    "word": "Enzyme",
+    "explain": {
+      "ka": "Testing utility for React.",
+      "en": "Testing utility for React."
+    }
+  },
+  {
+    "word": "React Testing Library",
+    "explain": {
+      "ka": "ბიბლიოთეკის ტესტირება React კომპონენტებისთვის.",
+      "en": "Testing library for React components."
+    }
+  },
+  {
+    "word": "Redux",
+    "explain": {
+      "ka": "სახელმწიფო მართვის ბიბლიოთეკა.",
+      "en": "State management library."
+    }
+  },
+  {
+    "word": "Context API",
+    "explain": {
+      "en": "React state management."
+    }
+  },
+  {
+    "word": "React Router",
+    "explain": {
+      "ka": "React ბიბლიოთეკის მარშრუტიზაცია.",
+      "en": "Routing library for React."
+    }
+  },
+  {
+    "word": "Vue",
+    "explain": {
+      "ka": "პროგრესული JavaScript ჩარჩო.",
+      "en": "Progressive JavaScript framework."
+    }
+  },
+  {
+    "word": "Angular",
+    "explain": {
+      "ka": "ვებ აპლიკაციის ჩარჩო.",
+      "en": "Web application framework."
+    }
+  },
+  {
+    "word": "Svelte",
+    "explain": {
+      "ka": "შემდგენელზე დაფუძნებული ჩარჩო.",
+      "en": "Compiler-based framework."
+    }
+  },
+  {
+    "word": "Next.js",
+    "explain": {
+      "ka": "React Framework სერვერის მხრიდან რენდერისთვის.",
+      "en": "React framework for server-side rendering."
+    }
+  },
+  {
+    "word": "Gatsby",
+    "explain": {
+      "ka": "სტატიკური საიტის გენერატორი React-ისთვის.",
+      "en": "Static site generator for React."
+    }
+  },
+  {
+    "word": "Apollo",
+    "explain": {
+      "ka": "GraphQL განხორციელება.",
+      "en": "GraphQL implementation."
+    }
+  },
+  {
+    "word": "Express",
+    "explain": {
+      "ka": "ვებ აპლიკაციის ჩარჩო Node.js-ისთვის.",
+      "en": "Web application framework for Node.js."
+    }
+  },
+  {
+    "word": "Koa",
+    "explain": {
+      "ka": "Web Framework for Node.js.",
+      "en": "Web framework for Node.js."
+    }
+  },
+  {
+    "word": "Fastify",
+    "explain": {
+      "ka": "Fast web frame for Node.js.",
+      "en": "Fast web framework for Node.js."
+    }
+  },
+  {
+    "word": "Socket.io",
+    "explain": {
+      "ka": "რეალურ დროში ორმხრივი მოვლენებზე დაფუძნებული კომუნიკაცია.",
+      "en": "Real-time bidirectional event-based communication."
+    }
+  },
+  {
+    "word": "PM2",
+    "explain": {
+      "ka": "პროცესის მენეჯერი Node.js-ისთვის.",
+      "en": "Process manager for Node.js."
+    }
+  },
+  {
+    "word": "Package.json",
+    "explain": {
+      "ka": "პროექტის მეტამონაცემების ფაილი.",
+      "en": "Project's metadata file."
+    }
+  },
+  {
+    "word": "Node_modules",
+    "explain": {
+      "ka": "საქაღალდე NPM პაკეტებისთვის.",
+      "en": "Folder for NPM packages."
+    }
+  },
+  {
+    "word": "Server-Side Rendering",
+    "explain": {
+      "ka": "გვერდების რენდერი სერვერზე.",
+      "en": "Rendering pages on the server."
+    }
+  },
+  {
+    "word": "Client-Side Rendering",
+    "explain": {
+      "ka": "რენდერი ბრაუზერში.",
+      "en": "Rendering in the browser."
+    }
+  },
+  {
+    "word": "Static Site Generation",
+    "explain": {
+      "ka": "HTML-ის გენერირება აშენების დროს.",
+      "en": "Generating HTML at build time."
+    }
+  },
+  {
+    "word": "Dynamic Rendering",
+    "explain": {
+      "ka": "სერვერის მხარის რენდერი ბოტებისთვის.",
+      "en": "Server-side rendering for bots."
+    }
+  },
+  {
+    "word": "Progressive Web App",
+    "explain": {
+      "ka": "ვებ აპლიკაცია მშობლიურის მსგავსი შესაძლებლობებით.",
+      "en": "Web app with native-like capabilities."
+    }
+  },
+  {
+    "word": "Service Worker",
+    "explain": {
+      "ka": "სკრიპტი, რომელიც მუშაობს ფონზე.",
+      "en": "Script that runs in the background."
+    }
+  },
+  {
+    "word": "Web Manifest",
+    "explain": {
+      "ka": "განსაზღვრავს ვებ აპლიკაციას.",
+      "en": "Defines web application."
+    }
+  },
+  {
+    "word": "Responsive Design",
+    "explain": {
+      "ka": "დიზაინი, რომელიც მუშაობს ნებისმიერ მოწყობილობაზე.",
+      "en": "Design that works on any device."
+    }
+  },
+  {
+    "word": "Flexbox",
+    "explain": {
+      "ka": "განლაგების მოდელი CSS-ში.",
+      "en": "Layout model in CSS."
+    }
+  },
+  {
+    "word": "Grid",
+    "explain": {
+      "ka": "CSS ბადის განლაგების სისტემა.",
+      "en": "CSS grid layout system."
+    }
+  },
+  {
+    "word": "Media Queries",
+    "explain": {
+      "ka": "CSS ტექნიკა რეაგირებისთვის.",
+      "en": "CSS technique for responsiveness."
+    }
+  },
+  {
+    "word": "Bootstrap",
+    "explain": {
+      "ka": "Front-end frame.",
+      "en": "Front-end framework."
+    }
+  },
+  {
+    "word": "Tailwind CSS",
+    "explain": {
+      "ka": "Utility-first CSS Framework.",
+      "en": "Utility-first CSS framework."
+    }
+  },
+  {
+    "word": "Sass",
+    "explain": {
+      "ka": "CSS წინასწარი პროცესორი.",
+      "en": "CSS preprocessor."
+    }
+  },
+  {
+    "word": "Less",
+    "explain": {
+      "ka": "CSS წინასწარი პროცესორი.",
+      "en": "CSS preprocessor."
+    }
+  },
+  {
+    "word": "PostCSS",
+    "explain": {
+      "ka": "CSS ტრანსფორმაციის ინსტრუმენტი.",
+      "en": "Tool for transforming CSS."
+    }
+  },
+  {
+    "word": "Autoprefixer",
+    "explain": {
+      "ka": "PostCSS დანამატი გამყიდველის პრეფიქსებისთვის.",
+      "en": "PostCSS plugin for vendor prefixes."
+    }
+  },
+  {
+    "word": "CSS Modules",
+    "explain": {
+      "ka": "ადგილობრივი ფარგლების CSS.",
+      "en": "Locally scoped CSS."
+    }
+  },
+  {
+    "word": "Styled Components",
+    "explain": {
+      "ka": "CSS JS ბიბლიოთეკაში.",
+      "en": "CSS in JS library."
+    }
+  },
+  {
+    "word": "JSS",
+    "explain": {
+      "ka": "CSS JS ბიბლიოთეკაში.",
+      "en": "CSS in JS library."
+    }
+  },
+  {
+    "word": "Emotion",
+    "explain": {
+      "ka": "CSS JS ბიბლიოთეკაში.",
+      "en": "CSS in JS library."
+    }
+  },
+  {
+    "word": "Material-UI",
+    "explain": {
+      "ka": "React კომპონენტების ბიბლიოთეკა.",
+      "en": "React components library."
+    }
+  },
+  {
+    "word": "Ant Design",
+    "explain": {
+      "ka": "React-ის დიზაინის ბიბლიოთეკა.",
+      "en": "Design library for React."
+    }
+  },
+  {
+    "word": "Semantic UI",
+    "explain": {
+      "ka": "UI კომპონენტის ჩარჩო.",
+      "en": "UI component framework."
+    }
+  },
+  {
+    "word": "MDBootstrap",
+    "explain": {
+      "ka": "Material Design for Bootstrap.",
+      "en": "Material Design for Bootstrap."
+    }
+  },
+  {
+    "word": "Figma",
+    "explain": {
+      "ka": "დიზაინის ინსტრუმენტი.",
+      "en": "Design tool."
+    }
+  },
+  {
+    "word": "Sketch",
+    "explain": {
+      "ka": "დიზაინის ინსტრუმენტი.",
+      "en": "Design tool."
+    }
+  },
+  {
+    "word": "Adobe XD",
+    "explain": {
+      "ka": "დიზაინის ინსტრუმენტი.",
+      "en": "Design tool."
+    }
+  },
+  {
+    "word": "InVision",
+    "explain": {
+      "ka": "ციფრული პროდუქტის დიზაინის პლატფორმა.",
+      "en": "Digital product design platform."
+    }
+  },
+  {
+    "word": "Zeplin",
+    "explain": {
+      "ka": "თანამშრომლობის ინსტრუმენტი დიზაინერებისა და დეველოპერებისთვის.",
+      "en": "Collaboration tool for designers and developers."
+    }
+  },
+  {
+    "word": "Docker",
+    "explain": {
+      "ka": "პლატფორმა აპლიკაციების შემუშავების, გადაზიდვისა და გაშვებისთვის.",
+      "en": "Platform for developing, shipping, and running applications."
+    }
+  },
+  {
+    "word": "Kubernetes",
+    "explain": {
+      "ka": "კონტეინერის ორკესტრირების სისტემა.",
+      "en": "Container orchestration system."
+    }
+  },
+  {
+    "word": "Vagrant",
+    "explain": {
+      "ka": "ვირტუალური მანქანების გარემოს შექმნისა და მართვის ინსტრუმენტი.",
+      "en": "Tool for building and managing virtual machine environments."
+    }
+  },
+  {
+    "word": "Ansible",
+    "explain": {
+      "ka": "ავტომატური პლატფორმა IT ამოცანებისთვის.",
+      "en": "Automation platform for IT tasks."
+    }
+  },
+  {
+    "word": "Terraform",
+    "explain": {
+      "ka": "ინფრასტრუქტურა, როგორც კოდის პროგრამული ინსტრუმენტი.",
+      "en": "Infrastructure as code software tool."
+    }
+  },
+  {
+    "word": "AWS",
+    "explain": {
+      "ka": "Amazon Web Services, Cloud Computing Services.",
+      "en": "Amazon Web Services, cloud computing services."
+    }
+  },
+  {
+    "word": "Azure",
+    "explain": {
+      "ka": "Microsoft-ის ღრუბლოვანი გამოთვლითი სერვისი.",
+      "en": "Microsoft's cloud computing service."
+    }
+  },
+  {
+    "word": "Google Cloud",
+    "explain": {
+      "ka": "Google-ის ღრუბლოვანი გამოთვლითი სერვისი.",
+      "en": "Google's cloud computing service."
+    }
+  },
+  {
+    "word": "DigitalOcean",
+    "explain": {
+      "ka": "Cloud ინფრასტრუქტურის პროვაიდერი.",
+      "en": "Cloud infrastructure provider."
+    }
+  },
+  {
+    "word": "Heroku",
+    "explain": {
+      "ka": "აპლიკაციების განლაგების ღრუბლოვანი პლატფორმა.",
+      "en": "Cloud platform for deploying applications."
+    }
+  },
+  {
+    "word": "Netlify",
+    "explain": {
+      "ka": "ჰოსტინგი და სარეზერვო სერვისები ვებ აპლიკაციებისთვის.",
+      "en": "Hosting and backend services for web applications."
+    }
+  },
+  {
+    "word": "Vercel",
+    "explain": {
+      "ka": "პლატფორმა ფრონტენდის ჩარჩოებისა და სტატიკური საიტებისთვის.",
+      "en": "Platform for frontend frameworks and static sites."
+    }
+  },
+  {
+    "word": "Firebase",
+    "explain": {
+      "ka": "პლატფორმა მობილური და ვებ აპლიკაციების შესაქმნელად.",
+      "en": "Platform for building mobile and web applications."
+    }
+  },
+  {
+    "word": "MongoDB",
+    "explain": {
+      "ka": "NoSQL მონაცემთა ბაზა.",
+      "en": "NoSQL database."
+    }
+  },
+  {
+    "word": "PostgreSQL",
+    "explain": {
+      "ka": "ობიექტურ-რელაციური მონაცემთა ბაზა.",
+      "en": "Object-relational database."
+    }
+  },
+  {
+    "word": "MySQL",
+    "explain": {
+      "ka": "რელატიური მონაცემთა ბაზა.",
+      "en": "Relational database."
+    }
+  },
+  {
+    "word": "SQLite",
+    "explain": {
+      "ka": "SQL-ის თვითმყოფადი მონაცემთა ბაზა.",
+      "en": "Self-contained SQL database."
+    }
+  },
+  {
+    "word": "Redis",
+    "explain": {
+      "ka": "მეხსიერების მონაცემთა სტრუქტურის შენახვა.",
+      "en": "In-memory data structure store."
+    }
+  },
+  {
+    "word": "Elasticsearch",
+    "explain": {
+      "ka": "საძიებო და ანალიტიკური სისტემა.",
+      "en": "Search and analytics engine."
+    }
+  },
+  {
+    "word": "REST",
+    "explain": {
+      "ka": "არქიტექტურული სტილი API-ებისთვის.",
+      "en": "Architectural style for APIs."
+    }
+  },
+  {
+    "word": "SOAP",
+    "explain": {
+      "ka": "პროტოკოლი ვებ სერვისებისთვის.",
+      "en": "Protocol for web services."
+    }
+  },
+  {
+    "word": "gRPC",
+    "explain": {
+      "ka": "მაღალი ეფექტურობის RPC ჩარჩო.",
+      "en": "High-performance RPC framework."
+    }
+  },
+  {
+    "word": "WebSockets",
+    "explain": {
+      "ka": "ინტერაქტიული კომუნიკაციის პროტოკოლი.",
+      "en": "Protocol for interactive communication."
+    }
+  },
+  {
+    "word": "Serverless",
+    "explain": {
+      "ka": "კოდის გაშვება სერვერების მართვის გარეშე.",
+      "en": "Run code without managing servers."
+    }
+  },
+  {
+    "word": "Microservices",
+    "explain": {
+      "ka": "არქიტექტურული სტილი შენობის აპლიკაციებისთვის.",
+      "en": "Architectural style for building applications."
+    }
+  },
+  {
+    "word": "Monolithic",
+    "explain": {
+      "ka": "ერთსაფეხურიანი პროგრამული აპლიკაცია.",
+      "en": "Single-tiered software application."
+    }
+  },
+  {
+    "word": "DevOps",
+    "explain": {
+      "ka": "პროგრამული უზრუნველყოფის შემუშავებისა და ოპერაციების პრაქტიკა.",
+      "en": "Practices for software development and operations."
+    }
+  },
+  {
+    "word": "Agile",
+    "explain": {
+      "ka": "განმეორებითი მიდგომა პროექტის მენეჯმენტში.",
+      "en": "Iterative approach to project management."
+    }
+  },
+  {
+    "word": "Scrum",
+    "explain": {
+      "ka": "Framework for Agile Development.",
+      "en": "Framework for Agile development."
+    }
+  },
+  {
+    "word": "Kanban",
+    "explain": {
+      "en": "Methodology for managing work."
+    }
+  },
+  {
+    "word": "Waterfall",
+    "explain": {
+      "ka": "პროექტის მენეჯმენტის თანმიმდევრული მოდელი.",
+      "en": "Sequential project management model."
+    }
+  },
+  {
+    "word": "MVP",
+    "explain": {
+      "ka": "მინიმალური სიცოცხლისუნარიანი პროდუქტი.",
+      "en": "Minimum Viable Product."
+    }
+  },
+  {
+    "word": "POC",
+    "explain": {
+      "ka": "კონცეფციის დამადასტურებელი",
+      "en": "Proof of Concept."
+    }
+  },
+  {
+    "word": "UX",
+    "explain": {
+      "ka": "მომხმარებლის გამოცდილება.",
+      "en": "User Experience."
+    }
+  },
+  {
+    "word": "UI",
+    "explain": {
+      "ka": "მომხმარებლის ინტერფეისი.",
+      "en": "User Interface."
+    }
+  },
+  {
+    "word": "A/B Testing",
+    "explain": {
+      "ka": "შედარებითი ტესტირების მეთოდი.",
+      "en": "Comparative testing method."
+    }
+  },
+  {
+    "word": "Analytics",
+    "explain": {
+      "ka": "მონაცემთა ანალიზი ინფორმაციისთვის.",
+      "en": "Data analysis for insights."
+    }
+  },
+  {
+    "word": "SEO",
+    "explain": {
+      "ka": "Search Engine Optimization.",
+      "en": "Search Engine Optimization."
+    }
+  },
+  {
+    "word": "SEM",
+    "explain": {
+      "ka": "Search Engine Marketing.",
+      "en": "Search Engine Marketing."
+    }
+  },
+  {
+    "word": "PPC",
+    "explain": {
+      "ka": "Pay-per-Click რეკლამა.",
+      "en": "Pay-Per-Click advertising."
+    }
+  },
+  {
+    "word": "Conversion Rate",
+    "explain": {
+      "ka": "მომხმარებელთა პროცენტი, რომლებიც იღებენ სასურველ ქმედებებს.",
+      "en": "Percentage of users who take desired action."
+    }
+  },
+  {
+    "word": "KPI",
+    "explain": {
+      "ka": "Key Performance Indicator.",
+      "en": "Key Performance Indicator."
+    }
+  },
+  {
+    "word": "ROI",
+    "explain": {
+      "en": "Return on Investment."
+    }
+  },
+  {
+    "word": "CTA",
+    "explain": {
+      "ka": "Call to Action.",
+      "en": "Call to Action."
+    }
+  },
+  {
+    "word": "Lead Generation",
+    "explain": {
+      "en": "Process of attracting prospects."
+    }
+  },
+  {
+    "word": "Customer Acquisition",
+    "explain": {
+      "ka": "ახალი მომხმარებლების მოპოვების პროცესი.",
+      "en": "Process of gaining new customers."
+    }
+  },
+  {
+    "word": "Churn Rate",
+    "explain": {
+      "ka": "შეფასება, რომლითაც კლიენტები წყვეტენ ბიზნესის კეთებას.",
+      "en": "Rate at which customers stop doing business."
+    }
+  },
+  {
+    "word": "Retention",
+    "explain": {
+      "ka": "მომხმარებლის შენარჩუნების უნარი.",
+      "en": "Ability to retain customers."
+    }
+  },
+  {
+    "word": "LTV",
+    "explain": {
+      "ka": "მომხმარებლის სიცოცხლის ღირებულება.",
+      "en": "Lifetime Value of a customer."
+    }
+  },
+  {
+    "word": "CAC",
+    "explain": {
+      "ka": "მომხმარებლის შეძენის ღირებულება.",
+      "en": "Customer Acquisition Cost."
+    }
+  },
+  {
+    "word": "Market Segmentation",
+    "explain": {
+      "en": "Dividing market into groups."
+    }
+  },
+  {
+    "word": "Target Market",
+    "explain": {
+      "ka": "პოტენციური კლიენტების კონკრეტული ჯგუფი.",
+      "en": "Specific group of potential customers."
+    }
+  },
+  {
+    "word": "Brand Awareness",
+    "explain": {
+      "ka": "რა ხარისხით არის აღიარებული ბრენდი.",
+      "en": "Extent to which brand is recognized."
+    }
+  },
+  {
+    "word": "Positioning",
+    "explain": {
+      "ka": "ბრენდის დამკვიდრება მომხმარებელთა გონებაში.",
+      "en": "Establishing brand in customers' minds."
+    }
+  },
+  {
+    "word": "Benchmarking",
+    "explain": {
+      "ka": "შედარება ინდუსტრიის სტანდარტებთან.",
+      "en": "Comparing against industry standards."
+    }
+  },
+  {
+    "word": "SWOT Analysis",
+    "explain": {
+      "en": "Strengths, Weaknesses, Opportunities, Threats analysis."
+    }
+  },
+  {
+    "word": "Competitor Analysis",
+    "explain": {
+      "ka": "კონკურენტების სტრატეგიების შეფასება.",
+      "en": "Assessing competitors' strategies."
+    }
+  },
+  {
+    "word": "Content Marketing",
+    "explain": {
+      "ka": "კონტენტის შექმნა და გავრცელება.",
+      "en": "Creating and distributing content."
+    }
+  },
+  {
+    "word": "Inbound Marketing",
+    "explain": {
+      "ka": "მოზიდვა მომხმარებელთა კონტენტის მეშვეობით.",
+      "en": "Attracting customers through content."
+    }
+  },
+  {
+    "word": "Outbound Marketing",
+    "explain": {
+      "ka": "ტრადიციული მარკეტინგის მეთოდები.",
+      "en": "Traditional marketing methods."
+    }
+  },
+  {
+    "word": "Affiliate Marketing",
+    "explain": {
+      "ka": "საკომისიოს შოვნა პროდუქციის რეკლამით.",
+      "en": "Earning commission by promoting products."
+    }
+  },
+  {
+    "word": "Influencer Marketing",
+    "explain": {
+      "ka": "ინფლუენსერების გამოყენება პროდუქტების მარკეტინგისთვის.",
+      "en": "Using influencers to market products."
+    }
+  },
+  {
+    "word": "Email Marketing",
+    "explain": {
+      "ka": "მარკეტინგის შეტყობინებების გაგზავნა ელექტრონული ფოსტით.",
+      "en": "Sending marketing messages via email."
+    }
+  },
+  {
+    "word": "Social Media Marketing",
+    "explain": {
+      "ka": "სოციალური მედიის პლატფორმების გამოყენება მარკეტინგისთვის.",
+      "en": "Using social media platforms for marketing."
+    }
+  },
+  {
+    "word": "Public Relations",
+    "explain": {
+      "ka": "ინფორმაციის გავრცელების მართვა.",
+      "en": "Managing spread of information."
+    }
+  },
+  {
+    "word": "Crisis Management",
+    "explain": {
+      "ka": "ორგანიზაციისთვის საფრთხის მართვა.",
+      "en": "Handling threats to organization."
+    }
+  },
+  {
+    "word": "Reputation Management",
+    "explain": {
+      "en": "Influencing perception of organization."
+    }
+  },
+  {
+    "word": "Event Marketing",
+    "explain": {
+      "ka": "პროდუქტების პოპულარიზაცია ღონისძიებების საშუალებით.",
+      "en": "Promoting products via events."
+    }
+  },
+  {
+    "word": "Product Launch",
+    "explain": {
+      "ka": "ახალი პროდუქტის შემოტანა ბაზარზე",
+      "en": "Introducing new product to market."
+    }
+  },
+  {
+    "word": "Branding",
+    "explain": {
+      "ka": "პროდუქტის/კომპანიის განსხვავებული იმიჯის შექმნა.",
+      "en": "Creating distinct image for product/company."
+    }
+  },
+  {
+    "word": "Pricing Strategy",
+    "explain": {
+      "ka": "პროდუქტის ფასის განსაზღვრა.",
+      "en": "Determining product's price."
+    }
+  },
+  {
+    "word": "Sales Strategy",
+    "explain": {
+      "ka": "დაგეგმე პროდუქციის/მომსახურების გაყიდვა.",
+      "en": "Plan to sell products/services."
+    }
+  },
+  {
+    "word": "Lead Nurturing",
+    "explain": {
+      "en": "Developing relationships with buyers."
+    }
+  },
+  {
+    "word": "Sales Funnel",
+    "explain": {
+      "ka": "მომხმარებლის მოგზაურობა შესაძენად.",
+      "en": "Consumer's journey to purchase."
+    }
+  },
+  {
+    "word": "CRM",
+    "explain": {
+      "ka": "Customer Relationship Management.",
+      "en": "Customer Relationship Management."
+    }
+  },
+  {
+    "word": "Market Research",
+    "explain": {
+      "en": "Gathering information about consumers' needs."
+    }
+  },
+  {
+    "word": "Data Analysis",
+    "explain": {
+      "ka": "მონაცემების გამოკვლევა, გაწმენდა, ტრანსფორმაცია და მოდელირება.",
+      "en": "Examining, cleaning, transforming, and modeling data."
+    }
+  },
+  {
+    "word": "Machine Learning",
+    "explain": {
+      "ka": "ალგორითმები, რომლებიც ავტომატურად უმჯობესდება გამოცდილებით.",
+      "en": "Algorithms that improve automatically through experience."
+    }
+  },
+  {
+    "word": "Artificial Intelligence",
+    "explain": {
+      "en": "Simulation of human intelligence in machines."
+    }
+  },
+  {
+    "word": "Data Mining",
+    "explain": {
+      "ka": "თარგების აღმოჩენის პროცესი მონაცემთა დიდ ნაკრებებში.",
+      "en": "Process of discovering patterns in large data sets."
+    }
+  },
+  {
+    "word": "Big Data",
+    "explain": {
+      "ka": "დიდი, რთული მონაცემთა ნაკრები.",
+      "en": "Large, complex data sets."
+    }
+  },
+  {
+    "word": "Cloud Computing",
+    "explain": {
+      "ka": "დისტანციური სერვერების გამოყენება მონაცემთა შენახვის, მართვისა და დამუშავებისთვის.",
+      "en": "Using remote servers for storing, managing, and processing data."
+    }
+  },
+  {
+    "word": "Virtual Reality",
+    "explain": {
+      "ka": "იმიტირებული გამოცდილება კომპიუტერული ტექნოლოგიების გამოყენებით.",
+      "en": "Simulated experience using computer technology."
+    }
+  },
+  {
+    "word": "Augmented Reality",
+    "explain": {
+      "ka": "რეალური სამყაროს გარემოს გაძლიერება კომპიუტერის მიერ გენერირებული აღქმის ინფორმაციით.",
+      "en": "Enhancing real-world environment with computer-generated perceptual information."
+    }
+  },
+  {
+    "word": "Blockchain",
+    "explain": {
+      "ka": "დეცენტრალიზებული, განაწილებული ledger ტექნოლოგია.",
+      "en": "Decentralized, distributed ledger technology."
+    }
+  },
+  {
+    "word": "Cryptocurrency",
+    "explain": {
+      "ka": "ციფრული ან ვირტუალური ვალუტა უსაფრთხოებისთვის კრიპტოგრაფიის გამოყენებით.",
+      "en": "Digital or virtual currency using cryptography for security."
+    }
+  },
+  {
+    "word": "Bitcoin",
+    "explain": {
+      "ka": "ციფრული ვალუტის ტიპი.",
+      "en": "Type of digital currency."
+    }
+  },
+  {
+    "word": "Ethereum",
+    "explain": {
+      "ka": "ბლოკჩეინზე დაფუძნებული პროგრამული პლატფორმა.",
+      "en": "Blockchain-based software platform."
+    }
+  },
+  {
+    "word": "Smart Contract",
+    "explain": {
+      "ka": "თვითშემსრულებელი ხელშეკრულება პირობებით პირდაპირ კოდში ჩაწერილი.",
+      "en": "Self-executing contract with terms directly written into code."
+    }
+  },
+  {
+    "word": "IoT",
+    "explain": {
+      "ka": "ინტერნეტი ნივთები; გამოთვლითი მოწყობილობების ურთიერთდაკავშირება ყოველდღიურ ობიექტებში.",
+      "en": "Internet of Things; interconnection of computing devices embedded in everyday objects."
+    }
+  },
+  {
+    "word": "Cybersecurity",
+    "explain": {
+      "ka": "სისტემების, ქსელების და პროგრამების დაცვა ციფრული შეტევებისგან.",
+      "en": "Protecting systems, networks, and programs from digital attacks."
+    }
+  },
+  {
+    "word": "Malware",
+    "explain": {
+      "ka": "მავნე პროგრამა, რომელიც განკუთვნილია კომპიუტერების დაზიანების ან გამორთვისთვის.",
+      "en": "Malicious software intended to damage or disable computers."
+    }
+  },
+  {
+    "word": "Phishing",
+    "explain": {
+      "ka": "სენსიტიური ინფორმაციის მოპოვების თაღლითური მცდელობა.",
+      "en": "Fraudulent attempt to obtain sensitive information."
+    }
+  },
+  {
+    "word": "Encryption",
+    "explain": {
+      "ka": "ინფორმაციის ან მონაცემების კოდად გადაქცევა არაავტორიზებული წვდომის თავიდან ასაცილებლად.",
+      "en": "Converting information or data into a code to prevent unauthorized access."
+    }
+  },
+  {
+    "word": "Firewall",
+    "explain": {
+      "ka": "ქსელის უსაფრთხოების სისტემა, რომელიც აკონტროლებს და აკონტროლებს შემომავალ და გამავალ ქსელის ტრაფიკს.",
+      "en": "Network security system that monitors and controls incoming and outgoing network traffic."
+    }
+  },
+  {
+    "word": "VPN",
+    "explain": {
+      "ka": "ვირტუალური პირადი ქსელი; აფართოებს კერძო ქსელს საჯარო ქსელში.",
+      "en": "Virtual Private Network; extends a private network across a public network."
+    }
+  },
+  {
+    "word": "Data Breach",
+    "explain": {
+      "ka": "უსაფრთხოების ინციდენტი, რომლის დროსაც ინფორმაციაზე წვდომა ხდება ავტორიზაციის გარეშე.",
+      "en": "Security incident in which information is accessed without authorization."
+    }
+  },
+  {
+    "word": "DDoS Attack",
+    "explain": {
+      "ka": "მომსახურების განაწილებული უარყოფა; არღვევს მიზნობრივი სერვერის, სერვისის ან ქსელის ნორმალურ ტრაფიკს.",
+      "en": "Distributed Denial of Service; disrupts normal traffic of a targeted server, service, or network."
+    }
+  },
+  {
+    "word": "Ransomware",
+    "explain": {
+      "ka": "მავნე პროგრამის ტიპი, რომელიც ემუქრება მსხვერპლის მონაცემების გამოქვეყნებას ან სამუდამოდ დაბლოკავს მასზე წვდომას, თუ გამოსასყიდის გადახდა არ მოხდება.",
+      "en": "Type of malware that threatens to publish victim's data or perpetually block access to it unless a ransom is paid."
+    }
+  },
+  {
+    "word": "Penetration Testing",
+    "explain": {
+      "ka": "ავტორიზებული სიმულირებული კიბერშეტევა კომპიუტერულ სისტემაზე უსაფრთხოების შესაფასებლად.",
+      "en": "Authorized simulated cyberattack on a computer system to evaluate security."
+    }
+  },
+  {
+    "word": "Incident Response",
+    "explain": {
+      "ka": "უსაფრთხოების დარღვევის შედეგების დამუშავებისა და მართვის მიდგომა.",
+      "en": "Approach to handling and managing the aftermath of a security breach."
+    }
+  },
+  {
+    "word": "Risk Assessment",
+    "explain": {
+      "en": "Process of identifying and evaluating risks."
+    }
+  },
+  {
+    "word": "Compliance",
+    "explain": {
+      "ka": "შეესაბამება კანონებს, რეგულაციებს, სტანდარტებს და ეთიკურ პრაქტიკას.",
+      "en": "Conforming to laws, regulations, standards, and ethical practices."
+    }
+  },
+  {
+    "word": "GDPR",
+    "explain": {
+      "ka": "მონაცემთა დაცვის ზოგადი რეგულაცია; ევროკავშირის კანონი მონაცემთა დაცვისა და კონფიდენციალურობის შესახებ.",
+      "en": "General Data Protection Regulation; EU law on data protection and privacy."
+    }
+  },
+  {
+    "word": "ISO Standards",
+    "explain": {
+      "ka": "საერთაშორისო სტანდარტები პროდუქტების, სერვისებისა და სისტემებისთვის.",
+      "en": "International standards for products, services, and systems."
+    }
+  },
+  {
+    "word": "Quality Assurance",
+    "explain": {
+      "ka": "პროდუქტის ან მომსახურების ხარისხის უზრუნველყოფა.",
+      "en": "Ensuring product or service quality."
+    }
+  },
+  {
+    "word": "Six Sigma",
+    "explain": {
+      "ka": "პროცესის გაუმჯობესების ტექნიკის ნაკრები.",
+      "en": "Set of techniques for process improvement."
+    }
+  },
+  {
+    "word": "Lean Manufacturing",
+    "explain": {
+      "ka": "ნარჩენების მინიმიზაციის სისტემატური მეთოდი.",
+      "en": "Systematic method for waste minimization."
+    }
+  },
+  {
+    "word": "Supply Chain Management",
+    "explain": {
+      "en": "Management of the flow of goods and services."
+    }
+  },
+  {
+    "word": "Logistics",
+    "explain": {
+      "ka": "კომპლექსური ოპერაციების დეტალური კოორდინაცია.",
+      "en": "Detailed coordination of complex operations."
+    }
+  },
+  {
+    "word": "Inventory Management",
+    "explain": {
+      "ka": "არაკაპიტალიზებული აქტივების და საფონდო ნივთების ზედამხედველობა.",
+      "en": "Supervising non-capitalized assets and stock items."
+    }
+  },
+  {
+    "word": "Procurement",
+    "explain": {
+      "ka": "საქონლის, მომსახურების ან სამუშაოს შეძენის პროცესი.",
+      "en": "Process of acquiring goods, services, or works."
+    }
+  },
+  {
+    "word": "Manufacturing",
+    "explain": {
+      "en": "Production of merchandise using labor, machines, tools, and chemical or biological processing."
+    }
+  },
+  {
+    "word": "Production",
+    "explain": {
+      "en": "Process of creating goods and services."
+    }
+  },
+  {
+    "word": "Operations Management",
+    "explain": {
+      "ka": "წარმოების პროცესების ზედამხედველობა, დიზაინი და კონტროლი.",
+      "en": "Overseeing, designing, and controlling production processes."
+    }
+  },
+  {
+    "word": "Project Management",
+    "explain": {
+      "ka": "სამუშაოს დაგეგმვა, წამოწყება, შესრულება, კონტროლი და დახურვა.",
+      "en": "Planning, initiating, executing, controlling, and closing work."
+    }
+  },
+  {
+    "word": "Resource Management",
+    "explain": {
+      "ka": "ორგანიზაციის რესურსების ეფექტური და ეფექტური გამოყენება.",
+      "en": "Efficient and effective deployment of organization's resources."
+    }
+  },
+  {
+    "word": "Stakeholder Management",
+    "explain": {
+      "en": "Managing relationships with people who have an interest in the project."
+    }
+  },
+  {
+    "word": "Scope Management",
+    "explain": {
+      "ka": "პროცესი განსაზღვრის რა სამუშაოა საჭირო.",
+      "en": "Process of defining what work is required."
+    }
+  },
+  {
+    "word": "Schedule Management",
+    "explain": {
+      "ka": "პროექტის ვადების დაგეგმვა, შესრულება და მონიტორინგი.",
+      "en": "Planning, executing, and monitoring project timelines."
+    }
+  },
+  {
+    "word": "Cost Management",
+    "explain": {
+      "en": "Planning and controlling budget."
+    }
+  },
+  {
+    "word": "Quality Management",
+    "explain": {
+      "ka": "დარწმუნება, რომ პროექტი აკმაყოფილებს განსაზღვრულ ხარისხის სტანდარტებს.",
+      "en": "Ensuring that a project meets the defined quality standards."
+    }
+  },
+  {
+    "word": "Risk Management",
+    "explain": {
+      "ka": "საფრთხეების იდენტიფიცირების, შეფასების და კონტროლის პროცესი.",
+      "en": "Process of identifying, assessing, and controlling threats."
+    }
+  },
+  {
+    "word": "Issue Management",
+    "explain": {
+      "ka": "პროექტის შესრულების დროს წარმოქმნილ პრობლემებთან გამკლავება.",
+      "en": "Dealing with problems that arise during project execution."
+    }
+  },
+  {
+    "word": "Change Management",
+    "explain": {
+      "ka": "მიდგომა გარდამავალი პირების, გუნდებისა და ორგანიზაციებისადმი.",
+      "en": "Approach to transitioning individuals, teams, and organizations."
+    }
+  },
+  {
+    "word": "Communication Management",
+    "explain": {
+      "ka": "პროექტის ინფორმაციის დროული და სათანადო დაგეგმვა, შეგროვება, შექმნა, განაწილება, შენახვა, მოძიება, მართვა, კონტროლი, მონიტორინგი და საბოლოო განთავსება.",
+      "en": "Timely and appropriate planning, collection, creation, distribution, storage, retrieval, management, control, monitoring, and ultimate disposition of project information."
+    }
+  },
+  {
+    "word": "Procurement Management",
+    "explain": {
+      "ka": "პროცესები პროდუქტების, სერვისების ან შედეგების შესაძენად ან შესაძენად, რომელიც საჭიროა პროექტის გუნდის გარეთ.",
+      "en": "Processes to purchase or acquire products, services, or results needed from outside the project team."
+    }
+  },
+  {
+    "word": "Integration Management",
+    "explain": {
+      "ka": "პროექტის ელემენტების კოორდინაცია.",
+      "en": "Coordination of project elements."
+    }
+  },
+  {
+    "word": "Stakeholder Engagement",
+    "explain": {
+      "en": "Systematic identification, analysis, planning, and implementation of actions to engage with stakeholders."
+    }
+  },
+  {
+    "word": "Human Resource Management",
+    "explain": {
+      "ka": "თანამშრომლების მუშაობის მაქსიმალურად გაზრდა.",
+      "en": "Maximizing employee performance."
+    }
+  },
+  {
+    "word": "Performance Management",
+    "explain": {
+      "en": "Process of creating a work environment in which people can perform to the best of their abilities."
+    }
+  },
+  {
+    "word": "Career Development",
+    "explain": {
+      "en": "Lifelong process of managing learning, work, leisure, and transitions."
+    }
+  },
+  {
+    "word": "Training and Development",
+    "explain": {
+      "en": "Educational activities within a company."
+    }
+  },
+  {
+    "word": "Organizational Development",
+    "explain": {
+      "en": "Study of successful organizational change and performance."
+    }
+  },
+  {
+    "word": "Employee Relations",
+    "explain": {
+      "en": "Effort by a company to manage relationships between employers and employees."
+    }
+  },
+  {
+    "word": "Talent Management",
+    "explain": {
+      "en": "Anticipation of required human capital for an organization."
+    }
+  },
+  {
+    "word": "Recruitment",
+    "explain": {
+      "ka": "შესაფერისი კანდიდატების მოზიდვის, შერჩევისა და დანიშვნის პროცესი.",
+      "en": "Process of attracting, selecting, and appointing suitable candidates."
+    }
+  },
+  {
+    "word": "Employee Engagement",
+    "explain": {
+      "en": "Extent to which employees feel passionate about their jobs."
+    }
+  },
+  {
+    "word": "Compensation and Benefits",
+    "explain": {
+      "en": "Total rewards given to employees."
+    }
+  },
+  {
+    "word": "Labor Law",
+    "explain": {
+      "en": "Body of laws concerning labor relations."
+    }
+  },
+  {
+    "word": "Workforce Planning",
+    "explain": {
+      "en": "Process of analyzing an organization's future workforce needs."
+    }
+  },
+  {
+    "word": "Succession Planning",
+    "explain": {
+      "en": "Process for identifying and developing internal personnel."
+    }
+  },
+  {
+    "word": "Diversity and Inclusion",
+    "explain": {
+      "en": "Policies and programs promoting representation and participation of different groups."
+    }
+  },
+  {
+    "word": "Employee Wellness",
+    "explain": {
+      "en": "Programs to promote health and wellness in the workplace."
+    }
+  },
+  {
+    "word": "Industrial Relations",
+    "explain": {
+      "en": "Relationship between management and workers."
+    }
+  },
+  {
+    "word": "Organizational Culture",
+    "explain": {
+      "en": "Values and behaviors that contribute to unique social and psychological environment of an organization."
+    }
+  },
+  {
+    "word": "Organizational Structure",
+    "explain": {
+      "ka": "სისტემა, რომელიც გამოიყენება ორგანიზაციაში იერარქიის დასადგენად.",
+      "en": "System used to define hierarchy within an organization."
+    }
+  },
+  {
+    "word": "Leadership",
+    "explain": {
+      "en": "Ability to guide, direct, or influence people."
+    }
+  },
+  {
+    "word": "Management",
+    "explain": {
+      "ka": "ობიექტებთან ან ადამიანებთან ურთიერთობის ან კონტროლის პროცესი.",
+      "en": "Process of dealing with or controlling things or people."
+    }
+  },
+  {
+    "word": "Strategic Planning",
+    "explain": {
+      "ka": "ორგანიზაციის სტრატეგიის განსაზღვრის პროცესი.",
+      "en": "Organization's process of defining strategy."
+    }
+  },
+  {
+    "word": "Business Strategy",
+    "explain": {
+      "en": "Plan for successful operation of business."
+    }
+  },
+  {
+    "word": "Operational Strategy",
+    "explain": {
+      "en": "Planning of business processes."
+    }
+  },
+  {
+    "word": "PEST Analysis",
+    "explain": {
+      "ka": "ინსტრუმენტი, რომელიც გამოიყენება მაკროგარემოს ფაქტორების გასაანალიზებლად.",
+      "en": "Tool used to analyze macro-environmental factors."
+    }
+  },
+  {
+    "word": "Market Analysis",
+    "explain": {
+      "en": "Research on market conditions."
+    }
+  },
+  {
+    "word": "Competitive Analysis",
+    "explain": {
+      "ka": "სტრატეგია ძირითადი კონკურენტების იდენტიფიცირების მიზნით.",
+      "en": "Strategy to identify major competitors."
+    }
+  },
+  {
+    "word": "Business Model",
+    "explain": {
+      "en": "Plan for successful operation of business."
+    }
+  },
+  {
+    "word": "Business Plan",
+    "explain": {
+      "ka": "წერილობითი დოკუმენტი, რომელიც აღწერს ბიზნესის ბუნებას.",
+      "en": "Written document describing nature of business."
+    }
+  },
+  {
+    "word": "Marketing Plan",
+    "explain": {
+      "ka": "ბიზნეს დოკუმენტი, რომელიც ასახავს მარკეტინგულ სტრატეგიას.",
+      "en": "Business document outlining marketing strategy."
+    }
+  },
+  {
+    "word": "Financial Planning",
+    "explain": {
+      "ka": "საჭიროა კაპიტალის შეფასების პროცესი.",
+      "en": "Process of estimating capital required."
+    }
+  },
+  {
+    "word": "Budgeting",
+    "explain": {
+      "en": "Process of creating a plan to spend money."
+    }
+  },
+  {
+    "word": "Forecasting",
+    "explain": {
+      "en": "Process of making predictions of future."
+    }
+  },
+  {
+    "word": "Accounting",
+    "explain": {
+      "en": "Measurement, processing, and communication of financial information."
+    }
+  },
+  {
+    "word": "Auditing",
+    "explain": {
+      "en": "Examination of financial records."
+    }
+  },
+  {
+    "word": "Taxation",
+    "explain": {
+      "en": "Levy imposed by government."
+    }
+  },
+  {
+    "word": "Financial Reporting",
+    "explain": {
+      "ka": "ფინანსური შედეგების გამჟღავნება.",
+      "en": "Disclosure of financial results."
+    }
+  },
+  {
+    "word": "Investment",
+    "explain": {
+      "ka": "აქტივი ან ნივთი შეძენილი შემოსავლის გამომუშავების მიზნით.",
+      "en": "Asset or item acquired with goal of generating income."
+    }
+  },
+  {
+    "word": "Stock Market",
+    "explain": {
+      "en": "Aggregate of buyers and sellers of stocks."
+    }
+  },
+  {
+    "word": "Banking",
+    "explain": {
+      "en": "Industry dealing with cash, credit, and other financial transactions."
+    }
+  },
+  {
+    "word": "Insurance",
+    "explain": {
+      "en": "Means of protection from financial loss."
+    }
+  },
+  {
+    "word": "Real Estate",
+    "explain": {
+      "en": "Property consisting of land and buildings."
+    }
+  },
+  {
+    "word": "E-commerce",
+    "explain": {
+      "ka": "საქონლის ან მომსახურების ყიდვა ან გაყიდვა ინტერნეტის გამოყენებით.",
+      "en": "Buying or selling of goods or services using the internet."
+    }
+  },
+  {
+    "word": "Retail",
+    "explain": {
+      "en": "Process of selling consumer goods or services."
+    }
+  },
+  {
+    "word": "Supply Chain",
+    "explain": {
+      "en": "System of organizations, people, activities, information, and resources involved in moving a product or service."
+    }
+  },
+  {
+    "word": "Product Management",
+    "explain": {
+      "ka": "ორგანიზაციული ფუნქცია, რომელიც წარმართავს პროდუქტის სასიცოცხლო ციკლის ყველა საფეხურს.",
+      "en": "Organizational function guiding every step of product's lifecycle."
+    }
+  },
+  {
+    "word": "Quality Control",
+    "explain": {
+      "ka": "პროცესი ხარისხის გარკვეული დონის უზრუნველსაყოფად.",
+      "en": "Process to ensure a certain level of quality."
+    }
+  },
+  {
+    "word": "Human Resources",
+    "explain": {
+      "en": "Department responsible for managing personnel."
+    }
+  },
+  {
+    "word": "Sales",
+    "explain": {
+      "ka": "საქმიანობა, რომელიც დაკავშირებულია საქონლის ან მომსახურების გაყიდვასთან.",
+      "en": "Activity related to selling goods or services."
+    }
+  },
+  {
+    "word": "Customer Service",
+    "explain": {
+      "ka": "მომხმარებლებისთვის მომსახურების მიწოდება.",
+      "en": "Provision of service to customers."
+    }
+  },
+  {
+    "word": "Marketing",
+    "explain": {
+      "ka": "მომხმარებლებთან ურთიერთობის დამყარების ბიზნეს პროცესი.",
+      "en": "Business process of creating relationships with customers."
+    }
+  },
+  {
+    "word": "Advertising",
+    "explain": {
+      "en": "Action of calling public attention to something."
+    }
+  },
+  {
+    "word": "Digital Marketing",
+    "explain": {
+      "ka": "პროდუქტების ან სერვისების მარკეტინგი ციფრული ტექნოლოგიების გამოყენებით.",
+      "en": "Marketing of products or services using digital technologies."
+    }
+  },
+  {
+    "word": "Social Media",
+    "explain": {
+      "en": "Interactive technologies that facilitate creation and sharing of information."
+    }
+  },
+  {
+    "word": "Content Creation",
+    "explain": {
+      "ka": "ინფორმაციის წვლილი ციფრულ მედიაში.",
+      "en": "Contribution of information to digital media."
+    }
+  },
+  {
+    "word": "Data Science",
+    "explain": {
+      "en": "Interdisciplinary field that uses scientific methods to extract knowledge and insights from data."
+    }
+  },
+  {
+    "word": "Deep Learning",
+    "explain": {
+      "ka": "მანქანური სწავლების ნაწილი, რომელიც დაფუძნებულია ხელოვნურ ნერვულ ქსელებზე.",
+      "en": "Part of machine learning based on artificial neural networks."
+    }
+  },
+  {
+    "word": "Computer Vision",
+    "explain": {
+      "ka": "კომპიუტერული მეცნიერების სფერო, რომელიც მუშაობს კომპიუტერებს სურათების დანახვის, ამოცნობისა და დამუშავების საშუალებას აძლევს.",
+      "en": "Field of computer science working with enabling computers to see, identify, and process images."
+    }
+  },
+  {
+    "word": "Natural Language Processing",
+    "explain": {
+      "ka": "ხელოვნური ინტელექტის ფილიალი, რომელიც ეხება კომპიუტერებსა და ადამიანის ენას შორის ურთიერთქმედებას.",
+      "en": "Branch of artificial intelligence concerned with interaction between computers and human language."
+    }
+  },
+  {
+    "word": "Robotics",
+    "explain": {
+      "en": "Interdisciplinary branch of engineering and science involving design, construction, operation, and use of robots."
+    }
+  },
+  {
+    "word": "Smart Contracts",
+    "explain": {
+      "ka": "კომპიუტერული პროტოკოლები, რომლებიც განკუთვნილია კონტრაქტის მოლაპარაკების ციფრულად გასაადვილებლად, გადამოწმების ან აღსრულების მიზნით.",
+      "en": "Computer protocols intended to digitally facilitate, verify, or enforce negotiation of contract."
+    }
+  },
+  {
+    "word": "Game Development",
+    "explain": {
+      "ka": "ვიდეო თამაშის შემუშავების პროცესი.",
+      "en": "Process of developing a video game."
+    }
+  },
+  {
+    "word": "3D Modeling",
+    "explain": {
+      "ka": "სპეციალიზებული პროგრამული უზრუნველყოფის საშუალებით ობიექტის ნებისმიერი ზედაპირის სამ განზომილებაში მათემატიკური წარმოდგენის შემუშავების პროცესი.",
+      "en": "Process of developing mathematical representation of any surface of an object in three dimensions via specialized software."
+    }
+  }
+]

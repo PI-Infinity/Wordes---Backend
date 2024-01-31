@@ -1,0 +1,1558 @@
+[
+  {
+    "word": "Variable",
+    "explain": "Stores data values."
+  },
+  {
+    "word": "Function",
+    "explain": "Perform specific task."
+  },
+  {
+    "word": "Array",
+    "explain": "List-like object."
+  },
+  {
+    "word": "Object",
+    "explain": "Stores keyed collections."
+  },
+  {
+    "word": "Loop",
+    "explain": "Repeats actions."
+  },
+  {
+    "word": "Condition",
+    "explain": "Checks criteria."
+  },
+  {
+    "word": "Callback",
+    "explain": "Function as argument."
+  },
+  {
+    "word": "Promise",
+    "explain": "Represents future result."
+  },
+  {
+    "word": "Async/Await",
+    "explain": "For asynchronous code."
+  },
+  {
+    "word": "Class",
+    "explain": "Blueprint for objects."
+  },
+  {
+    "word": "Console",
+    "explain": "Provides debugging console."
+  },
+  {
+    "word": "DOM",
+    "explain": "Represents HTML documents."
+  },
+  {
+    "word": "Event",
+    "explain": "Response to actions."
+  },
+  {
+    "word": "JSON",
+    "explain": "Data interchange format."
+  },
+  {
+    "word": "NaN",
+    "explain": "'Not a Number' value."
+  },
+  {
+    "word": "Null",
+    "explain": "Represents nothing."
+  },
+  {
+    "word": "Undefined",
+    "explain": "Variable not assigned."
+  },
+  {
+    "word": "Scope",
+    "explain": "Variable access context."
+  },
+  {
+    "word": "Hoisting",
+    "explain": "Variable/method movement."
+  },
+  {
+    "word": "Closure",
+    "explain": "Function with preserved data."
+  },
+  {
+    "word": "IIFE",
+    "explain": "Immediately Invoked Function Expression."
+  },
+  {
+    "word": "Let",
+    "explain": "Block scoped variable."
+  },
+  {
+    "word": "Const",
+    "explain": "Block scoped, unchangeable variable."
+  },
+  {
+    "word": "Prototype",
+    "explain": "Object's prototype property."
+  },
+  {
+    "word": "This",
+    "explain": "Context reference keyword."
+  },
+  {
+    "word": "New",
+    "explain": "Creates new object."
+  },
+  {
+    "word": "Delete",
+    "explain": "Deletes object's property."
+  },
+  {
+    "word": "Typeof",
+    "explain": "Returns data type."
+  },
+  {
+    "word": "Instanceof",
+    "explain": "Checks object instance."
+  },
+  {
+    "word": "Try...catch",
+    "explain": "Handles exceptions."
+  },
+  {
+    "word": "Finally",
+    "explain": "Executes after try/catch."
+  },
+  {
+    "word": "Throw",
+    "explain": "Throws an exception."
+  },
+  {
+    "word": "Break",
+    "explain": "Exits loop or switch."
+  },
+  {
+    "word": "Continue",
+    "explain": "Skips loop iteration."
+  },
+  {
+    "word": "Debugger",
+    "explain": "Stops execution for debugging."
+  },
+  {
+    "word": "Strict mode",
+    "explain": "Enforces stricter parsing."
+  },
+  {
+    "word": "Window",
+    "explain": "Global object in browsers."
+  },
+  {
+    "word": "Document",
+    "explain": "Access and modify DOM."
+  },
+  {
+    "word": "Navigator",
+    "explain": "Represents user's browser."
+  },
+  {
+    "word": "Screen",
+    "explain": "Information about user's screen."
+  },
+  {
+    "word": "History",
+    "explain": "Browser navigation history."
+  },
+  {
+    "word": "Cookies",
+    "explain": "Store data locally."
+  },
+  {
+    "word": "SessionStorage",
+    "explain": "Stores data per session."
+  },
+  {
+    "word": "LocalStorage",
+    "explain": "Stores data locally."
+  },
+  {
+    "word": "Fetch",
+    "explain": "Makes network requests."
+  },
+  {
+    "word": "XMLHttpRequest",
+    "explain": "Makes HTTP requests."
+  },
+  {
+    "word": "AJAX",
+    "explain": "Asynchronous JavaScript and XML."
+  },
+  {
+    "word": "SetTimeout",
+    "explain": "Executes after delay."
+  },
+  {
+    "word": "SetInterval",
+    "explain": "Repeatedly calls function."
+  },
+  {
+    "word": "ClearTimeout",
+    "explain": "Clears timeout."
+  },
+  {
+    "word": "ClearInterval",
+    "explain": "Clears interval."
+  },
+  {
+    "word": "Event Loop",
+    "explain": "Handles async callbacks."
+  },
+  {
+    "word": "Callback Queue",
+    "explain": "Queue for callbacks."
+  },
+  {
+    "word": "Web API",
+    "explain": "Browser provided APIs."
+  },
+  {
+    "word": "Node.js",
+    "explain": "JavaScript runtime environment."
+  },
+  {
+    "word": "NPM",
+    "explain": "Node Package Manager."
+  },
+  {
+    "word": "Yarn",
+    "explain": "Alternative to NPM."
+  },
+  {
+    "word": "Webpack",
+    "explain": "Module bundler."
+  },
+  {
+    "word": "Babel",
+    "explain": "JavaScript compiler."
+  },
+  {
+    "word": "ES6",
+    "explain": "ECMAScript 2015."
+  },
+  {
+    "word": "Template Literals",
+    "explain": "String interpolation."
+  },
+  {
+    "word": "Destructuring",
+    "explain": "Unpacking values from arrays or objects."
+  },
+  {
+    "word": "Spread Operator",
+    "explain": "Expands iterable elements."
+  },
+  {
+    "word": "Rest Parameters",
+    "explain": "Represents indefinite number of arguments."
+  },
+  {
+    "word": "Arrow Function",
+    "explain": "Shorter function syntax."
+  },
+  {
+    "word": "Default Parameters",
+    "explain": "Default values for function parameters."
+  },
+  {
+    "word": "Map",
+    "explain": "Key-value pairs collection."
+  },
+  {
+    "word": "Set",
+    "explain": "Collection of unique values."
+  },
+  {
+    "word": "Symbol",
+    "explain": "Represents unique identifier."
+  },
+  {
+    "word": "Iterator",
+    "explain": "Object that enables iteration."
+  },
+  {
+    "word": "Generator",
+    "explain": "Generates sequence of values."
+  },
+  {
+    "word": "Module",
+    "explain": "Reusable piece of code."
+  },
+  {
+    "word": "Import",
+    "explain": "Includes modules."
+  },
+  {
+    "word": "Export",
+    "explain": "Exports modules."
+  },
+  {
+    "word": "Async Function",
+    "explain": "Handles asynchronous operations."
+  },
+  {
+    "word": "Await",
+    "explain": "Waits for async operation."
+  },
+  {
+    "word": "Callback Hell",
+    "explain": "Nested callbacks problem."
+  },
+  {
+    "word": "Promisify",
+    "explain": "Converts callback to promise."
+  },
+  {
+    "word": "Transpiler",
+    "explain": "Converts source code."
+  },
+  {
+    "word": "Polyfill",
+    "explain": "Implements features in older browsers."
+  },
+  {
+    "word": "Truthy",
+    "explain": "Values that are true in boolean context."
+  },
+  {
+    "word": "Falsy",
+    "explain": "Values that are false in boolean context."
+  },
+  {
+    "word": "Execution Context",
+    "explain": "Environment for JavaScript code execution."
+  },
+  {
+    "word": "Lexical Environment",
+    "explain": "Hierarchy of code scope."
+  },
+  {
+    "word": "Lexical Scope",
+    "explain": "Scope based on source code."
+  },
+  {
+    "word": "Global Scope",
+    "explain": "Variables accessible everywhere."
+  },
+  {
+    "word": "Local Scope",
+    "explain": "Variables accessible in specific area."
+  },
+  {
+    "word": "Block Scope",
+    "explain": "Variables scoped within blocks."
+  },
+  {
+    "word": "Scope Chain",
+    "explain": "Hierarchy of scopes."
+  },
+  {
+    "word": "Functional Programming",
+    "explain": "Programming with functions."
+  },
+  {
+    "word": "Object-Oriented Programming",
+    "explain": "Programming with objects."
+  },
+  {
+    "word": "Immutable",
+    "explain": "Unchangeable after creation."
+  },
+  {
+    "word": "Mutable",
+    "explain": "Changeable after creation."
+  },
+  {
+    "word": "Side Effect",
+    "explain": "Function affects outside state."
+  },
+  {
+    "word": "Pure Function",
+    "explain": "No side effects."
+  },
+  {
+    "word": "Higher-Order Function",
+    "explain": "Function that takes/returns functions."
+  },
+  {
+    "word": "First-Class Function",
+    "explain": "Function treated as value."
+  },
+  {
+    "word": "Currying",
+    "explain": "Converting function with multiple arguments into sequence of functions."
+  },
+  {
+    "word": "Partial Application",
+    "explain": "Pre-filling function arguments."
+  },
+  {
+    "word": "Memoization",
+    "explain": "Caching function results."
+  },
+  {
+    "word": "Recursion",
+    "explain": "Function calls itself."
+  },
+  {
+    "word": "Tail Call Optimization",
+    "explain": "Optimizes recursive calls."
+  },
+  {
+    "word": "Event Bubbling",
+    "explain": "Event propagates up DOM."
+  },
+  {
+    "word": "Event Capturing",
+    "explain": "Event propagates down DOM."
+  },
+  {
+    "word": "Event Delegation",
+    "explain": "Handling events at higher level."
+  },
+  {
+    "word": "Event Handling",
+    "explain": "Managing user events."
+  },
+  {
+    "word": "Event Listener",
+    "explain": "Listens for events."
+  },
+  {
+    "word": "Event Object",
+    "explain": "Information about event."
+  },
+  {
+    "word": "Propagation",
+    "explain": "Event travel through DOM."
+  },
+  {
+    "word": "Prevent Default",
+    "explain": "Stops default action."
+  },
+  {
+    "word": "Stop Propagation",
+    "explain": "Stops event bubbling/capturing."
+  },
+  {
+    "word": "Target",
+    "explain": "Element that triggered event."
+  },
+  {
+    "word": "CurrentTarget",
+    "explain": "Element with listener."
+  },
+  {
+    "word": "AddEventListener",
+    "explain": "Registers event listener."
+  },
+  {
+    "word": "RemoveEventListener",
+    "explain": "Unregisters event listener."
+  },
+  {
+    "word": "DOMContentLoaded",
+    "explain": "HTML fully loaded and parsed."
+  },
+  {
+    "word": "Load Event",
+    "explain": "Page fully loaded, including resources."
+  },
+  {
+    "word": "Unload Event",
+    "explain": "Page being unloaded."
+  },
+  {
+    "word": "Resize Event",
+    "explain": "Window resize."
+  },
+  {
+    "word": "Scroll Event",
+    "explain": "Scrolling page."
+  },
+  {
+    "word": "Focus Event",
+    "explain": "Element gains focus."
+  },
+  {
+    "word": "Blur Event",
+    "explain": "Element loses focus."
+  },
+  {
+    "word": "Submit Event",
+    "explain": "Form submission."
+  },
+  {
+    "word": "Change Event",
+    "explain": "Input value changes."
+  },
+  {
+    "word": "Input Event",
+    "explain": "Input changes."
+  },
+  {
+    "word": "Click Event",
+    "explain": "Clicking element."
+  },
+  {
+    "word": "DoubleClick Event",
+    "explain": "Double clicking element."
+  },
+  {
+    "word": "Mouse Events",
+    "explain": "Related to mouse actions."
+  },
+  {
+    "word": "Keyboard Events",
+    "explain": "Related to keyboard actions."
+  },
+  {
+    "word": "Touch Events",
+    "explain": "Related to touch actions."
+  },
+  {
+    "word": "Drag Events",
+    "explain": "Related to drag actions."
+  },
+  {
+    "word": "API",
+    "explain": "Application Programming Interface."
+  },
+  {
+    "word": "REST API",
+    "explain": "Representational State Transfer API."
+  },
+  {
+    "word": "GraphQL",
+    "explain": "Query language for APIs."
+  },
+  {
+    "word": "Fetch API",
+    "explain": "Native way to make HTTP requests."
+  },
+  {
+    "word": "Axios",
+    "explain": "HTTP client library."
+  },
+  {
+    "word": "CORS",
+    "explain": "Cross-Origin Resource Sharing."
+  },
+  {
+    "word": "XML",
+    "explain": "Extensible Markup Language."
+  },
+  {
+    "word": "JWT",
+    "explain": "JSON Web Token."
+  },
+  {
+    "word": "OAuth",
+    "explain": "Open standard for access delegation."
+  },
+  {
+    "word": "ESLint",
+    "explain": "Code linting tool."
+  },
+  {
+    "word": "Prettier",
+    "explain": "Code formatting tool."
+  },
+  {
+    "word": "Git",
+    "explain": "Version control system."
+  },
+  {
+    "word": "GitHub",
+    "explain": "Git repository hosting."
+  },
+  {
+    "word": "Bitbucket",
+    "explain": "Git repository hosting."
+  },
+  {
+    "word": "GitLab",
+    "explain": "Git repository hosting."
+  },
+  {
+    "word": "CI/CD",
+    "explain": "Continuous Integration/Continuous Deployment."
+  },
+  {
+    "word": "Jest",
+    "explain": "Testing framework."
+  },
+  {
+    "word": "Mocha",
+    "explain": "Testing framework."
+  },
+  {
+    "word": "Chai",
+    "explain": "Assertion library."
+  },
+  {
+    "word": "Enzyme",
+    "explain": "Testing utility for React."
+  },
+  {
+    "word": "React Testing Library",
+    "explain": "Testing library for React components."
+  },
+  {
+    "word": "Redux",
+    "explain": "State management library."
+  },
+  {
+    "word": "Context API",
+    "explain": "React state management."
+  },
+  {
+    "word": "React Router",
+    "explain": "Routing library for React."
+  },
+  {
+    "word": "Vue",
+    "explain": "Progressive JavaScript framework."
+  },
+  {
+    "word": "Angular",
+    "explain": "Web application framework."
+  },
+  {
+    "word": "Svelte",
+    "explain": "Compiler-based framework."
+  },
+  {
+    "word": "Next.js",
+    "explain": "React framework for server-side rendering."
+  },
+  {
+    "word": "Gatsby",
+    "explain": "Static site generator for React."
+  },
+  {
+    "word": "Apollo",
+    "explain": "GraphQL implementation."
+  },
+  {
+    "word": "Express",
+    "explain": "Web application framework for Node.js."
+  },
+  {
+    "word": "Koa",
+    "explain": "Web framework for Node.js."
+  },
+  {
+    "word": "Fastify",
+    "explain": "Fast web framework for Node.js."
+  },
+  {
+    "word": "Socket.io",
+    "explain": "Real-time bidirectional event-based communication."
+  },
+  {
+    "word": "PM2",
+    "explain": "Process manager for Node.js."
+  },
+  {
+    "word": "Package.json",
+    "explain": "Project's metadata file."
+  },
+  {
+    "word": "Node_modules",
+    "explain": "Folder for NPM packages."
+  },
+  {
+    "word": "Server-Side Rendering",
+    "explain": "Rendering pages on the server."
+  },
+  {
+    "word": "Client-Side Rendering",
+    "explain": "Rendering in the browser."
+  },
+  {
+    "word": "Static Site Generation",
+    "explain": "Generating HTML at build time."
+  },
+  {
+    "word": "Dynamic Rendering",
+    "explain": "Server-side rendering for bots."
+  },
+  {
+    "word": "Progressive Web App",
+    "explain": "Web app with native-like capabilities."
+  },
+  {
+    "word": "Service Worker",
+    "explain": "Script that runs in the background."
+  },
+  {
+    "word": "Web Manifest",
+    "explain": "Defines web application."
+  },
+  {
+    "word": "Responsive Design",
+    "explain": "Design that works on any device."
+  },
+  {
+    "word": "Flexbox",
+    "explain": "Layout model in CSS."
+  },
+  {
+    "word": "Grid",
+    "explain": "CSS grid layout system."
+  },
+  {
+    "word": "Media Queries",
+    "explain": "CSS technique for responsiveness."
+  },
+  {
+    "word": "Bootstrap",
+    "explain": "Front-end framework."
+  },
+  {
+    "word": "Tailwind CSS",
+    "explain": "Utility-first CSS framework."
+  },
+  {
+    "word": "Sass",
+    "explain": "CSS preprocessor."
+  },
+  {
+    "word": "Less",
+    "explain": "CSS preprocessor."
+  },
+  {
+    "word": "PostCSS",
+    "explain": "Tool for transforming CSS."
+  },
+  {
+    "word": "Autoprefixer",
+    "explain": "PostCSS plugin for vendor prefixes."
+  },
+  {
+    "word": "CSS Modules",
+    "explain": "Locally scoped CSS."
+  },
+  {
+    "word": "Styled Components",
+    "explain": "CSS in JS library."
+  },
+  {
+    "word": "JSS",
+    "explain": "CSS in JS library."
+  },
+  {
+    "word": "Emotion",
+    "explain": "CSS in JS library."
+  },
+  {
+    "word": "Material-UI",
+    "explain": "React components library."
+  },
+  {
+    "word": "Ant Design",
+    "explain": "Design library for React."
+  },
+  {
+    "word": "Semantic UI",
+    "explain": "UI component framework."
+  },
+  {
+    "word": "MDBootstrap",
+    "explain": "Material Design for Bootstrap."
+  },
+  {
+    "word": "Figma",
+    "explain": "Design tool."
+  },
+  {
+    "word": "Sketch",
+    "explain": "Design tool."
+  },
+  {
+    "word": "Adobe XD",
+    "explain": "Design tool."
+  },
+  {
+    "word": "InVision",
+    "explain": "Digital product design platform."
+  },
+  {
+    "word": "Zeplin",
+    "explain": "Collaboration tool for designers and developers."
+  },
+  {
+    "word": "Docker",
+    "explain": "Platform for developing, shipping, and running applications."
+  },
+  {
+    "word": "Kubernetes",
+    "explain": "Container orchestration system."
+  },
+  {
+    "word": "Vagrant",
+    "explain": "Tool for building and managing virtual machine environments."
+  },
+  {
+    "word": "Ansible",
+    "explain": "Automation platform for IT tasks."
+  },
+  {
+    "word": "Terraform",
+    "explain": "Infrastructure as code software tool."
+  },
+  {
+    "word": "AWS",
+    "explain": "Amazon Web Services, cloud computing services."
+  },
+  {
+    "word": "Azure",
+    "explain": "Microsoft's cloud computing service."
+  },
+  {
+    "word": "Google Cloud",
+    "explain": "Google's cloud computing service."
+  },
+  {
+    "word": "DigitalOcean",
+    "explain": "Cloud infrastructure provider."
+  },
+  {
+    "word": "Heroku",
+    "explain": "Cloud platform for deploying applications."
+  },
+  {
+    "word": "Netlify",
+    "explain": "Hosting and backend services for web applications."
+  },
+  {
+    "word": "Vercel",
+    "explain": "Platform for frontend frameworks and static sites."
+  },
+  {
+    "word": "Firebase",
+    "explain": "Platform for building mobile and web applications."
+  },
+  {
+    "word": "MongoDB",
+    "explain": "NoSQL database."
+  },
+  {
+    "word": "PostgreSQL",
+    "explain": "Object-relational database."
+  },
+  {
+    "word": "MySQL",
+    "explain": "Relational database."
+  },
+  {
+    "word": "SQLite",
+    "explain": "Self-contained SQL database."
+  },
+  {
+    "word": "Redis",
+    "explain": "In-memory data structure store."
+  },
+  {
+    "word": "Elasticsearch",
+    "explain": "Search and analytics engine."
+  },
+  {
+    "word": "REST",
+    "explain": "Architectural style for APIs."
+  },
+  {
+    "word": "SOAP",
+    "explain": "Protocol for web services."
+  },
+  {
+    "word": "gRPC",
+    "explain": "High-performance RPC framework."
+  },
+  {
+    "word": "WebSockets",
+    "explain": "Protocol for interactive communication."
+  },
+  {
+    "word": "Serverless",
+    "explain": "Run code without managing servers."
+  },
+  {
+    "word": "Microservices",
+    "explain": "Architectural style for building applications."
+  },
+  {
+    "word": "Monolithic",
+    "explain": "Single-tiered software application."
+  },
+  {
+    "word": "DevOps",
+    "explain": "Practices for software development and operations."
+  },
+  {
+    "word": "Agile",
+    "explain": "Iterative approach to project management."
+  },
+  {
+    "word": "Scrum",
+    "explain": "Framework for Agile development."
+  },
+  {
+    "word": "Kanban",
+    "explain": "Methodology for managing work."
+  },
+  {
+    "word": "Waterfall",
+    "explain": "Sequential project management model."
+  },
+  {
+    "word": "MVP",
+    "explain": "Minimum Viable Product."
+  },
+  {
+    "word": "POC",
+    "explain": "Proof of Concept."
+  },
+  {
+    "word": "UX",
+    "explain": "User Experience."
+  },
+  {
+    "word": "UI",
+    "explain": "User Interface."
+  },
+  {
+    "word": "A/B Testing",
+    "explain": "Comparative testing method."
+  },
+  {
+    "word": "Analytics",
+    "explain": "Data analysis for insights."
+  },
+  {
+    "word": "SEO",
+    "explain": "Search Engine Optimization."
+  },
+  {
+    "word": "SEM",
+    "explain": "Search Engine Marketing."
+  },
+  {
+    "word": "PPC",
+    "explain": "Pay-Per-Click advertising."
+  },
+  {
+    "word": "Conversion Rate",
+    "explain": "Percentage of users who take desired action."
+  },
+  {
+    "word": "KPI",
+    "explain": "Key Performance Indicator."
+  },
+  {
+    "word": "ROI",
+    "explain": "Return on Investment."
+  },
+  {
+    "word": "CTA",
+    "explain": "Call to Action."
+  },
+  {
+    "word": "Lead Generation",
+    "explain": "Process of attracting prospects."
+  },
+  {
+    "word": "Customer Acquisition",
+    "explain": "Process of gaining new customers."
+  },
+  {
+    "word": "Churn Rate",
+    "explain": "Rate at which customers stop doing business."
+  },
+  {
+    "word": "Retention",
+    "explain": "Ability to retain customers."
+  },
+  {
+    "word": "LTV",
+    "explain": "Lifetime Value of a customer."
+  },
+  {
+    "word": "CAC",
+    "explain": "Customer Acquisition Cost."
+  },
+  {
+    "word": "Market Segmentation",
+    "explain": "Dividing market into groups."
+  },
+  {
+    "word": "Target Market",
+    "explain": "Specific group of potential customers."
+  },
+  {
+    "word": "Brand Awareness",
+    "explain": "Extent to which brand is recognized."
+  },
+  {
+    "word": "Positioning",
+    "explain": "Establishing brand in customers' minds."
+  },
+  {
+    "word": "Benchmarking",
+    "explain": "Comparing against industry standards."
+  },
+  {
+    "word": "SWOT Analysis",
+    "explain": "Strengths, Weaknesses, Opportunities, Threats analysis."
+  },
+  {
+    "word": "Competitor Analysis",
+    "explain": "Assessing competitors' strategies."
+  },
+  {
+    "word": "Content Marketing",
+    "explain": "Creating and distributing content."
+  },
+  {
+    "word": "Inbound Marketing",
+    "explain": "Attracting customers through content."
+  },
+  {
+    "word": "Outbound Marketing",
+    "explain": "Traditional marketing methods."
+  },
+  {
+    "word": "Affiliate Marketing",
+    "explain": "Earning commission by promoting products."
+  },
+  {
+    "word": "Influencer Marketing",
+    "explain": "Using influencers to market products."
+  },
+  {
+    "word": "Email Marketing",
+    "explain": "Sending marketing messages via email."
+  },
+  {
+    "word": "Social Media Marketing",
+    "explain": "Using social media platforms for marketing."
+  },
+  {
+    "word": "Public Relations",
+    "explain": "Managing spread of information."
+  },
+  {
+    "word": "Crisis Management",
+    "explain": "Handling threats to organization."
+  },
+  {
+    "word": "Reputation Management",
+    "explain": "Influencing perception of organization."
+  },
+  {
+    "word": "Event Marketing",
+    "explain": "Promoting products via events."
+  },
+  {
+    "word": "Product Launch",
+    "explain": "Introducing new product to market."
+  },
+  {
+    "word": "Branding",
+    "explain": "Creating distinct image for product/company."
+  },
+  {
+    "word": "Pricing Strategy",
+    "explain": "Determining product's price."
+  },
+  {
+    "word": "Sales Strategy",
+    "explain": "Plan to sell products/services."
+  },
+  {
+    "word": "Lead Nurturing",
+    "explain": "Developing relationships with buyers."
+  },
+  {
+    "word": "Sales Funnel",
+    "explain": "Consumer's journey to purchase."
+  },
+  {
+    "word": "CRM",
+    "explain": "Customer Relationship Management."
+  },
+  {
+    "word": "Market Research",
+    "explain": "Gathering information about consumers' needs."
+  },
+  {
+    "word": "Data Analysis",
+    "explain": "Examining, cleaning, transforming, and modeling data."
+  },
+  {
+    "word": "Machine Learning",
+    "explain": "Algorithms that improve automatically through experience."
+  },
+  {
+    "word": "Artificial Intelligence",
+    "explain": "Simulation of human intelligence in machines."
+  },
+  {
+    "word": "Data Mining",
+    "explain": "Process of discovering patterns in large data sets."
+  },
+  {
+    "word": "Big Data",
+    "explain": "Large, complex data sets."
+  },
+  {
+    "word": "Cloud Computing",
+    "explain": "Using remote servers for storing, managing, and processing data."
+  },
+  {
+    "word": "Virtual Reality",
+    "explain": "Simulated experience using computer technology."
+  },
+  {
+    "word": "Augmented Reality",
+    "explain": "Enhancing real-world environment with computer-generated perceptual information."
+  },
+  {
+    "word": "Blockchain",
+    "explain": "Decentralized, distributed ledger technology."
+  },
+  {
+    "word": "Cryptocurrency",
+    "explain": "Digital or virtual currency using cryptography for security."
+  },
+  {
+    "word": "Bitcoin",
+    "explain": "Type of digital currency."
+  },
+  {
+    "word": "Ethereum",
+    "explain": "Blockchain-based software platform."
+  },
+  {
+    "word": "Smart Contract",
+    "explain": "Self-executing contract with terms directly written into code."
+  },
+  {
+    "word": "IoT",
+    "explain": "Internet of Things; interconnection of computing devices embedded in everyday objects."
+  },
+  {
+    "word": "Cybersecurity",
+    "explain": "Protecting systems, networks, and programs from digital attacks."
+  },
+  {
+    "word": "Malware",
+    "explain": "Malicious software intended to damage or disable computers."
+  },
+  {
+    "word": "Phishing",
+    "explain": "Fraudulent attempt to obtain sensitive information."
+  },
+  {
+    "word": "Encryption",
+    "explain": "Converting information or data into a code to prevent unauthorized access."
+  },
+  {
+    "word": "Firewall",
+    "explain": "Network security system that monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "word": "VPN",
+    "explain": "Virtual Private Network; extends a private network across a public network."
+  },
+  {
+    "word": "Data Breach",
+    "explain": "Security incident in which information is accessed without authorization."
+  },
+  {
+    "word": "DDoS Attack",
+    "explain": "Distributed Denial of Service; disrupts normal traffic of a targeted server, service, or network."
+  },
+  {
+    "word": "Ransomware",
+    "explain": "Type of malware that threatens to publish victim's data or perpetually block access to it unless a ransom is paid."
+  },
+  {
+    "word": "Penetration Testing",
+    "explain": "Authorized simulated cyberattack on a computer system to evaluate security."
+  },
+  {
+    "word": "Incident Response",
+    "explain": "Approach to handling and managing the aftermath of a security breach."
+  },
+  {
+    "word": "Risk Assessment",
+    "explain": "Process of identifying and evaluating risks."
+  },
+  {
+    "word": "Compliance",
+    "explain": "Conforming to laws, regulations, standards, and ethical practices."
+  },
+  {
+    "word": "GDPR",
+    "explain": "General Data Protection Regulation; EU law on data protection and privacy."
+  },
+  {
+    "word": "ISO Standards",
+    "explain": "International standards for products, services, and systems."
+  },
+  {
+    "word": "Quality Assurance",
+    "explain": "Ensuring product or service quality."
+  },
+  {
+    "word": "Six Sigma",
+    "explain": "Set of techniques for process improvement."
+  },
+  {
+    "word": "Lean Manufacturing",
+    "explain": "Systematic method for waste minimization."
+  },
+  {
+    "word": "Supply Chain Management",
+    "explain": "Management of the flow of goods and services."
+  },
+  {
+    "word": "Logistics",
+    "explain": "Detailed coordination of complex operations."
+  },
+  {
+    "word": "Inventory Management",
+    "explain": "Supervising non-capitalized assets and stock items."
+  },
+  {
+    "word": "Procurement",
+    "explain": "Process of acquiring goods, services, or works."
+  },
+  {
+    "word": "Manufacturing",
+    "explain": "Production of merchandise using labor, machines, tools, and chemical or biological processing."
+  },
+  {
+    "word": "Production",
+    "explain": "Process of creating goods and services."
+  },
+  {
+    "word": "Operations Management",
+    "explain": "Overseeing, designing, and controlling production processes."
+  },
+  {
+    "word": "Project Management",
+    "explain": "Planning, initiating, executing, controlling, and closing work."
+  },
+  {
+    "word": "Resource Management",
+    "explain": "Efficient and effective deployment of organization's resources."
+  },
+  {
+    "word": "Stakeholder Management",
+    "explain": "Managing relationships with people who have an interest in the project."
+  },
+  {
+    "word": "Scope Management",
+    "explain": "Process of defining what work is required."
+  },
+  {
+    "word": "Schedule Management",
+    "explain": "Planning, executing, and monitoring project timelines."
+  },
+  {
+    "word": "Cost Management",
+    "explain": "Planning and controlling budget."
+  },
+  {
+    "word": "Quality Management",
+    "explain": "Ensuring that a project meets the defined quality standards."
+  },
+  {
+    "word": "Risk Management",
+    "explain": "Process of identifying, assessing, and controlling threats."
+  },
+  {
+    "word": "Issue Management",
+    "explain": "Dealing with problems that arise during project execution."
+  },
+  {
+    "word": "Change Management",
+    "explain": "Approach to transitioning individuals, teams, and organizations."
+  },
+  {
+    "word": "Communication Management",
+    "explain": "Timely and appropriate planning, collection, creation, distribution, storage, retrieval, management, control, monitoring, and ultimate disposition of project information."
+  },
+  {
+    "word": "Procurement Management",
+    "explain": "Processes to purchase or acquire products, services, or results needed from outside the project team."
+  },
+  {
+    "word": "Integration Management",
+    "explain": "Coordination of project elements."
+  },
+  {
+    "word": "Stakeholder Engagement",
+    "explain": "Systematic identification, analysis, planning, and implementation of actions to engage with stakeholders."
+  },
+  {
+    "word": "Human Resource Management",
+    "explain": "Maximizing employee performance."
+  },
+  {
+    "word": "Performance Management",
+    "explain": "Process of creating a work environment in which people can perform to the best of their abilities."
+  },
+  {
+    "word": "Career Development",
+    "explain": "Lifelong process of managing learning, work, leisure, and transitions."
+  },
+  {
+    "word": "Training and Development",
+    "explain": "Educational activities within a company."
+  },
+  {
+    "word": "Organizational Development",
+    "explain": "Study of successful organizational change and performance."
+  },
+  {
+    "word": "Employee Relations",
+    "explain": "Effort by a company to manage relationships between employers and employees."
+  },
+  {
+    "word": "Talent Management",
+    "explain": "Anticipation of required human capital for an organization."
+  },
+  {
+    "word": "Recruitment",
+    "explain": "Process of attracting, selecting, and appointing suitable candidates."
+  },
+  {
+    "word": "Employee Engagement",
+    "explain": "Extent to which employees feel passionate about their jobs."
+  },
+  {
+    "word": "Compensation and Benefits",
+    "explain": "Total rewards given to employees."
+  },
+  {
+    "word": "Labor Law",
+    "explain": "Body of laws concerning labor relations."
+  },
+  {
+    "word": "Workforce Planning",
+    "explain": "Process of analyzing an organization's future workforce needs."
+  },
+  {
+    "word": "Succession Planning",
+    "explain": "Process for identifying and developing internal personnel."
+  },
+  {
+    "word": "Diversity and Inclusion",
+    "explain": "Policies and programs promoting representation and participation of different groups."
+  },
+  {
+    "word": "Employee Wellness",
+    "explain": "Programs to promote health and wellness in the workplace."
+  },
+  {
+    "word": "Industrial Relations",
+    "explain": "Relationship between management and workers."
+  },
+  {
+    "word": "Organizational Culture",
+    "explain": "Values and behaviors that contribute to unique social and psychological environment of an organization."
+  },
+  {
+    "word": "Organizational Structure",
+    "explain": "System used to define hierarchy within an organization."
+  },
+  {
+    "word": "Leadership",
+    "explain": "Ability to guide, direct, or influence people."
+  },
+  {
+    "word": "Management",
+    "explain": "Process of dealing with or controlling things or people."
+  },
+  {
+    "word": "Strategic Planning",
+    "explain": "Organization's process of defining strategy."
+  },
+  {
+    "word": "Business Strategy",
+    "explain": "Plan for successful operation of business."
+  },
+  {
+    "word": "Operational Strategy",
+    "explain": "Planning of business processes."
+  },
+  {
+    "word": "PEST Analysis",
+    "explain": "Tool used to analyze macro-environmental factors."
+  },
+  {
+    "word": "Market Analysis",
+    "explain": "Research on market conditions."
+  },
+  {
+    "word": "Competitive Analysis",
+    "explain": "Strategy to identify major competitors."
+  },
+  {
+    "word": "Business Model",
+    "explain": "Plan for successful operation of business."
+  },
+  {
+    "word": "Business Plan",
+    "explain": "Written document describing nature of business."
+  },
+  {
+    "word": "Marketing Plan",
+    "explain": "Business document outlining marketing strategy."
+  },
+  {
+    "word": "Financial Planning",
+    "explain": "Process of estimating capital required."
+  },
+  {
+    "word": "Budgeting",
+    "explain": "Process of creating a plan to spend money."
+  },
+  {
+    "word": "Forecasting",
+    "explain": "Process of making predictions of future."
+  },
+  {
+    "word": "Accounting",
+    "explain": "Measurement, processing, and communication of financial information."
+  },
+  {
+    "word": "Auditing",
+    "explain": "Examination of financial records."
+  },
+  {
+    "word": "Taxation",
+    "explain": "Levy imposed by government."
+  },
+  {
+    "word": "Financial Reporting",
+    "explain": "Disclosure of financial results."
+  },
+  {
+    "word": "Investment",
+    "explain": "Asset or item acquired with goal of generating income."
+  },
+  {
+    "word": "Stock Market",
+    "explain": "Aggregate of buyers and sellers of stocks."
+  },
+  {
+    "word": "Banking",
+    "explain": "Industry dealing with cash, credit, and other financial transactions."
+  },
+  {
+    "word": "Insurance",
+    "explain": "Means of protection from financial loss."
+  },
+  {
+    "word": "Real Estate",
+    "explain": "Property consisting of land and buildings."
+  },
+  {
+    "word": "E-commerce",
+    "explain": "Buying or selling of goods or services using the internet."
+  },
+  {
+    "word": "Retail",
+    "explain": "Process of selling consumer goods or services."
+  },
+  {
+    "word": "Supply Chain",
+    "explain": "System of organizations, people, activities, information, and resources involved in moving a product or service."
+  },
+  {
+    "word": "Product Management",
+    "explain": "Organizational function guiding every step of product's lifecycle."
+  },
+  {
+    "word": "Quality Control",
+    "explain": "Process to ensure a certain level of quality."
+  },
+  {
+    "word": "Human Resources",
+    "explain": "Department responsible for managing personnel."
+  },
+  {
+    "word": "Sales",
+    "explain": "Activity related to selling goods or services."
+  },
+  {
+    "word": "Customer Service",
+    "explain": "Provision of service to customers."
+  },
+  {
+    "word": "Marketing",
+    "explain": "Business process of creating relationships with customers."
+  },
+  {
+    "word": "Advertising",
+    "explain": "Action of calling public attention to something."
+  },
+  {
+    "word": "Digital Marketing",
+    "explain": "Marketing of products or services using digital technologies."
+  },
+  {
+    "word": "Social Media",
+    "explain": "Interactive technologies that facilitate creation and sharing of information."
+  },
+  {
+    "word": "Content Creation",
+    "explain": "Contribution of information to digital media."
+  },
+  {
+    "word": "Data Science",
+    "explain": "Interdisciplinary field that uses scientific methods to extract knowledge and insights from data."
+  },
+  {
+    "word": "Deep Learning",
+    "explain": "Part of machine learning based on artificial neural networks."
+  },
+  {
+    "word": "Computer Vision",
+    "explain": "Field of computer science working with enabling computers to see, identify, and process images."
+  },
+  {
+    "word": "Natural Language Processing",
+    "explain": "Branch of artificial intelligence concerned with interaction between computers and human language."
+  },
+  {
+    "word": "Robotics",
+    "explain": "Interdisciplinary branch of engineering and science involving design, construction, operation, and use of robots."
+  },
+  {
+    "word": "Smart Contracts",
+    "explain": "Computer protocols intended to digitally facilitate, verify, or enforce negotiation of contract."
+  },
+  {
+    "word": "Game Development",
+    "explain": "Process of developing a video game."
+  },
+  {
+    "word": "3D Modeling",
+    "explain": "Process of developing mathematical representation of any surface of an object in three dimensions via specialized software."
+  }
+]

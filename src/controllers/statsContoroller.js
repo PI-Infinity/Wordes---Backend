@@ -1,7 +1,7 @@
 const User = require("../models/userModel");
 const Word = require("../models/wordModel");
 const catchAsync = require("../utils/catchAsync");
-const WordsList = require("../../wordsList.json");
+const WordsList = require("../../words/wordsList.json");
 
 exports.addWordStat = async (req, res, next) => {
   const userId = req.params.id;
@@ -194,16 +194,17 @@ exports.getPercents = async (req, res, next) => {
         nextPack: "Common Used Adverbs C1",
       },
     };
-
     Object.entries(packThresholds).forEach(
       ([packName, { total, nextPack }]) => {
-        unlockNextPack(packName, total, nextPack);
+        if (!packName.includes("Business")) {
+          unlockNextPack(packName, total, nextPack);
+        }
       }
     );
 
     // Save the user document
     await user.save({ validateBeforeSave: false });
-    console.log(statistics);
+
     res.status(200).json({
       status: "success",
       data: statistics,
@@ -290,12 +291,12 @@ exports.addWord = catchAsync(async (req, res, next) => {
 
   if (wordObj) {
     // Check if the Spanish translation exists and English translation is provided
-    if (wordObj.infos.es) {
-      wordObj.infos = { es: wordObj.infos.es, en: req.body.infos.en };
+    if (wordObj.infos.ka) {
+      wordObj.infos = { ka: wordObj.infos.ka, en: req.body.infos.en };
     }
     // Check if the English translation exists and Spanish translation is provided
     else if (wordObj.infos.en) {
-      wordObj.infos = { en: wordObj.infos.en, es: req.body.infos.es };
+      wordObj.infos = { en: wordObj.infos.en, ka: req.body.infos.ka };
     }
     await wordObj.save();
   } else {

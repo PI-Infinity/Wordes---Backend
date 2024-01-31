@@ -358,18 +358,20 @@ const sendVerificationEmail = async (email, verificationCode) => {
 
 exports.sendEmail = catchAsync(async (req, res, next) => {
   const user = await User.findOne({ email: req.body.email });
-  // Create the verification code
   const code = (Math.random() * (999999 - 100000) + 100000).toFixed(0);
+
+  // Create the verification code
   if (user && user.registerType === "email") {
-    const customError = new AppError(
-      "This email is already in use. Please log in or use a different email.",
-      400
-    );
     // Pass the error to the error handling middleware
-    return next(customError);
-  } else {
-    await sendVerificationEmail(req.body.email, code);
+    return next(
+      new AppError(
+        "This email is already in use. Please log in or use a different email.",
+        401
+      )
+    );
   }
+  await sendVerificationEmail(req.body.email, code);
+
   res.status(200).json({
     status: "success",
     code: code,

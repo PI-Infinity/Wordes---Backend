@@ -4,7 +4,7 @@ const bcrypt = require("bcrypt");
 const catchAsync = require("../utils/catchAsync");
 const AppError = require("../utils/appError");
 const Word = require("../models/wordModel");
-const WordsList = require("../../wordsList.json");
+const WordsList = require("../../words/wordsList.json");
 
 // get users
 exports.getUsers = catchAsync(async (req, res, next) => {
