@@ -22436,10 +22436,10 @@
     "ka": "მაღალი"
   },
   {
-    "en": "To target",
+    "en": "target",
     "es": "apuntar",
     "level": "B2",
-    "type": "verb",
+    "type": "adjective",
     "example": {
       "en": "target market",
       "es": "apuntar al mercado"
@@ -64993,11 +64993,6 @@
     "category": "business"
   },
   {
-    "en": "cut-throat",
-    "ka": "ყელის ამოჭრა",
-    "category": "business"
-  },
-  {
     "en": "date of birth",
     "ka": "დაბადების თარიღი",
     "category": "business"
@@ -65374,7 +65369,7 @@
   },
   {
     "en": "futures",
-    "ka": "ასასწრაფო გარიგება",
+    "ka": "სასწრაფო გარიგება",
     "category": "business"
   },
   {
@@ -66290,16 +66285,6 @@
   {
     "en": "set up",
     "ka": "დაყენება",
-    "category": "business"
-  },
-  {
-    "en": "share certificate",
-    "ka": "ახელობითი მოწმობა აქციაზე",
-    "category": "business"
-  },
-  {
-    "en": "share premium",
-    "ka": "გაზიარებული პრემია",
     "category": "business"
   },
   {

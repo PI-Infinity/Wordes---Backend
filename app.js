@@ -74,7 +74,7 @@ app.post("/", async (req, res) => {
 });
 
 app.get("/version", (req, res) => {
-  res.send("1.0.6");
+  res.send("1.0.7");
 });
 
 // send email from user to support
