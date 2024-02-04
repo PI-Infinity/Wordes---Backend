@@ -113,6 +113,8 @@ const cron = require("node-cron");
 const { sendPushNotifications } = require("./src/utils/pushNotifications");
 const { updateDailyWordCounter } = require("./src/utils/dailyTotalCounter");
 
+const Users = require("./src/models/userModel");
+
 cron.schedule("00 15 * * *", function () {
   const SendNotifs = async () => {
     const usersWithTokens = await Users.find({
