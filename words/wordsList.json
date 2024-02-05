@@ -1226,18 +1226,6 @@
     "ka": "ვაშლი"
   },
   {
-    "en": "pich",
-    "es": "manzana",
-    "level": "A1",
-    "type": "noun",
-    "category": ["daily", "food"],
-    "example": {
-      "en": "eat an apple",
-      "es": "comer una manzana"
-    },
-    "ka": "ატამი"
-  },
-  {
     "en": "strawberry",
     "es": "manzana",
     "level": "A1",
@@ -1250,15 +1238,11 @@
     "ka": "მარწყვი"
   },
   {
-    "en": "pich",
+    "en": "peach",
     "es": "manzana",
     "level": "A1",
     "type": "noun",
     "category": ["daily", "food"],
-    "example": {
-      "en": "eat an apple",
-      "es": "comer una manzana"
-    },
     "ka": "ატამი"
   },
   {
@@ -17922,18 +17906,6 @@
     "category": "business"
   },
   {
-    "en": "proof",
-    "es": "prueba",
-    "level": "B2",
-    "type": "noun",
-    "category": ["evidence"],
-    "example": {
-      "en": "proof of concept",
-      "es": "prueba de concepto"
-    },
-    "ka": "მტკიცებულება"
-  },
-  {
     "en": "proper",
     "es": "adecuado",
     "level": "B1",
@@ -17989,17 +17961,6 @@
       "es": "prueba de concepto"
     },
     "ka": "მტკიცებულება"
-  },
-  {
-    "en": "proper",
-    "es": "adecuado",
-    "level": "B1",
-    "type": "adjective",
-    "example": {
-      "en": "proper manner",
-      "es": "manera adecuada"
-    },
-    "ka": "სათანადო"
   },
   {
     "en": "properly",
@@ -47674,18 +47635,6 @@
     "ka": "სტუდია"
   },
   {
-    "en": "study",
-    "es": "estudio",
-    "level": "A1",
-    "type": "noun",
-    "example": {
-      "en": "study room",
-      "es": "sala de estudio"
-    },
-    "category": ["learning environment"],
-    "ka": "სწავლა"
-  },
-  {
     "en": "style",
     "es": "estilo",
     "level": "A1",
@@ -50965,18 +50914,6 @@
     "example": {
       "en": "cold weather",
       "es": "clima frío"
-    },
-    "ka": "ცივი"
-  },
-  {
-    "en": "cold",
-    "es": "resfriado",
-    "level": "A1",
-    "type": "adjective",
-    "category": ["health"],
-    "example": {
-      "en": "catch cold",
-      "es": "coger resfriado"
     },
     "ka": "ცივი"
   },
@@ -56103,18 +56040,6 @@
     "ka": "მკვლელობა"
   },
   {
-    "en": "musical",
-    "es": "musical",
-    "level": "B1",
-    "type": "noun",
-    "category": ["performance"],
-    "example": {
-      "en": "watch a musical",
-      "es": "ver un musical"
-    },
-    "ka": "მუსიკალური"
-  },
-  {
     "en": "To name",
     "es": "nombrar",
     "level": "A1",
@@ -56208,18 +56133,6 @@
     "example": {
       "en": "musical instrument",
       "es": "instrumento musical"
-    },
-    "ka": "მუსიკალური"
-  },
-  {
-    "en": "musical",
-    "es": "musical",
-    "level": "B1",
-    "type": "noun",
-    "category": ["performance"],
-    "example": {
-      "en": "watch a musical",
-      "es": "ver un musical"
     },
     "ka": "მუსიკალური"
   },
@@ -57829,18 +57742,6 @@
     "example": {
       "en": "public space",
       "es": "espacio público"
-    },
-    "ka": "საჯარო"
-  },
-  {
-    "en": "public",
-    "es": "público",
-    "level": "A2",
-    "type": "adjective",
-    "category": ["people"],
-    "example": {
-      "en": "the general public",
-      "es": "el público en general"
     },
     "ka": "საჯარო"
   },
@@ -59992,27 +59893,6 @@
     }
   },
   {
-    "en": "this",
-    "es": "este",
-    "level": "A1",
-    "type": "determiner, pronoun",
-    "example": {
-      "en": "this house",
-      "es": "esta casa"
-    }
-  },
-  {
-    "en": "this",
-    "es": "esto",
-    "level": "B1",
-    "type": "adverb",
-    "example": {
-      "en": "like this",
-      "es": "así"
-    },
-    "ka": "ეს"
-  },
-  {
     "en": "though",
     "es": "aunque",
     "level": "B1",
@@ -60668,18 +60548,6 @@
     "ka": "კაპიტალისტი"
   },
   {
-    "en": "capitalist",
-    "es": "capitalista",
-    "level": "C1",
-    "type": "noun",
-    "category": ["person"],
-    "example": {
-      "en": "a wealthy capitalist",
-      "es": "un capitalista adinerado"
-    },
-    "ka": "კაპიტალისტი"
-  },
-  {
     "en": "civilian",
     "es": "civil",
     "level": "C1",
@@ -60712,17 +60580,6 @@
       "es": "hecho de hormigón"
     },
     "ka": "ბეტონი"
-  },
-  {
-    "en": "To consent",
-    "es": "consentir",
-    "level": "C1",
-    "type": "verb",
-    "example": {
-      "en": "consent to treatment",
-      "es": "consentir el tratamiento"
-    },
-    "ka": "თანხმობა"
   },
   {
     "en": "acid",
@@ -63387,16 +63244,6 @@
     "example": {
       "en": "this house",
       "es": "esta casa"
-    }
-  },
-  {
-    "en": "this",
-    "es": "este",
-    "level": "A1",
-    "type": "pronoun",
-    "example": {
-      "en": "This is important",
-      "es": "Esto es importante"
     }
   },
   {

@@ -110,6 +110,8 @@ exports.getUserStats = catchAsync(async (req, res, next) => {
 
   const statistics = getTotalCorrectAnswersByPack(user.stats);
 
+  console.log(statistics);
+
   // Unlock packs
   const packThresholds = {
     "Common Used Nouns A1": {
@@ -210,11 +212,18 @@ exports.getUserStats = catchAsync(async (req, res, next) => {
     },
   };
 
-  const stat = Object.keys(statistics).map((key) => {
-    const percent = (statistics[key] / packThresholds[key].total) * 100;
-    const logString = { pack: key, percent: percent };
-    return logString; // Returning the string for each element
-  });
+  const stat = Object.keys(statistics)
+    .map((key) => {
+      let percent;
+      if (packThresholds[key]) {
+        percent = (statistics[key] / packThresholds[key].total) * 100;
+      }
+      if (percent) {
+        const logString = { pack: key, percent: percent };
+        return logString; // Returning the string for each element
+      }
+    })
+    .filter((i) => i);
 
   res.status(200).json({
     status: "success",

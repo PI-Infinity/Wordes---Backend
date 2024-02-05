@@ -51,22 +51,31 @@ const userRoutes = require("./src/routes/userRoutes");
 
 const { SendSimpleEmail } = require("./src/utils/emails");
 
-app.post("/", async (req, res) => {
+app.get("/", async (req, res) => {
   try {
     res.send(`
-      <html>
-        <head>
-          <title>User Names</title>
-        </head>
-        <body>
-          <h1>User Names</h1>
-          <ul>
-            <!-- User names can be listed here -->
-         
-          </ul>
-        </body>
-      </html>
-    `);
+        <html>
+          <head>
+            <title>User Names</title>
+          </head>
+          <body>
+            <h1>Wordes</h1>
+            <ul>
+              <!-- User names can be listed here -->
+            </ul>
+          </body>
+        </html>
+      `);
+  } catch (error) {
+    console.error(error);
+    res.status(500).send("Error processing request");
+  }
+});
+
+const { correctUserWordsBase } = require("./functions/correctUserWordsList");
+app.get("/corrector", async (req, res) => {
+  try {
+    correctUserWordsBase();
   } catch (error) {
     console.error(error);
     res.status(500).send("Error processing request");
