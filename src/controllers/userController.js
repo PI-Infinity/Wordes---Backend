@@ -46,6 +46,7 @@ exports.deleteUnauthUser = catchAsync(async (req, res, next) => {
 });
 // update user
 exports.updateUser = catchAsync(async (req, res, next) => {
+  console.log("this api");
   const userId = req.params.id;
   let machineId = req.query.machineId;
 

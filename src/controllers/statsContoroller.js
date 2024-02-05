@@ -86,8 +86,13 @@ exports.getPercents = async (req, res, next) => {
     };
 
     const unlockNextPack = (currentPack, totalRequired, nextPack) => {
+      console.log("unlock next pack");
+      console.log(currentPack);
+      console.log(totalRequired);
+      console.log(nextPack);
       if (statistics[currentPack] === totalRequired) {
         if (!user.packs.includes(nextPack)) {
+          console.log("push pack");
           user.packs.push(nextPack);
         }
       }
@@ -196,12 +201,14 @@ exports.getPercents = async (req, res, next) => {
     };
     Object.entries(packThresholds).forEach(
       ([packName, { total, nextPack }]) => {
+        console.log("run unlock");
         if (!packName.includes("Business")) {
           unlockNextPack(packName, total, nextPack);
         }
       }
     );
 
+    console.log("user info saved");
     // Save the user document
     await user.save({ validateBeforeSave: false });
 

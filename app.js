@@ -50,26 +50,64 @@ const globalErrorHandler = require("./src/controllers/errorController");
 const userRoutes = require("./src/routes/userRoutes");
 
 const { SendSimpleEmail } = require("./src/utils/emails");
+const list = require("./words/wordsList.json");
 
 app.get("/", async (req, res) => {
-  try {
-    res.send(`
-        <html>
-          <head>
-            <title>User Names</title>
-          </head>
-          <body>
-            <h1>Wordes</h1>
-            <ul>
-              <!-- User names can be listed here -->
-            </ul>
-          </body>
-        </html>
-      `);
-  } catch (error) {
-    console.error(error);
-    res.status(500).send("Error processing request");
-  }
+  // try {
+  //   // Retrieve the user from the database
+  //   const user = await Users.findOne({ email: "tornike.pirtakhia@gmail.com" });
+  //   const l = list.filter((i) => i.type === "adjective" && i.level === "A1");
+  //   if (user) {
+  //     // Modify the stats as needed
+  //     user.stats["Common Used Adjectives A1"] = l.map((it, x) => {
+  //       return {
+  //         ka: it.ka,
+  //         en: it.en,
+  //         total: 4,
+  //       };
+  //     });
+
+  //     // Save the updated user back to the database
+  //     user.markModified("stats");
+  //     await user.save({ validateBeforeSave: false });
+
+  //     // Respond to the request
+  //     res.send(`
+  //         <html>
+  //           <head>
+  //             <title>User Stats Updated</title>
+  //           </head>
+  //           <body>
+  //             <h1>Wordes Updated</h1>
+  //             <ul>
+  //               <!-- User stats updated message -->
+  //               <li>Stats have been updated.</li>
+  //             </ul>
+  //           </body>
+  //         </html>
+  //       `);
+  //   } else {
+  //     // User not found
+  //     res.status(404).send("User not found");
+  //   }
+  // } catch (error) {
+  //   console.error(error);
+  //   res.status(500).send("Error processing request");
+  // }
+  res.send(`
+          <html>
+            <head>
+              <title>User Stats Updated</title>
+            </head>
+            <body>
+              <h1>Wordes Updated</h1>
+              <ul>
+                <!-- User stats updated message -->
+                <li>Stats have been updated.</li>
+              </ul>
+            </body>
+          </html>
+        `);
 });
 
 const { correctUserWordsBase } = require("./functions/correctUserWordsList");
