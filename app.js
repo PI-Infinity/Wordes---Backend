@@ -177,6 +177,7 @@ cron.schedule("00 15 * * *", function () {
   SendNotifs();
 });
 
+// count daily usage in every night
 cron.schedule("59 23 * * *", function () {
   const CountTotal = async () => {
     await updateDailyWordCounter();
@@ -184,11 +185,17 @@ cron.schedule("59 23 * * *", function () {
   CountTotal();
 });
 
+/**
+ * Open ai API configs
+ */
+
 const OpenAI = require("openai");
 
 const openai = new OpenAI({
   apiKey: "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",
 });
+
+// ai bot
 app.post("/ai/assistent", async (req, res) => {
   try {
     const completion = await openai.chat.completions.create({
@@ -212,6 +219,72 @@ app.post("/ai/assistent", async (req, res) => {
     res.status(500).send(`Error processing the image: ${error.message}`);
   }
 });
+
+// ai text to speech
+
+const path = require("path");
+const { Storage } = require("@google-cloud/storage");
+
+const serviceAccount = require("./service-account-file");
+const storage = new Storage({
+  credentials: serviceAccount,
+});
+
+const bucketName = "gs://wordes-ee906.appspot.com";
+
+app.post("/ai/texttospeech", async (req, res) => {
+  console.log(serviceAccount);
+  const voice = req.query.voicesex === "man" ? "alloy" : "nova";
+  const fileName = `${req.body.text}-${voice}.mp3`;
+  const file = storage.bucket(bucketName).file(fileName);
+
+  // Return the URL of the newly created file
+  const options = {
+    root: path.join(__dirname + "/words/voices/"),
+  };
+  const [exists] = await file.exists();
+  if (exists) {
+    // If file exists, generate a signed URL for downloading
+    const [url] = await file.getSignedUrl({
+      action: "read",
+      expires: Date.now() + 15 * 60 * 1000, // 15 minutes from now
+      version: "v4",
+    });
+    return res.json({ message: "File found in storage.", url });
+  } else {
+    const fileName = req.body.text + "-" + req.query.voicesex + ".mp3";
+
+    try {
+      const mp3 = await openai.audio.speech.create({
+        model: "tts-1",
+        voice: req.query.voicesex === "man" ? "alloy" : "nova",
+        input: req.body.text,
+      });
+      // Generate a signed URL for the newly uploaded file
+      const [url] = await file.getSignedUrl({
+        action: "read",
+        expires: Date.now() + 15 * 60 * 1000, // URL expires in 15 minutes
+      });
+
+      const buffer = Buffer.from(await mp3.arrayBuffer());
+
+      // Upload the buffer to GCS
+      await file.save(buffer, {
+        metadata: {
+          contentType: "audio/mpeg",
+        },
+      });
+
+      return res.json({ message: "File generated and uploaded.", url });
+    } catch (error) {
+      console.log("OpenAi API error: ", error);
+    }
+  }
+});
+
+// app.post("/ai/speechtotext", async (req, res) => {
+
+// });
 
 /**
  * error handler

@@ -76,6 +76,7 @@ const userSchema = new mongoose.Schema({
     type: String,
     default: "",
   },
+  voiceSex: { type: String, default: "man" },
   pushNotifications: { type: Boolean, default: true },
   pushNotificationToken: { type: String },
   registerMachineId: { type: String },
