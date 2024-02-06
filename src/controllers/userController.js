@@ -60,7 +60,7 @@ exports.updateUser = catchAsync(async (req, res, next) => {
     }
 
     // If user not found by id, try finding by machineId
-    if (!user && machineId) {
+    if (user === "undefined" && machineId) {
       user = await User.findOneAndUpdate({ name: machineId }, req.body, {
         new: true,
         runValidators: true,
