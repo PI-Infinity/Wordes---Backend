@@ -121,7 +121,7 @@ app.get("/corrector", async (req, res) => {
 });
 
 app.get("/version", (req, res) => {
-  res.send("1.0.8");
+  res.send("1.1.0");
 });
 
 // send email from user to support
