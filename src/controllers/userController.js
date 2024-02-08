@@ -50,6 +50,10 @@ exports.updateUser = catchAsync(async (req, res, next) => {
   const userId = req.params.id;
   let machineId = req.query.machineId;
 
+  console.log(userId);
+  console.log(machineId);
+  console.log(req.body);
+
   try {
     let user;
     if (userId !== "undefined") {
@@ -60,7 +64,7 @@ exports.updateUser = catchAsync(async (req, res, next) => {
     }
 
     // If user not found by id, try finding by machineId
-    if (user === "undefined" && machineId) {
+    if (userId === "undefined" && machineId) {
       user = await User.findOneAndUpdate({ name: machineId }, req.body, {
         new: true,
         runValidators: true,
